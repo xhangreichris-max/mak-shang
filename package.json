@@ -1,0 +1,14 @@
+{
+  "name": "mak-shang-pipeline",
+  "version": "1.0.0",
+  "description": "MAK-SHANG Paints daily IG/FB content engine",
+  "scripts": {
+    "render": "node cap_infographic.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.43.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

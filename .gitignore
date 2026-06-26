@@ -1,0 +1,29 @@
+# Secrets — never commit
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Rendered images — uploaded to GitHub Pages separately, not tracked in git
+generated_images/
+
+# Transient pipeline state — regenerated each run
+trend_candidates.json
+fetch_trends_failed.json
+
+# Legacy scripts (kept locally for reference, not needed in CI)
+*.legacy
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NOTE: content_today.json, archetype-rotation-log.json, trend-topic-log.json,
+# and published/ ARE tracked in git — GitHub Actions reads/writes them between
+# the morning, midday, and evening workflow runs.

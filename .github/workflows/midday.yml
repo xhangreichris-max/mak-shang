@@ -1,0 +1,60 @@
+name: Midday — Publish Slot 2
+
+# 1:00 PM IST = 7:30 AM UTC
+on:
+  schedule:
+    - cron: '30 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  midday-run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      META_USER_ACCESS_TOKEN: ${{ secrets.META_USER_ACCESS_TOKEN }}
+      META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_REPO: 'xhangreichris-max/mak-shang'
+      GITHUB_POSTS_PATH: 'assets/posts'
+      META_IG_USER_ID: '17841421839438768'
+      META_PAGE_ID: '1139870945879021'
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Node dependencies (Puppeteer)
+        run: npm ci
+
+      - name: Install Puppeteer browser
+        run: npx puppeteer browsers install chrome
+
+      - name: Render + upload + publish slot 2
+        run: python tools/run_slot.py 2
+
+      - name: Commit content_today.json
+        run: |
+          git config user.name "MAK-SHANG Bot"
+          git config user.email "actions@github.com"
+          git add content_today.json
+          git diff --staged --quiet || git commit -m "chore: slot 2 published [skip ci]"
+          git pull --rebase origin main
+          git push
