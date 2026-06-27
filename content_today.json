@@ -2,52 +2,77 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Before You Paint",
-    "output_format": "infographic",
-    "source_title": "Can You Paint Indoors During Monsoon? 5 Prep Tips",
-    "source_url": "",
-    "date": "2026-06-26",
-    "caption": "Painting during monsoon in Manipur is not the disaster it sounds like, but you have to do five things first. Wall moisture is the silent killer of any June or July paint job; even a freshly plastered surface can hold enough humidity to blister a topcoat within weeks. At MAK-SHANG we moisture-test every wall before we open a tin. We also stagger coats by 8 to 10 hours during rainy weather, not the 4 hours written on the tin, because the tin was written for a climate that isn't ours. Waterproof primer is not optional here. Ukhrul's monsoon is long and persistent, and a premium emulsion without a sealed base is just expensive wallpaper. The five checks above are what we run through before every rainy-season job. Save this card before the next downpour.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
-    "rendered_png": "generated_images/infographic_20260626_1_before-you-paint.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260626_1_before-you-paint.png",
+    "archetype": "Trend Spotlight",
+    "output_format": "swatch_overlay",
+    "source_title": "Xian tile by El Barco",
+    "source_url": "https://www.dezeen.com/2026/06/26/xian-tile-el-barco-dezeen-showroom/",
+    "date": "2026-06-27",
+    "caption": "Terracotta is having a moment, but to call it a trend feels shortsighted. This ancient, earthy colour family, seen everywhere from Mediterranean villas to historic Chinese architecture, has an enduring quality that feels right at home in Ukhrul. It’s a colour that speaks of the earth, of warmth, and of materials shaped by hand.\n\nUnlike fleeting trends, terracotta tones bring a deep, grounding warmth to a space. In a living room, it creates a welcoming atmosphere, especially when paired with natural light and local materials like cane furniture or handwoven Tangkhul textiles. In a kitchen, it feels both rustic and sophisticated. We find it works best not as a single, flat colour, but as part of a palette that includes bone whites, soft greys, and charcoal accents. It’s a versatile foundation for a home that feels both connected to global design and deeply rooted in place.\n\nPlanning a refresh? Save this post for inspiration.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
+    "image_prompt": "An editorial photograph of a sunlit living room in a modern Ukhrul home. The main accent wall is painted in a rich, matte terracotta colour. Natural light streams in from a large window, highlighting the texture of the wall. The room features a comfortable sofa in a warm cream fabric (#F4F0E8), a handcrafted wooden coffee table, and a pot with a tropical plant. A Tangkhul Naga textile is draped over an armchair. The atmosphere is warm, serene, and uncluttered, with generous negative space. The focus is on the interplay of light, colour, and natural textures.",
+    "overlay_data": {
+      "color_hex": "#C4926A",
+      "color_name": "Earthy Terracotta",
+      "color_ref": "MS-TC-08",
+      "headline": "THE COLOUR WITH ROOTS",
+      "footer_handle": "@makshangpaints"
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260627_1_trend-spotlight.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260627_1_trend-spotlight.png",
     "publish_result": {
-      "instagram": "18046104194578991",
-      "facebook": "122111600349358084"
+      "instagram": null,
+      "facebook": null
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Local Adaptation",
-    "output_format": "before_after",
-    "source_title": "Colour Trends for Indian Interiors 2026",
-    "source_url": "",
-    "date": "2026-06-26",
-    "caption": "The warm neutral wave reshaping European and Japanese interiors has a quieter, equally powerful version closer to home. Putty creams, almond whites, and soft ochre-grounded beiges are not beige in the flat, forgettable sense. They respond to morning light in Ukhrul the way warm stone does, and they sit naturally against the dark teakwood and woven cane that furnish most homes here. The trend translates here not because we copied a Pinterest board, but because the palette was already embedded in how this region builds and decorates. What changes when you apply it intentionally is the quality of stillness in a room. Share this with someone who thinks neutral means playing it safe.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "rendered_png": "generated_images/before_after_20260626_2_local-adaptation.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260626_2_local-adaptation.png",
-    "publish_result": {
-      "instagram": "18013847540864039",
-      "facebook": "122111600421358084"
-    }
+    "published": false,
+    "archetype": "Myth Buster",
+    "output_format": "ai_image",
+    "source_title": "5 Living Room Mistakes You’re Making and How to Fix Them, According to Design Experts",
+    "source_url": "https://www.architecturaldigest.com/story/living-room-mistakes-youre-making-and-how-to-fix-them-according-to-design-experts",
+    "date": "2026-06-27",
+    "caption": "A common design myth we often encounter is the belief that everything in a room must perfectly match. This idea of buying a complete ‘set’ of furniture and decor can lead to a space that feels impersonal, almost like a showroom floor rather than a home. The most soulful and inviting interiors are ones that feel collected over time.\n\nThe secret isn't matching, it's coordinating. A successful room is built on a thoughtfully chosen colour palette, where different shades and tones work in harmony. It's about balancing textures: the roughness of a linen cushion against a smooth, satin-finish wall, or the warmth of aged wood next to cool metal. Your home should tell your story, reflecting your personality through objects you love. The role of a great paint job is to create the perfect canvas for that story, providing a cohesive backdrop that ties all these individual elements together beautifully.\n\nShare this with someone designing their living space.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
+    "image_prompt": "An editorial photograph of a sophisticated living room in Ukhrul, Manipur, that feels collected, not decorated. The walls are a soft, warm grey. The furniture is a mix of styles: a modern linen sofa, a vintage wooden armchair, and a sleek black metal side table (#0A0A0A). A deep red (#E02020) accent appears in a single cushion. A gallery wall features a mix of personal photos and abstract art in different frames. The room is well-lit by warm, indirect light, creating a cosy and personal atmosphere. The overall feel is harmonious but not perfectly matched."
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Comparison",
-    "output_format": "swatch_grid",
-    "source_title": "Paint Finishes Explained: Warm Neutral Spectrum — Asian Paints Royale",
-    "source_url": "",
-    "date": "2026-06-26",
-    "caption": "Warm neutrals are not all the same cream. Pale Ivory sits so close to white it catches light without declaring itself. Ivory adds a golden undertone that reads rich in afternoon sun. Beige Accent brings in enough warmth to anchor a room without the heaviness of deep colour. Beautiful Beige is where the palette starts to feel like a deliberate design choice rather than a default. These four Asian Paints Royale shades are the range we reach for when a client says nothing too bold, just something that feels considered. There's real difference between them in morning light versus evening light in an Ukhrul home. Save this side-by-side before your next colour consultation.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
-    "rendered_png": "generated_images/swatch_grid_20260626_3_comparison.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260626_3_comparison.png",
-    "publish_result": {
-      "instagram": "17860796784648724",
-      "facebook": "122111600679358084"
+    "published": false,
+    "archetype": "Cost & Care Guide",
+    "output_format": "infographic",
+    "source_title": "5 soulful homes of interior designers and architects in Mumbai",
+    "source_url": "https://www.architecturaldigest.in/story/5-soulful-homes-of-interior-designers-and-architects-in-mumbai/",
+    "date": "2026-06-27",
+    "caption": "When we admire the beautiful, soulful homes in design magazines, it's easy to focus on the colours and furniture. But what often goes unnoticed is the foundation of it all: an impeccable finish. A premium paint job is about more than just applying colour; it's an investment in durability and long-term beauty.\n\nSo, what really determines the cost and quality of a finish? A significant portion is surface preparation. This means properly cleaning, repairing cracks, and sanding surfaces to ensure the paint adheres perfectly and lasts for years. The quality of the materials, from primers to the final topcoats, also plays a crucial role. Finally, skilled application by experienced painters ensures an even, flawless result that cheap, rushed jobs can never replicate. A lower upfront cost often means cutting corners on these critical steps, leading to peeling, fading, and the need for a repaint much sooner.\n\nSave this guide for when you're budgeting your next home project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
+    "infographic_data": {
+      "format": "ranked_bars",
+      "title_main": "The True Cost of a",
+      "title_span": "Premium Finish",
+      "subtitle": "What you're really investing in for a paint job that lasts.",
+      "badge": "🎨 PAINT GUIDE",
+      "date_label": "MAK-SHANG 2026",
+      "takeaway_num": "2x",
+      "takeaway_text": "the lifespan compared to a budget paint job.",
+      "source": "Source: MAK-SHANG Paints | @makshangpaints",
+      "bars": [
+        {
+          "label": "Labour & Surface Preparation",
+          "value": "50%",
+          "color": "#E02020"
+        },
+        {
+          "label": "High-Quality Materials (Primer & Paint)",
+          "value": "35%",
+          "color": "#0A0A0A"
+        },
+        {
+          "label": "Tools & Post-Job Cleanup",
+          "value": "15%",
+          "color": "#6E6E6E"
+        }
+      ]
     }
   }
 ]
