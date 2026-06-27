@@ -25,7 +25,8 @@ Exits with code 1 on hard errors (stale date, render failure, upload failure).
 Meta publish failures are warnings, not hard errors — the run still commits state.
 """
 
-import json, os, sys, datetime, time, re
+import json, os, sys, datetime, time, re, ssl
+import urllib.request
 
 PIPELINE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TOOLS_DIR = os.path.join(PIPELINE_DIR, "tools")
@@ -43,6 +44,37 @@ from write_rotation_log import write_rotation_log
 
 CONTENT_TODAY_PATH = os.path.join(PIPELINE_DIR, "content_today.json")
 IMAGES_DIR = os.path.join(PIPELINE_DIR, "generated_images")
+
+_ssl_ctx = ssl.create_default_context()
+_ssl_ctx.check_hostname = False
+_ssl_ctx.verify_mode = ssl.CERT_NONE
+
+
+def _wait_for_url(url, timeout=180, interval=10):
+    """Poll a URL until it returns HTTP 200 or timeout expires.
+
+    GitHub Pages typically takes 60–120 s to deploy after a commit.
+    Meta will reject the post if the image URL isn't live yet.
+    """
+    print(f"  Waiting for GitHub Pages to serve image (up to {timeout}s)...")
+    deadline = time.time() + timeout
+    attempt = 0
+    while time.time() < deadline:
+        attempt += 1
+        try:
+            req = urllib.request.Request(url, method="HEAD")
+            with urllib.request.urlopen(req, context=_ssl_ctx, timeout=10) as r:
+                if r.status == 200:
+                    elapsed = attempt * interval
+                    print(f"  Image live after ~{elapsed}s")
+                    return True
+        except Exception:
+            pass
+        remaining = int(deadline - time.time())
+        print(f"  Not ready yet (attempt {attempt}, ~{remaining}s remaining) ...")
+        time.sleep(interval)
+    print(f"  WARNING: image URL not available after {timeout}s — posting anyway")
+    return False
 
 
 def _load_posts():
@@ -174,8 +206,8 @@ def run_slot(slot_num):
         sys.exit(1)
     post["public_image_url"] = public_url
 
-    # Brief pause for GitHub Pages propagation before posting
-    time.sleep(5)
+    # Poll until GitHub Pages serves the image — Meta will reject it if the CDN hasn't deployed yet
+    _wait_for_url(public_url)
 
     # --- Publish to Instagram ---
     print("\n[instagram]")
@@ -183,8 +215,6 @@ def run_slot(slot_num):
     ig_id = post_to_instagram(public_url, full_caption)
     if not ig_id:
         print(f"WARNING: Instagram publish failed for slot {slot_num}")
-
-    time.sleep(5)
 
     # --- Publish to Facebook ---
     print("\n[facebook]")
