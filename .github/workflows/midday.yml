@@ -1,9 +1,9 @@
 name: Midday — Publish Slot 2
 
-# 1:00 PM IST = 7:30 AM UTC
+# ~1:17 PM IST target = 7:47 AM UTC (odd offset reduces queue contention)
 on:
   schedule:
-    - cron: '30 7 * * *'
+    - cron: '47 7 * * *'
   workflow_dispatch:
 
 jobs:

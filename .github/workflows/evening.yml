@@ -1,9 +1,9 @@
 name: Evening — Publish Slot 3 + Rotation Log
 
-# 7:00 PM IST = 1:30 PM UTC
+# ~7:17 PM IST target = 1:47 PM UTC (odd offset reduces queue contention)
 on:
   schedule:
-    - cron: '30 13 * * *'
+    - cron: '47 13 * * *'
   workflow_dispatch:
 
 jobs:

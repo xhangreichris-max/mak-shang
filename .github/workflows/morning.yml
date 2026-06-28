@@ -1,9 +1,9 @@
 name: Morning — Generate + Publish Slot 1
 
-# 9:00 AM IST = 3:30 AM UTC
+# ~10:17 AM IST target = 4:47 AM UTC (odd offset avoids peak 00-04 UTC congestion window)
 on:
   schedule:
-    - cron: '30 3 * * *'
+    - cron: '47 4 * * *'
   workflow_dispatch:  # manual trigger for testing
 
 jobs:
