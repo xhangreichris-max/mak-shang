@@ -49,6 +49,8 @@ Six archetypes are in rotation. Each day you fill three slots, chosen by the `re
 
 **Output format overview:**
 
+All formats render at **1080×1350 px (4:5 portrait)** — the Meta-preferred feed ratio for maximum reach.
+
 | Format | What it is | Tools involved |
 |---|---|---|
 | `swatch_overlay` | Lifestyle photo with swatch box + headline overlay | `generate_ai_image` → `render_swatch_overlay` |
@@ -193,6 +195,7 @@ This step applies to all posts where `output_format` is `swatch_overlay`, `ai_im
 
 ### All image prompt rules (apply to every format that involves a Gemini image call)
 
+- The target canvas is **4:5 portrait (1080×1350)**. Compose the scene vertically — tall rooms, high ceilings, standing objects, or a subject with deliberate headroom and ground space. Avoid wide-angle or panoramic compositions that feel cropped or awkward at 4:5.
 - Describe an **original scene** — never reference or recreate a specific real photograph.
 - The image prompt must describe a new, original scene inspired only by the *concept or trend* named in the source candidate (e.g. "sage green is trending," "textured accent walls are popular") — never attempt to describe, reconstruct, or closely mirror any specific photograph, room, or image that may have accompanied the source article. If the candidate snippet describes a specific real space, abstract it into a generic original scene instead.
 - The scene is a beautifully painted interior or exterior in Manipur or NE India.

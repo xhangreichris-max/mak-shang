@@ -152,9 +152,26 @@ def _render(post):
         return None
 
 
+def _catch_up_prior_slots(slot_num, today):
+    """Run any prior slots for today that were not published (e.g. due to a hard failure)."""
+    try:
+        posts = _load_posts()
+    except Exception:
+        return  # will fail again in the main run_slot call below
+    for prior in range(1, slot_num):
+        p = next((x for x in posts if x.get("slot") == prior), None)
+        if p and p.get("date") == today and not p.get("published"):
+            print(f"\n[catch-up] Slot {prior} was not published — running it now before slot {slot_num}")
+            run_slot(prior)
+
+
 def run_slot(slot_num):
     today = datetime.date.today().isoformat()
     print(f"\n=== Slot {slot_num} | {today} ===")
+
+    # Before doing anything, heal any prior slots that failed today
+    if slot_num > 1:
+        _catch_up_prior_slots(slot_num, today)
 
     # Load posts
     try:
@@ -222,9 +239,14 @@ def run_slot(slot_num):
     if not fb_id:
         print(f"WARNING: Facebook publish failed for slot {slot_num}")
 
-    # Update post state
+    # Update post state.
+    # If both Meta calls failed, leave published=False so the next workflow's catch-up retries.
+    # If at least one succeeded, mark published=True (partial success is still a publish).
+    meta_ok = bool(ig_id or fb_id)
     post["publish_result"] = {"instagram": ig_id, "facebook": fb_id}
-    post["published"] = True
+    post["published"] = meta_ok
+    if not meta_ok:
+        print(f"WARNING: both Instagram and Facebook failed for slot {slot_num} — will retry at next slot run")
 
     # Persist updated content_today.json
     _save_posts(posts)
