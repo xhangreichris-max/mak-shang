@@ -2,95 +2,97 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Trend Spotlight",
-    "output_format": "swatch_overlay",
-    "source_title": "Xian tile by El Barco",
-    "source_url": "https://www.dezeen.com/2026/06/26/xian-tile-el-barco-dezeen-showroom/",
-    "date": "2026-06-27",
-    "caption": "Terracotta isn't just a color; it's a connection to the earth. We're seeing this timeless warmth return, not as a rustic throwback, but as a sophisticated, grounding element in modern homes. Inspired by the rich, natural pigments found in traditional pottery and textiles right here in Manipur, these shades bring an incredible depth to any room.\n\nThink beyond just a single accent wall. Consider a terracotta-hued satin finish in a study to create a focused, enveloping space. Or use it on kitchen cabinetry for a welcoming, lived-in feel that pairs beautifully with natural wood and stone. The key is balance. When paired with bone-white walls and dark, clean lines, terracotta feels both ancient and completely of the moment. It’s a color that tells a story, making a space feel curated and personal, not just decorated.\n\nReady to bring this earthy elegance home? Save this post for inspiration for your next project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "An editorial style interior photograph of a modern living room in Ukhrul, Manipur. The main feature is a beautifully finished accent wall in a deep, matte terracotta paint. The room is filled with warm, indirect natural light from a large window. Furnishings include a simple cream-colored sofa, dark wood side tables, and handcrafted Tangkhul Naga textile cushions. The composition has generous negative space, feeling calm and considered.",
-    "overlay_data": {
-      "color_hex": "#C47A58",
-      "color_name": "Earthen Terracotta",
-      "color_ref": "MS-ET-02",
-      "headline": "THE SHADE THAT FEELS LIKE HOME",
-      "footer_handle": "@makshangpaints"
+    "archetype": "Before You Paint",
+    "output_format": "infographic",
+    "source_title": "A Gurgaon penthouse where Sarita Handa’s design legacy becomes deeply personal",
+    "source_url": "https://www.architecturaldigest.in/story/a-gurgaon-penthouse-where-sarita-handas-design-legacy-becomes-deeply-personal-studio-lcd-and-sarita-handa-homes/",
+    "date": "2026-06-29",
+    "caption": "Your home is more than just walls; it’s a gallery of your life. The art you collect, the textiles you inherit, the books you love—they all deserve a backdrop that lets them breathe. Inspired by spaces designed to honour personal collections, we believe the most important step happens before a single brushstroke. It’s about intention. A common mistake is to default to a sterile gallery white, but this often feels cold in a home setting. Instead, consider a warm bone or a soft mushroom grey that adds depth without competing with your pieces. The right finish is just as crucial. A matte or eggshell surface will absorb light, reducing glare and keeping the focus on your art, not on shiny reflections. Before you begin, spend a day observing how light moves through the room. A colour that looks perfect in the morning might feel different in the evening. Planning these details is the secret to a considered, personal space. Save this for your next project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "infographic_data": {
+      "format": "hero_number",
+      "title_main": "Walls That Showcase Art",
+      "title_span": "Showcase Art",
+      "subtitle": "Your walls are the canvas for your life's collection. Plan them right.",
+      "badge": "✅ BEFORE YOU PAINT",
+      "date_label": "MAK-SHANG 2026",
+      "hero_number": "5",
+      "hero_label": "checks for collector's walls",
+      "checklist": [
+        "Choose a neutral with depth, not flat white.",
+        "Consider the room's natural light at all hours.",
+        "Test sample paints next to your primary artwork.",
+        "Select a matte finish to minimise distracting glare.",
+        "Plan lighting placement before the final coat."
+      ],
+      "source": "Source: MAK-SHANG Paints | @makshangpaints"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260627_1_trend-spotlight.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260627_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260629_1_before-you-paint.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260629_1_before-you-paint.png",
     "publish_result": {
-      "instagram": "18124149007660915",
-      "facebook": "122111875857358084"
+      "instagram": "17861319606620130",
+      "facebook": "122112618897358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Myth Buster",
+    "published": false,
+    "archetype": "Local Adaptation",
     "output_format": "before_after",
-    "source_title": "5 Living Room Mistakes You’re Making and How to Fix Them, According to Design Experts",
-    "source_url": "https://www.architecturaldigest.com/story/living-room-mistakes-youre-making-and-how-to-fix-them-according-to-design-experts",
-    "date": "2026-06-27",
-    "caption": "One of the most persistent myths in home painting is that dark colors inevitably make a room feel small and cramped. It’s a rule many follow without question, but it often prevents truly memorable spaces from being created. The truth is, a deep, rich color can do the exact opposite.\n\nWhen used thoughtfully, a darker shade like charcoal, deep navy, or forest green can blur the corners of a room, creating an illusion of depth and intimacy. Instead of shrinking the space, it makes it feel more considered and sophisticated. The key is pairing it with the right elements: good lighting (both natural and artificial), lighter-colored furniture to create contrast, and reflective surfaces like mirrors or metallic accents. A dark wall becomes a dramatic backdrop that makes your art, furniture, and textiles stand out. Don't let fear of the dark limit your home's potential.\n\nShare this with someone who is afraid to go bold with their wall color.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "An elegant, well-lit study in a home in Manipur. The walls are painted a sophisticated, deep charcoal grey with a subtle satin finish. Sunlight streams in from a window, highlighting the texture. The room contains a minimalist wooden desk, a comfortable armchair upholstered in a light cream fabric, and shelves with books and a few brass objects. A large, simple mirror hangs on one wall, reflecting the light. The overall mood is cozy, focused, and luxurious, not cramped.",
+    "source_title": "Fabio Fantolino looks to 1960s offices for interior of retro Turin bar",
+    "source_url": "https://www.dezeen.com/2026/06/29/fabio-fantolino-looks-to-1960s-offices-for-interior-of-retro-turin-bar/",
+    "date": "2026-06-29",
+    "caption": "International design trends often feel distant, born in cities like Turin or Milan. But the best ideas can always be translated with a local accent. Take the current revival of 1960s office aesthetics: think clean lines, rich wood panelling, and moody, confident colours. While the original look can be quite masculine and stark, we see its potential for homes in Ukhrul when filtered through a warmer lens. Instead of cold chrome, imagine pairing a deep olive or charcoal wall with the natural texture of locally sourced cane furniture. The sleekness of wood panelling finds a beautiful counterpoint in the soft, intricate patterns of a handwoven Tangkhul shawl used as a throw. This is how a global trend becomes personal. It's not about imitation; it’s about adaptation, creating a space that feels both worldly and distinctly yours. Share this with someone who loves blending design styles.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
+    "image_prompt": "4:5 portrait. An editorial photograph of a contemporary living room in Ukhrul, Manipur, inspired by 1960s office retro aesthetics. The room features a statement wall with rich, dark wood panelling and a deep olive green painted surface. Warm, golden hour light streams in, illuminating handcrafted cane furniture and handwoven Tangkhul textiles on a sofa. A sleek, minimalist brass floor lamp stands in a corner. The overall mood is sophisticated, warm, and rooted in Northeast Indian style, with generous negative space.",
     "before_after_data": {
-      "headline": "Does Dark Paint Really Shrink A Room?",
-      "headline_accent": "Really",
+      "headline": "When 1960s Turin Meets Tangkhul Warmth",
+      "headline_accent": "Warmth",
       "footer_handle": "@makshangpaints",
       "footer_tagline": "MAK-SHANG Paints · Ukhrul"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260627_2_myth-buster.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260627_2_myth-buster.png",
-    "publish_result": {
-      "instagram": "17961592572136306",
-      "facebook": "122111925591358084"
     }
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Cost & Care Guide",
-    "output_format": "infographic",
-    "source_title": "8 wardrobe design ideas that are far from storage",
-    "source_url": "https://www.architecturaldigest.in/story/wardrobe-design-ideas-that-are-far-from-storage/",
-    "date": "2026-06-27",
-    "caption": "Your wardrobe is one of the most-used pieces of furniture in your home. Its finish needs to handle daily use, from scuffs and scratches to fingerprints. Choosing the right one is about more than just looks; it's an investment in longevity and ease of care.\n\nA high-quality PU paint finish, for example, offers excellent durability and a seamless, modern look. It's highly resistant to chipping and moisture, making it a great choice for Ukhrul's climate. Traditional laminates are a cost-effective option known for their toughness, but repairs can be tricky if they get damaged. Veneers provide the timeless beauty of real wood grain but require more delicate handling and periodic polishing to maintain their lustre. Understanding these differences helps you balance your budget, aesthetic, and lifestyle. The best finish is the one that works for you, day in and day out.\n\nSave this guide for when you're planning your next bedroom or storage project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
+    "published": false,
+    "archetype": "Comparison",
+    "output_format": "swatch_grid",
+    "source_title": "Everything to know about bougainvillea, India's most resilient flowering plant",
+    "source_url": "https://www.architecturaldigest.in/story/everything-to-know-about-bougainvillea-indias-most-resilient-flowering-plant/",
+    "date": "2026-06-29",
+    "caption": "Look around Ukhrul, and you'll see it: bougainvillea, thriving against all odds, spilling over walls in a riot of colour. Its resilience and beauty make it a perfect source of inspiration for the home. We often get requests for \"bougainvillea pink,\" but the flower itself holds a whole spectrum of shades, from soft, youthful pinks to deep, almost-purple magentas. This complexity is what makes it such a versatile palette for interiors. A lighter, dustier shade like Asian Paints' Velvet Pink can create a serene and warm atmosphere in a bedroom. A bolder, more saturated fuchsia, like Crocus Petal, makes for a stunning accent wall in a living area or a welcoming front door. It’s a colour family that feels energetic and joyful, deeply connected to our local landscape. When choosing a shade, consider the light in your space and the mood you want to create. Nature rarely gets it wrong. Save this post for colour inspiration.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
     "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Wardrobe Finish",
-      "title_span": "Durability",
-      "subtitle": "Comparing the lifespan and maintenance of common wardrobe finishes.",
-      "badge": "🎨 PAINT GUIDE",
+      "format": "swatch_grid",
+      "title_main": "Bougainvillea Shade Study",
+      "title_span": "Bougainvillea",
+      "subtitle": "Four shades inspired by the resilient, vibrant hues of Ukhrul's favourite vine.",
+      "badge": "🎨 SHADE GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "2x",
-      "takeaway_text": "more moisture resistance with PU paint over veneer.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
+      "source": "Source: Asian Paints Royale | @makshangpaints",
+      "swatches": [
         {
-          "label": "PU (Polyurethane) Paint",
-          "value": "10-15 years",
-          "color": "#E02020"
+          "color_hex": "#E68FAC",
+          "label": "Bonny Pink-N",
+          "sublabel": "9442 · Royale"
         },
         {
-          "label": "High-Pressure Laminate",
-          "value": "8-12 years",
-          "color": "#0A0A0A"
+          "color_hex": "#D17A8C",
+          "label": "Velvet Pink",
+          "sublabel": "8118 · Royale"
         },
         {
-          "label": "Wood Veneer with Polish",
-          "value": "7-10 years",
-          "color": "#6E6E6E"
+          "color_hex": "#C75B8D",
+          "label": "Crocus Petal",
+          "sublabel": "9593 · Royale"
+        },
+        {
+          "color_hex": "#B3677B",
+          "label": "Vintage Rose",
+          "sublabel": "8128 · Royale"
         }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260627_3_cost-and-care-guide.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260627_3_cost-and-care-guide.png",
-    "publish_result": {
-      "instagram": "17951898560998601",
-      "facebook": "122112030351358084"
+      ],
+      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
     }
   }
 ]
