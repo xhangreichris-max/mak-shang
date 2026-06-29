@@ -36,7 +36,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Local Adaptation",
     "output_format": "before_after",
     "source_title": "Fabio Fantolino looks to 1960s offices for interior of retro Turin bar",
@@ -50,6 +50,12 @@
       "headline_accent": "Warmth",
       "footer_handle": "@makshangpaints",
       "footer_tagline": "MAK-SHANG Paints · Ukhrul"
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260629_2_local-adaptation.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260629_2_local-adaptation.png",
+    "publish_result": {
+      "instagram": "18168249130434639",
+      "facebook": "122112662649358084"
     }
   },
   {
