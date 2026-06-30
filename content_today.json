@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "12 architects and interior designers in Mumbai you must know from the AD PRO Directory",
@@ -34,7 +34,13 @@
     "date": "2026-06-30",
     "caption": "There's a common myth in home design that luxury has to be loud. We often see it associated with shiny surfaces, ornate details, and bold, attention-grabbing features. But true luxury, especially in a home, often speaks in a much quieter voice. It’s found in the perfection of the finish, the quality of the materials, and the feeling of calm a space provides. This is the essence of 'quiet luxury'.\n\nInstead of intricate patterns, think of a flawlessly smooth wall in a complex, muted neutral. Instead of high-gloss shine, consider the soft, light-absorbing depth of a premium matte paint. This approach values craftsmanship over ornamentation. It’s a design philosophy that is deeply compatible with the Tangkhul appreciation for natural materials and understated elegance. The most beautiful rooms don’t shout; they invite you in with their quiet confidence and perfect execution.\n\nShare this with someone who appreciates the beauty of simplicity.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "An elegant living room in a modern Manipuri home, embodying quiet luxury. The walls are painted in a sophisticated, warm off-white with a flawless matte finish. Sunlight from a large window softly illuminates the space, highlighting the subtle texture of the paint. The furniture is minimal but well-crafted, featuring natural wood and linen. A single, large piece of contemporary art hangs on the main wall. The focus is on the quality of light, the perfection of the finish, and the peaceful, uncluttered atmosphere. The overall feeling is calm and considered, not flashy. 4:5 portrait composition."
+    "image_prompt": "An elegant living room in a modern Manipuri home, embodying quiet luxury. The walls are painted in a sophisticated, warm off-white with a flawless matte finish. Sunlight from a large window softly illuminates the space, highlighting the subtle texture of the paint. The furniture is minimal but well-crafted, featuring natural wood and linen. A single, large piece of contemporary art hangs on the main wall. The focus is on the quality of light, the perfection of the finish, and the peaceful, uncluttered atmosphere. The overall feeling is calm and considered, not flashy. 4:5 portrait composition.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260630_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260630_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "18162820975454321",
+      "facebook": "122112968127358084"
+    }
   },
   {
     "slot": 3,
