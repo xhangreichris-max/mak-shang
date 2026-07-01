@@ -25,7 +25,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Before You Paint",
     "output_format": "infographic",
     "source_title": "7 flooring designs that quietly run the whole room",
@@ -50,6 +50,12 @@
         "Observe in different lighting conditions."
       ],
       "source": "Source: MAK-SHANG Paints | @makshangpaints"
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260701_2_before-you-paint.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260701_2_before-you-paint.png",
+    "publish_result": {
+      "instagram": "18003985913762676",
+      "facebook": "122113328637358084"
     }
   },
   {
