@@ -2,89 +2,102 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Trend Spotlight",
-    "output_format": "swatch_overlay",
-    "source_title": "50 Bookshelf Ideas That Turn Any Room Into a Bona Fide Library",
-    "source_url": "https://www.architecturaldigest.com/gallery/built-in-bookshelves-to-help-you-enter-your-reading-era",
-    "date": "2026-06-30",
-    "caption": "The idea of a home library is shifting from grand, formal rooms to personal, quiet corners carved out of the spaces we already have. We are seeing a wonderful trend toward creating dedicated reading nooks, where bookshelves become the main architectural feature. Painting them in a deep, grounding colour like a charcoal slate or a rich forest green turns a simple storage unit into a statement. This approach creates depth and a sense of calm, making the books and objects on the shelves stand out.\n\nIn Ukhrul, this works beautifully by pairing a dark, modern finish on the shelves with the warmth of natural light and local textiles. It’s not about needing a huge space; it’s about intentionally designing a small part of your home for quiet and focus. A well-finished bookshelf corner can anchor a living room or transform an unused hallway.\n\nSave this idea for when you're ready to create your own quiet corner.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "Editorial photograph of a cozy reading nook in a Ukhrul home. A tall, built-in bookshelf, painted a deep charcoal grey, is filled with books and a few handcrafted Tangkhul Naga pottery pieces. Warm, natural light streams in from a side window, illuminating the texture of the wall, which is painted in a soft, bone-white colour. A comfortable armchair with a handwoven Naga textile throw is placed nearby. The atmosphere is quiet and inviting, with a focus on textures and calm. 4:5 portrait aspect ratio.",
-    "overlay_data": {
-      "color_hex": "#343434",
-      "color_name": "Charcoal Slate",
-      "color_ref": "MS-GR-18",
-      "headline": "YOUR LIBRARY AT HOME",
-      "footer_handle": "@makshangpaints"
+    "archetype": "Local Adaptation",
+    "output_format": "before_after",
+    "source_title": "Eight-room Tokyo hotel designed to feel like staying \"at the home of a tasteful friend\"",
+    "source_url": "https://www.dezeen.com/2026/07/01/tokyo-tomi-hotel-ginza-keiji-ashizawa-design/",
+    "date": "2026-07-01",
+    "caption": "A recent design story on a Tokyo hotel caught our eye. The concept was not luxury, but the feeling of staying \"at the home of a tasteful friend.\" This idea translates beautifully to homes in Ukhrul. It’s less about specific trends and more about creating a considered, personal atmosphere. This means moving beyond just a single feature wall and thinking about how colour, texture, and light work together across the entire space.\n\nIn Manipur, this approach means embracing our natural light and pairing warm, bone-coloured walls with the textures of local cane, bamboo, and handwoven textiles. Instead of loud colours, the focus is on a quiet, layered palette that feels both serene and deeply personal. It’s about creating a backdrop for life, a space that feels collected and calm, not just decorated. A well-finished space should feel like a natural extension of its owner and its environment.\n\nSave this post if you're looking for inspiration that feels both international and rooted in home.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
+    "image_prompt": "Editorial interior photograph of a serene living room in a modern Ukhrul home, 4:5 portrait. The room is painted in a warm, bone-white (#F4F0E8) satin finish. Golden hour light streams through a large window, illuminating dust motes. The furniture is minimal: a low wooden coffee table with a single ceramic vase, a comfortable sofa with handwoven Tangkhul Naga textile throws. A potted fiddle-leaf fig plant stands in a corner. The overall mood is calm, considered, and deeply peaceful, with generous negative space.",
+    "before_after_data": {
+      "headline": "From Blank Space to *Warm Welcome*",
+      "headline_accent": "Warm Welcome",
+      "footer_handle": "@makshangpaints",
+      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260630_1_trend-spotlight.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260630_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260701_1_local-adaptation.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260701_1_local-adaptation.png",
     "publish_result": {
-      "instagram": "18042213716601253",
-      "facebook": "122112932139358084"
+      "instagram": "18053933981602660",
+      "facebook": "122113296291358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Myth Buster",
-    "output_format": "ai_image",
-    "source_title": "12 architects and interior designers in Mumbai you must know from the AD PRO Directory",
-    "source_url": "https://www.architecturaldigest.in/story/architects-and-interior-designers-in-mumbai-you-must-know-from-the-ad-pro-directory/",
-    "date": "2026-06-30",
-    "caption": "There's a common myth in home design that luxury has to be loud. We often see it associated with shiny surfaces, ornate details, and bold, attention-grabbing features. But true luxury, especially in a home, often speaks in a much quieter voice. It’s found in the perfection of the finish, the quality of the materials, and the feeling of calm a space provides. This is the essence of 'quiet luxury'.\n\nInstead of intricate patterns, think of a flawlessly smooth wall in a complex, muted neutral. Instead of high-gloss shine, consider the soft, light-absorbing depth of a premium matte paint. This approach values craftsmanship over ornamentation. It’s a design philosophy that is deeply compatible with the Tangkhul appreciation for natural materials and understated elegance. The most beautiful rooms don’t shout; they invite you in with their quiet confidence and perfect execution.\n\nShare this with someone who appreciates the beauty of simplicity.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "An elegant living room in a modern Manipuri home, embodying quiet luxury. The walls are painted in a sophisticated, warm off-white with a flawless matte finish. Sunlight from a large window softly illuminates the space, highlighting the subtle texture of the paint. The furniture is minimal but well-crafted, featuring natural wood and linen. A single, large piece of contemporary art hangs on the main wall. The focus is on the quality of light, the perfection of the finish, and the peaceful, uncluttered atmosphere. The overall feeling is calm and considered, not flashy. 4:5 portrait composition.",
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260630_2_myth-buster.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260630_2_myth-buster.png",
-    "publish_result": {
-      "instagram": "18162820975454321",
-      "facebook": "122112968127358084"
+    "published": false,
+    "archetype": "Before You Paint",
+    "output_format": "infographic",
+    "source_title": "7 flooring designs that quietly run the whole room",
+    "source_url": "https://www.architecturaldigest.in/story/flooring-designs-that-quietly-run-the-whole-room/",
+    "date": "2026-07-01",
+    "caption": "Before you choose a wall colour, look down. Your flooring is the fifth wall in your room, and it sets the foundation for your entire colour scheme. The right wall paint doesn't just match the floor; it complements its tone, material, and texture. Ignoring this relationship is one of the most common missteps we see. A cool grey paint might clash with warm wood floors, while a brilliant white can make a polished concrete floor feel sterile instead of sophisticated.\n\nTo get it right, take samples and view them next to your flooring in natural daylight, midday, and evening artificial light. Notice the undertones. Does your wood have red, yellow, or ashen notes? Does your tile have a warm or cool base? Answering these questions first ensures your final wall colour feels intentional and harmonious, creating a cohesive look that anchors the entire room.\n\nShare this with anyone starting a new paint project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "infographic_data": {
+      "format": "hero_number",
+      "title_main": "Before You Pick a",
+      "title_span": "Wall Colour",
+      "subtitle": "Your floor is the foundation. Don't choose your paint in isolation.",
+      "badge": "✅ BEFORE YOU PAINT",
+      "date_label": "MAK-SHANG 2026",
+      "hero_number": "5",
+      "hero_label": "floor factors to check",
+      "checklist": [
+        "Note the floor's dominant colour.",
+        "Identify its warm or cool undertones.",
+        "Consider the material's texture.",
+        "Test paint swatches directly against it.",
+        "Observe in different lighting conditions."
+      ],
+      "source": "Source: MAK-SHANG Paints | @makshangpaints"
     }
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Cost & Care Guide",
-    "output_format": "infographic",
-    "source_title": "Kitchens by Cabbonet",
-    "source_url": "https://www.dezeen.com/2026/06/29/kitchens-cabbonet-dezeen-showroom/",
-    "date": "2026-06-30",
-    "caption": "Choosing the right finish for your kitchen cabinets is about more than just colour. It's a decision that impacts durability, maintenance, and the long-term look of your space. In a busy family kitchen, surfaces need to withstand heat, moisture, and daily wear. Let's compare three of the most common choices in modern Indian homes.\n\nPU, or polyurethane paint, offers a seamless, high-end look with excellent durability. It's highly resistant to scratches and can be repaired if damaged, giving it a long lifespan. Acrylic finishes provide the highest level of gloss and a sleek, modern appearance, but they can be more expensive and prone to showing fingerprints. Laminates are a versatile and budget-friendly option, available in countless textures and colours, offering good resistance to wear and tear.\n\nUnderstanding these differences helps you invest wisely in the heart of your home. It’s not just about what looks good today, but what will last for years to come.\n\nSave this guide before you plan your next kitchen renovation.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
+    "published": false,
+    "archetype": "Comparison",
+    "output_format": "swatch_grid",
+    "source_title": "6 beautiful homes that make a strong case for checks",
+    "source_url": "https://www.architecturaldigest.in/story/6-beautiful-homes-that-make-a-strong-case-for-checks/",
+    "date": "2026-07-01",
+    "caption": "A painted check or plaid pattern can bring structure and personality to a room, but its success depends entirely on the colour palette. It's a choice between bold graphic statement and subtle architectural texture. A high-contrast monochrome scheme, using black, grey, and bone white, creates a sharp, modern look that works well in entryways or studies. It’s confident and defined.\n\nOn the other hand, a tonal palette using warm, earthy colours creates a completely different mood. Think of shades like cinnamon, deep walnut, and soft cream. This approach feels more organic and gentle, reminiscent of natural textiles. It adds pattern and interest without overwhelming the space, making it perfect for a cozy bedroom or a reading nook. The same pattern, interpreted through two different palettes, results in two distinct styles. One is crisp and graphic; the other is warm and textured.\n\nSave this post for when you're considering a feature wall with a difference.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
     "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Kitchen Cabinet",
-      "title_span": "Durability",
-      "subtitle": "How India's most popular cabinet finishes stand up to daily use.",
-      "badge": "🎨 PAINT GUIDE",
+      "format": "swatch_grid",
+      "title_main": "Check Pattern Palettes:",
+      "title_span": "Two Moods",
+      "subtitle": "The same pattern feels different depending on the colour story.",
+      "badge": "🎨 SHADE GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "2x",
-      "takeaway_text": "more scratch resistant: PU paint vs. standard laminates.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
+      "source": "Source: Asian Paints Royale | @makshangpaints",
+      "swatches": [
         {
-          "label": "PU (Polyurethane) Finish",
-          "value": "10-15 years",
-          "color": "#E02020"
+          "color_hex": "#0A0A0A",
+          "label": "Black",
+          "sublabel": "0212 · Royale"
         },
         {
-          "label": "High-Gloss Acrylic",
-          "value": "8-12 years",
-          "color": "#0A0A0A"
+          "color_hex": "#6E6E6E",
+          "label": "Grey Buck",
+          "sublabel": "8281 · Royale"
         },
         {
-          "label": "Standard Laminate",
-          "value": "7-10 years",
-          "color": "#6E6E6E"
+          "color_hex": "#F4F0E8",
+          "label": "Cream Pie",
+          "sublabel": "L154 · Royale"
+        },
+        {
+          "color_hex": "#b07c64",
+          "label": "Cinnamon",
+          "sublabel": "L113 · Royale"
+        },
+        {
+          "color_hex": "#664F42",
+          "label": "Vintage Walnut",
+          "sublabel": "8774 · Royale"
         }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260630_3_cost-and-care-guide.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260630_3_cost-and-care-guide.png",
-    "publish_result": {
-      "instagram": "18023310608814662",
-      "facebook": "122113100271358084"
+      ],
+      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
     }
   }
 ]
