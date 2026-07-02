@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Trend Spotlight",
     "output_format": "swatch_overlay",
     "source_title": "Gustaf Westman creates colourful room settings for Selfridges pop-up store",
@@ -9,24 +7,14 @@
     "date": "2026-07-02",
     "caption": "Scandinavian design is often seen as minimalist and neutral, but a new wave is bringing playful, unexpected colour back into focus. We're seeing designers like Gustaf Westman use saturated pastels to create spaces that feel both joyful and sophisticated. This is not about painting a single feature wall; it's about committing to a colour story that flows through a room.\n\nImagine a soft, dusty lilac on your living room walls. It pairs beautifully with the natural textures common in Tangkhul homes: cane furniture, dark wood accents, and handwoven textiles. The colour is warm enough for our climate, reflecting the soft light of the Ukhrul hills without feeling cold. It's a contemporary look that respects traditional materials, creating a space that feels personal and considered. Instead of defaulting to cream or white, a gentle colour like this can become the new neutral.\n\nReady to explore a more colourful palette? Save this post for inspiration.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "An editorial style interior photograph of a living room in Ukhrul, Manipur. The walls are painted a soft, dusty lilac. The room is filled with warm, natural afternoon light. The composition has generous negative space. Furnishings include a modern dark wood armchair and handwoven Tangkhul Naga textile draped over it. A simple potted plant sits on a side table. The mood is serene, warm, and sophisticated. 4:5 portrait aspect ratio.",
-    "overlay_data": {
-      "color_hex": "#C8A2C8",
-      "color_name": "Dusty Lilac",
-      "color_ref": "MS-PL-18",
-      "headline": "THE NEW SCANDI PASTELS",
-      "footer_handle": "@makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260702_1_trend-spotlight.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260702_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260702_1_trend-spotlight.png",
     "publish_result": {
       "instagram": "18148658353503160",
       "facebook": "122113568709358084"
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "This Hidden London Home Lives Behind a Garden Wall – And It’s Pure Genius",
@@ -34,17 +22,14 @@
     "date": "2026-07-02",
     "caption": "There's a common belief that dark exterior paints make a home feel small, unwelcoming, or absorb too much heat. This is a myth we need to address, especially in a place with as much natural beauty as Ukhrul. A dark exterior doesn't shrink a house; it can actually make it recede into the landscape, creating a sense of quiet sophistication and harmony with nature.\n\nThink of shades like deep charcoal, forest green, or a rich earthy brown. When paired with warm wooden window frames and lush greenery, these colours create a striking, modern look. They act as a neutral backdrop that allows the architectural details and surrounding landscape to stand out. And with modern exterior emulsions designed for the Indian climate, heat absorption is much less of a concern than it used to be. A dark facade can be a bold, beautiful choice that makes your home feel like a private sanctuary.\n\nShare this with someone who thinks bold exteriors are off-limits.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "Exterior shot of a modern, minimalist home in the green hills of Ukhrul, Manipur. The facade is finished in a textured, deep charcoal-grey paint. The architecture features clean lines and large windows with warm teak wood frames. The house is surrounded by lush tropical plants and a well-tended garden. The lighting is soft morning light, creating a peaceful and sophisticated atmosphere. The composition is vertical, emphasizing the connection between the house and its environment. 4:5 portrait ratio.",
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260702_2_myth-buster.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260702_2_myth-buster.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260702_2_myth-buster.png",
     "publish_result": {
       "instagram": "17895465597519931",
       "facebook": "122113602861358084"
     }
   },
   {
-    "slot": 3,
-    "published": false,
     "archetype": "Cost & Care Guide",
     "output_format": "infographic",
     "source_title": "Best Decor and Furniture Sales This Week (2026): AD Editor Picks",
@@ -52,36 +37,8 @@
     "date": "2026-07-02",
     "caption": "When planning a painting project, it's tempting to either cut corners everywhere or overspend on premium paints for every surface. The smartest approach is strategic. Knowing where to invest in higher-performance paint and where a standard finish will suffice saves money without compromising on durability or the final look. The key is to match the paint's properties to the room's function.\n\nHigh-traffic, high-moisture areas like kitchens, bathrooms, and children's rooms demand a more durable, washable paint like a premium satin or semi-gloss emulsion. These finishes resist stains and are easy to clean, ensuring they look fresh for years. For lower-traffic areas like guest bedrooms or formal living rooms, a standard matte emulsion is often perfectly suitable and more cost-effective. It provides a beautiful, soft finish where scuffs and stains are less of a concern. This targeted approach gives you the best of both worlds: longevity where it matters and savings where it's sensible.\n\nSave this guide for your next painting budget discussion.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
-    "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Where Paint Durability",
-      "title_span": "Matters Most",
-      "subtitle": "A strategic guide to choosing the right finish for every room.",
-      "badge": "🎨 PAINT GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "2x",
-      "takeaway_text": "the lifespan in high-wear areas with the right paint.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
-        {
-          "label": "High-Moisture: Kitchens & Baths",
-          "value": "95%",
-          "color": "#E02020"
-        },
-        {
-          "label": "High-Traffic: Hallways & Kids' Rooms",
-          "value": "80%",
-          "color": "#0A0A0A"
-        },
-        {
-          "label": "Low-Traffic: Guest Rooms & Ceilings",
-          "value": "40%",
-          "color": "#6E6E6E"
-        }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260702_3_cost-and-care-guide.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260702_3_cost-and-care-guide.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260702_3_cost-and-care-guide.png",
     "publish_result": {
       "instagram": null,
       "facebook": null
