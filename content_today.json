@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "This Hidden London Home Lives Behind a Garden Wall – And It’s Pure Genius",
@@ -34,7 +34,13 @@
     "date": "2026-07-02",
     "caption": "There's a common belief that dark exterior paints make a home feel small, unwelcoming, or absorb too much heat. This is a myth we need to address, especially in a place with as much natural beauty as Ukhrul. A dark exterior doesn't shrink a house; it can actually make it recede into the landscape, creating a sense of quiet sophistication and harmony with nature.\n\nThink of shades like deep charcoal, forest green, or a rich earthy brown. When paired with warm wooden window frames and lush greenery, these colours create a striking, modern look. They act as a neutral backdrop that allows the architectural details and surrounding landscape to stand out. And with modern exterior emulsions designed for the Indian climate, heat absorption is much less of a concern than it used to be. A dark facade can be a bold, beautiful choice that makes your home feel like a private sanctuary.\n\nShare this with someone who thinks bold exteriors are off-limits.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "Exterior shot of a modern, minimalist home in the green hills of Ukhrul, Manipur. The facade is finished in a textured, deep charcoal-grey paint. The architecture features clean lines and large windows with warm teak wood frames. The house is surrounded by lush tropical plants and a well-tended garden. The lighting is soft morning light, creating a peaceful and sophisticated atmosphere. The composition is vertical, emphasizing the connection between the house and its environment. 4:5 portrait ratio."
+    "image_prompt": "Exterior shot of a modern, minimalist home in the green hills of Ukhrul, Manipur. The facade is finished in a textured, deep charcoal-grey paint. The architecture features clean lines and large windows with warm teak wood frames. The house is surrounded by lush tropical plants and a well-tended garden. The lighting is soft morning light, creating a peaceful and sophisticated atmosphere. The composition is vertical, emphasizing the connection between the house and its environment. 4:5 portrait ratio.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260702_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260702_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "17895465597519931",
+      "facebook": "122113602861358084"
+    }
   },
   {
     "slot": 3,
