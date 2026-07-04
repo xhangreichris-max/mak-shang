@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "12 Best Modular Sofas, Tested And Reviewed by AD's Editors 2026",
@@ -34,7 +34,13 @@
     "date": "2026-07-04",
     "caption": "Myth: A room needs one uniform wall colour to feel cohesive and uncluttered.\n\nThis is an outdated rule from a time before open-plan living became common. Today’s homes are more flexible, and your walls should be too. Just as adaptable furniture like modular sofas can create distinct zones for different activities, so can your paint. This is 'colour zoning', a technique where you use different shades, or even finishes, to define spaces within a larger room without building walls.\n\nA deep, warm colour can create an intimate dining nook. A calm, neutral shade can designate a workspace. A satin finish can subtly separate a reading corner from a living area with a matte finish. It's a painter’s approach to architecture, adding depth, function, and personality to your home. It’s about making your space work intelligently for how you actually live.\n\nSave this idea for your next open-plan project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "An open-plan living and dining area in a contemporary Tangkhul Naga home. The wall behind the dining area is painted a deep, earthy terracotta (#C4926A), defining it as a warm, intimate zone. The main living area wall is a soft bone white (#F4F0E8). The transition is clean and deliberate. The space features simple wooden furniture, a large window with natural light, and a few pieces of local pottery. The overall feel is modern, warm, and intelligently designed, not cluttered. Vertical 4:5 portrait composition."
+    "image_prompt": "An open-plan living and dining area in a contemporary Tangkhul Naga home. The wall behind the dining area is painted a deep, earthy terracotta (#C4926A), defining it as a warm, intimate zone. The main living area wall is a soft bone white (#F4F0E8). The transition is clean and deliberate. The space features simple wooden furniture, a large window with natural light, and a few pieces of local pottery. The overall feel is modern, warm, and intelligently designed, not cluttered. Vertical 4:5 portrait composition.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260704_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260704_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "18109072946284026",
+      "facebook": "122114264517358084"
+    }
   },
   {
     "slot": 3,
