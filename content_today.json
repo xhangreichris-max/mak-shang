@@ -2,109 +2,77 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Local Adaptation",
-    "output_format": "before_after",
-    "source_title": "This Aamby Valley home is a masterclass in Indian stones",
-    "source_url": "https://www.architecturaldigest.in/story/this-aamby-valley-home-is-a-masterclass-in-indian-stones/",
-    "date": "2026-07-03",
-    "caption": "Natural stone brings unmatched character to a home, from the grey slates of the Western Ghats to the unique stones found here in the hills of Manipur. The key is choosing a wall finish that complements, not competes with, this raw beauty. Often, the instinct is to go with a stark white, but this can feel cold against the stone's texture.\n\nWe recommend leaning into warm, earthy neutrals. Think of bone white, a soft greige, or even a deep, muted olive. These colours have an organic quality that respects the stone's story. A matte or eggshell finish works best, as a high gloss can create distracting reflections that pull focus from the stone's natural surface. The goal is a quiet partnership between the wall and the stone, creating a space that feels grounded, calm, and deeply connected to its surroundings. Considering local stone for your space? It's a timeless choice.\n\nFor a consultation in Ukhrul, visit the link in our bio. On Facebook, you can message us directly. Save this post for inspiration on your next project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "image_prompt": "A living room in Ukhrul, Manipur, with a feature wall of local dark grey slate stone. The other walls are painted a warm, bone-white colour (#F4F0E8) in a soft matte finish. The room is filled with warm, natural afternoon light filtering through a large window. Furnishings include a cane sofa with handwoven Tangkhul Naga textile cushions in red and black patterns. A large clay pot sits in a corner. The overall feel is serene, sophisticated, and deeply rooted in North-East Indian aesthetics. 4:5 portrait aspect ratio, editorial photo style.",
-    "before_after_data": {
-      "headline": "Stone Walls, Meet Warmth",
-      "headline_accent": "Warmth",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
+    "archetype": "Trend Spotlight",
+    "output_format": "swatch_overlay",
+    "source_title": "The Satyajit Ray you've never seen: DAG Delhi unveils 125 rare colour photos",
+    "source_url": "https://www.architecturaldigest.in/story/the-satyajit-ray-youve-never-seen-dag-delhi-unveils-125-rare-colour-photos/",
+    "date": "2026-07-04",
+    "caption": "The most sophisticated interiors are moving beyond a single, declarative accent wall. Instead, designers are embracing entire cinematic palettes, where multiple tones work together to tell a story and create a specific mood. Inspiration can come from anywhere, including the rich, nuanced colour grading found in the films of masters like Satyajit Ray. It’s about building atmosphere through colour relationships, not just impact.\n\nThis approach considers how light interacts with different shades throughout the day. A deep teal might feel contemplative in the morning, while a warm cream balances it with a gentle glow in the afternoon. At MAK-SHANG, we help you compose a palette that reflects your story and works harmoniously within your space, creating depth and character that a single colour cannot achieve on its own. It's painting as storytelling.\n\nSave this for your color palette inspiration.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
+    "image_prompt": "A quiet, beautifully lit living room in a modern Ukhrul home. The color palette is subtle and atmospheric, inspired by vintage film: a deep teal-green on an accent wall, complemented by warm bone-white walls and dark wood furniture. Natural light streams through a window, highlighting handwoven Tangkhul textiles on a chair. The mood is contemplative and rich, not stark. Editorial style, 4:5 portrait composition.",
+    "overlay_data": {
+      "color_hex": "#2E4A48",
+      "color_name": "Cinematic Teal",
+      "color_ref": "MS-CT-01",
+      "headline": "BEYOND THE ACCENT WALL",
+      "footer_handle": "@makshangpaints"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260703_1_local-adaptation.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260703_1_local-adaptation.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260704_1_trend-spotlight.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260704_1_trend-spotlight.png",
     "publish_result": {
-      "instagram": "18141135007541036",
-      "facebook": null
+      "instagram": "17925022296143771",
+      "facebook": "122114206935358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Comparison",
-    "output_format": "swatch_grid",
-    "source_title": "5 brands that let materials lead the story at Milan Design Week 2026",
-    "source_url": "https://www.architecturaldigest.in/story/brands-that-let-materials-lead-the-story-at-milan-design-week-2026/",
-    "date": "2026-07-03",
-    "caption": "The latest from Milan Design Week confirms a shift towards interiors led by honest, natural materials. Designers are celebrating surfaces with depth and character, like paper-clay, limewash, and raw plaster. While these finishes are beautiful, achieving them can be a significant investment in both time and materials.\n\nBut what if you could capture that same tactile spirit with paint? Specialty finishes and carefully chosen colours can evoke the feel of these organic materials. A warm, clay-toned paint can make a room feel enveloped and grounded. A soft, fibrous beige can mimic the look of jute or handmade paper, while a muted grey-green can recall the coolness of natural stone. It's about using colour and a subtle finish to suggest texture, creating a space that feels considered and serene without the complexity of a full plaster application. It’s an accessible way to bring an international design sensibility home to Ukhrul.\n\nConsidering a new look for your walls? Share this with a friend who loves earthy interiors.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale #RoyalePlay",
-    "infographic_data": {
-      "format": "swatch_grid",
-      "title_main": "Texture Without The Cost",
-      "title_span": "Texture",
-      "subtitle": "Four paint shades that evoke the feeling of natural materials.",
-      "badge": "🎨 SHADE GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "source": "Source: Asian Paints | @makshangpaints",
-      "swatches": [
-        {
-          "color_hex": "#B5745C",
-          "label": "Baked Clay",
-          "sublabel": "9518 · Royale Play"
-        },
-        {
-          "color_hex": "#E1D5C1",
-          "label": "Raw Jute",
-          "sublabel": "M020 · Royale Play"
-        },
-        {
-          "color_hex": "#B3B5A8",
-          "label": "Stone Hedge",
-          "sublabel": "8494 · Royale Play"
-        },
-        {
-          "color_hex": "#A98C76",
-          "label": "Clay",
-          "sublabel": "M715 · Royale Play"
-        }
-      ],
-      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260703_2_comparison.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260703_2_comparison.png",
-    "publish_result": {
-      "instagram": "18103667813033507",
-      "facebook": "122113928829358084"
-    }
+    "published": false,
+    "archetype": "Myth Buster",
+    "output_format": "ai_image",
+    "source_title": "12 Best Modular Sofas, Tested And Reviewed by AD's Editors 2026",
+    "source_url": "https://www.architecturaldigest.com/story/best-modular-sofa",
+    "date": "2026-07-04",
+    "caption": "Myth: A room needs one uniform wall colour to feel cohesive and uncluttered.\n\nThis is an outdated rule from a time before open-plan living became common. Today’s homes are more flexible, and your walls should be too. Just as adaptable furniture like modular sofas can create distinct zones for different activities, so can your paint. This is 'colour zoning', a technique where you use different shades, or even finishes, to define spaces within a larger room without building walls.\n\nA deep, warm colour can create an intimate dining nook. A calm, neutral shade can designate a workspace. A satin finish can subtly separate a reading corner from a living area with a matte finish. It's a painter’s approach to architecture, adding depth, function, and personality to your home. It’s about making your space work intelligently for how you actually live.\n\nSave this idea for your next open-plan project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
+    "image_prompt": "An open-plan living and dining area in a contemporary Tangkhul Naga home. The wall behind the dining area is painted a deep, earthy terracotta (#C4926A), defining it as a warm, intimate zone. The main living area wall is a soft bone white (#F4F0E8). The transition is clean and deliberate. The space features simple wooden furniture, a large window with natural light, and a few pieces of local pottery. The overall feel is modern, warm, and intelligently designed, not cluttered. Vertical 4:5 portrait composition."
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Before You Paint",
+    "published": false,
+    "archetype": "Cost & Care Guide",
     "output_format": "infographic",
-    "source_title": "These 18 Kitchen-Remodel Trends Are Actually Ruining Your Home",
-    "source_url": "https://www.architecturaldigest.com/story/-kitchen-remodel-trends-avoid",
-    "date": "2026-07-03",
-    "caption": "A kitchen paint update is one of the most effective ways to refresh your home, but it’s also the space that demands the most durability. Before you start looking at colour swatches, it's worth thinking through a few practical points to make sure your choices last.\n\nFirst, consider the finish. Kitchens are high-traffic, high-moisture environments, so a satin or semi-gloss finish is often a smarter choice than matte for its washability. Second, lighting is everything. A colour that looks perfect online can look completely different under your kitchen’s specific morning and evening light, so always test samples on your actual walls. Proper surface preparation is also non-negotiable; cleaning away any trace of grease is essential for the paint to adhere properly. Finally, think about how the new wall colour will work with your fixed elements like countertops, cabinets, and appliances for a cohesive look.\n\nSave this checklist for your next kitchen project to ensure a beautiful, lasting result.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "source_title": "Snøhetta uses mass timber and earthen walls for Theodore Roosevelt Presidential Library",
+    "source_url": "https://www.dezeen.com/2026/07/02/theodore-roosevelt-presidential-library-snohetta-north-dakot/",
+    "date": "2026-07-04",
+    "caption": "Natural materials like timber, bamboo, and stone are central to the aesthetic of our homes in Ukhrul. They offer warmth and texture that standard finishes cannot match. However, their beauty is directly linked to how well they are protected, especially in our humid, high-altitude climate where moisture and UV exposure can take a toll.\n\nChoosing the right finish isn’t just a cost; it’s an investment in durability. A high-quality sealant or protective coat does more than just look good. It prevents rot, repels moisture, and stops discolouration, significantly extending the life of the material. As our guide shows, the difference in lifespan between a properly sealed surface and an exposed one can be a decade or more. At MAK-SHANG, we specialize in specifying and applying the correct finishes for our unique local conditions, ensuring your home's natural character endures.\n\nShare this with anyone building or renovating with natural materials.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
     "infographic_data": {
-      "format": "hero_number",
-      "title_main": "Your Kitchen Paint Checklist",
-      "title_span": "Checklist",
-      "subtitle": "Five essential questions to ask before you pick up a brush.",
-      "badge": "✅ BEFORE YOU PAINT",
+      "format": "ranked_bars",
+      "title_main": "NATURAL FINISH LIFESPAN",
+      "title_span": "LIFESPAN",
+      "subtitle": "How long your walls will last in Ukhrul's climate with proper finishing.",
+      "badge": "🎨 PAINT GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "hero_number": "5",
-      "hero_label": "points to consider",
-      "checklist": [
-        "Choose a finish that handles moisture.",
-        "Test colours in your kitchen's light.",
-        "Prep surfaces for grease and steam.",
-        "Consider cabinet hardware and appliances.",
-        "Think about long-term maintenance needs."
-      ],
-      "source": "Source: MAK-SHANG Paints | @makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260703_3_before-you-paint.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260703_3_before-you-paint.png",
-    "publish_result": {
-      "instagram": "18012439586858032",
-      "facebook": "122114040795358084"
+      "takeaway_num": "2x",
+      "takeaway_text": "the durability with the right protective sealant.",
+      "source": "Source: MAK-SHANG Paints | @makshangpaints",
+      "bars": [
+        {
+          "label": "Exposed Timber (Sealed)",
+          "value": "10-15 years",
+          "color": "#E02020"
+        },
+        {
+          "label": "Premium Emulsion Paint",
+          "value": "5-7 years",
+          "color": "#0A0A0A"
+        },
+        {
+          "label": "Unsealed Timber/Bamboo",
+          "value": "3-5 years",
+          "color": "#6E6E6E"
+        }
+      ]
     }
   }
 ]
