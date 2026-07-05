@@ -25,7 +25,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Before You Paint",
     "output_format": "infographic",
     "source_title": "9 Best Paper Towel Holders for Elevating Your Kitchen Hero (2026)",
@@ -50,6 +50,12 @@
         "Consider how colours match existing hardware."
       ],
       "source": "Source: MAK-SHANG Paints | @makshangpaints"
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260705_2_before-you-paint.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260705_2_before-you-paint.png",
+    "publish_result": {
+      "instagram": "17896060974355536",
+      "facebook": "122114586327358084"
     }
   },
   {
