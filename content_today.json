@@ -2,89 +2,97 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Trend Spotlight",
-    "output_format": "swatch_overlay",
-    "source_title": "The Satyajit Ray you've never seen: DAG Delhi unveils 125 rare colour photos",
-    "source_url": "https://www.architecturaldigest.in/story/the-satyajit-ray-youve-never-seen-dag-delhi-unveils-125-rare-colour-photos/",
-    "date": "2026-07-04",
-    "caption": "The most sophisticated interiors are moving beyond a single, declarative accent wall. Instead, designers are embracing entire cinematic palettes, where multiple tones work together to tell a story and create a specific mood. Inspiration can come from anywhere, including the rich, nuanced colour grading found in the films of masters like Satyajit Ray. It’s about building atmosphere through colour relationships, not just impact.\n\nThis approach considers how light interacts with different shades throughout the day. A deep teal might feel contemplative in the morning, while a warm cream balances it with a gentle glow in the afternoon. At MAK-SHANG, we help you compose a palette that reflects your story and works harmoniously within your space, creating depth and character that a single colour cannot achieve on its own. It's painting as storytelling.\n\nSave this for your color palette inspiration.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "A quiet, beautifully lit living room in a modern Ukhrul home. The color palette is subtle and atmospheric, inspired by vintage film: a deep teal-green on an accent wall, complemented by warm bone-white walls and dark wood furniture. Natural light streams through a window, highlighting handwoven Tangkhul textiles on a chair. The mood is contemplative and rich, not stark. Editorial style, 4:5 portrait composition.",
-    "overlay_data": {
-      "color_hex": "#2E4A48",
-      "color_name": "Cinematic Teal",
-      "color_ref": "MS-CT-01",
-      "headline": "BEYOND THE ACCENT WALL",
-      "footer_handle": "@makshangpaints"
+    "archetype": "Local Adaptation",
+    "output_format": "before_after",
+    "source_title": "Inside filmmaker Hansal Mehta's unpretentious retreat in Mahrashtra's Roha",
+    "source_url": "https://www.architecturaldigest.in/story/inside-filmmaker-hansal-mehtas-unpretentious-retreat-in-mahrashtras-roha-salt-studio/",
+    "date": "2026-07-05",
+    "caption": "A home shouldn't feel like a showroom. It should feel like a sanctuary. We were inspired by a recent feature on a filmmaker's retreat in Roha, which masterfully uses exposed brick and warm timber to create a space that feels both honest and deeply welcoming. This approach to design, focusing on natural textures over flawless surfaces, translates beautifully to the homes of Ukhrul. Imagine swapping out a standard plaster wall for the tactile warmth of local brick, or choosing a matte finish that celebrates the grain of wood instead of hiding it. It's about creating spaces that resonate with our highland surroundings and Tangkhul heritage of craftsmanship. This isn't just a style, it’s a feeling of grounding and authenticity. A well-considered finish can completely change the character of a room, making it a place you truly want to live in. For Instagram, a link in our bio can start a conversation about bringing this warmth to your space. For Facebook, simply message us for a quote. Save this post for inspiration for your next project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
+    "image_prompt": "A beautifully finished living room in a modern Ukhrul home, 4:5 portrait aspect ratio. One wall is of warm, artfully exposed red brick. The other walls are painted in a soft bone cream (#F4F0E8). Sunlight streams in through a large window, illuminating dust motes in the air. The room features locally woven Tangkhul textiles on a comfortable sofa, a low wooden coffee table, and a few potted plants. The atmosphere is warm, serene, and authentic, with a focus on natural materials. Editorial quality, generous negative space.",
+    "before_after_data": {
+      "headline": "The Shift From Standard to Soulful",
+      "headline_accent": "Soulful",
+      "footer_handle": "@makshangpaints",
+      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260704_1_trend-spotlight.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260704_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260705_1_local-adaptation.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260705_1_local-adaptation.png",
     "publish_result": {
-      "instagram": "17925022296143771",
-      "facebook": "122114206935358084"
+      "instagram": "17962399602126104",
+      "facebook": "122114558061358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Myth Buster",
-    "output_format": "ai_image",
-    "source_title": "12 Best Modular Sofas, Tested And Reviewed by AD's Editors 2026",
-    "source_url": "https://www.architecturaldigest.com/story/best-modular-sofa",
-    "date": "2026-07-04",
-    "caption": "Myth: A room needs one uniform wall colour to feel cohesive and uncluttered.\n\nThis is an outdated rule from a time before open-plan living became common. Today’s homes are more flexible, and your walls should be too. Just as adaptable furniture like modular sofas can create distinct zones for different activities, so can your paint. This is 'colour zoning', a technique where you use different shades, or even finishes, to define spaces within a larger room without building walls.\n\nA deep, warm colour can create an intimate dining nook. A calm, neutral shade can designate a workspace. A satin finish can subtly separate a reading corner from a living area with a matte finish. It's a painter’s approach to architecture, adding depth, function, and personality to your home. It’s about making your space work intelligently for how you actually live.\n\nSave this idea for your next open-plan project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "An open-plan living and dining area in a contemporary Tangkhul Naga home. The wall behind the dining area is painted a deep, earthy terracotta (#C4926A), defining it as a warm, intimate zone. The main living area wall is a soft bone white (#F4F0E8). The transition is clean and deliberate. The space features simple wooden furniture, a large window with natural light, and a few pieces of local pottery. The overall feel is modern, warm, and intelligently designed, not cluttered. Vertical 4:5 portrait composition.",
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260704_2_myth-buster.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260704_2_myth-buster.png",
-    "publish_result": {
-      "instagram": "18109072946284026",
-      "facebook": "122114264517358084"
+    "published": false,
+    "archetype": "Before You Paint",
+    "output_format": "infographic",
+    "source_title": "9 Best Paper Towel Holders for Elevating Your Kitchen Hero (2026)",
+    "source_url": "https://www.architecturaldigest.com/story/best-paper-towel-holders",
+    "date": "2026-07-05",
+    "caption": "A successful kitchen repaint is about more than just choosing a colour. The details you decide on before a single drop of paint is applied will define the final result for years to come. It’s easy to focus on the big picture, but the functionality and finish of your kitchen live in the small choices. For instance, what kind of finish will stand up to cooking splatters and frequent cleaning? Have you considered how the new wall colour will interact with your existing cabinet hardware and countertops? Taking the time to think through these elements prevents costly second guesses later. A well-planned kitchen project considers workflow, light, and durability equally. It's the difference between a kitchen that just looks new, and one that feels thoughtfully designed for your family's life. Share this checklist with anyone planning a kitchen update.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "infographic_data": {
+      "format": "hero_number",
+      "title_main": "Your Kitchen Repaint Checklist",
+      "title_span": "Checklist",
+      "subtitle": "Five essential questions to ask before you begin painting your kitchen.",
+      "badge": "✅ BEFORE YOU PAINT",
+      "date_label": "MAK-SHANG 2026",
+      "hero_number": "5",
+      "hero_label": "questions to ask",
+      "checklist": [
+        "Assess the current surface condition.",
+        "Choose a finish for high-traffic areas.",
+        "Test colour samples in morning and evening light.",
+        "Plan for appliance and fixture removal.",
+        "Consider how colours match existing hardware."
+      ],
+      "source": "Source: MAK-SHANG Paints | @makshangpaints"
     }
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Cost & Care Guide",
-    "output_format": "infographic",
-    "source_title": "Snøhetta uses mass timber and earthen walls for Theodore Roosevelt Presidential Library",
-    "source_url": "https://www.dezeen.com/2026/07/02/theodore-roosevelt-presidential-library-snohetta-north-dakot/",
-    "date": "2026-07-04",
-    "caption": "Natural materials like timber, bamboo, and stone are central to the aesthetic of our homes in Ukhrul. They offer warmth and texture that standard finishes cannot match. However, their beauty is directly linked to how well they are protected, especially in our humid, high-altitude climate where moisture and UV exposure can take a toll.\n\nChoosing the right finish isn’t just a cost; it’s an investment in durability. A high-quality sealant or protective coat does more than just look good. It prevents rot, repels moisture, and stops discolouration, significantly extending the life of the material. As our guide shows, the difference in lifespan between a properly sealed surface and an exposed one can be a decade or more. At MAK-SHANG, we specialize in specifying and applying the correct finishes for our unique local conditions, ensuring your home's natural character endures.\n\nShare this with anyone building or renovating with natural materials.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
+    "published": false,
+    "archetype": "Comparison",
+    "output_format": "swatch_grid",
+    "source_title": "The Kneeling Chair From 1979 Finally Gets Its Color Moment",
+    "source_url": "https://www.yankodesign.com/2026/07/04/the-kneeling-chair-from-1979-finally-gets-its-color-moment/?utm_source=rss&utm_medium=rss&utm_campaign=the-kneeling-chair-from-1979-finally-gets-its-color-moment",
+    "date": "2026-07-05",
+    "caption": "For decades, the default for fine wooden furniture was a traditional stain that enhanced the natural grain. Walnut, teak, rosewood—these are the classics. But today, a different approach is gaining ground: treating wood with opaque, satin-finish colours. This isn't about hiding the material, but about giving a classic piece a new, contemporary identity. Imagine an old bookshelf, beautifully crafted but dated, given a new life in a deep olive green. Or a simple side table becoming the focal point of a room in a striking empire yellow. This method allows you to integrate heirloom pieces into a modern colour scheme without losing their form and character. It’s a bold choice that bridges the gap between traditional craftsmanship and personal expression. The right polyurethane (PU) finish ensures the colour is durable and the piece remains protected. Save this post for your next furniture upcycling project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @bergerpaintsindia #BergerImperia",
     "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "NATURAL FINISH LIFESPAN",
-      "title_span": "LIFESPAN",
-      "subtitle": "How long your walls will last in Ukhrul's climate with proper finishing.",
-      "badge": "🎨 PAINT GUIDE",
+      "format": "swatch_grid",
+      "title_main": "Wood Finish: Stain or Statement?",
+      "title_span": "Statement",
+      "subtitle": "Comparing traditional wood tones with modern opaque PU colours.",
+      "badge": "🎨 SHADE GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "2x",
-      "takeaway_text": "the durability with the right protective sealant.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
+      "source": "Source: Berger Imperia PU | @makshangpaints",
+      "swatches": [
         {
-          "label": "Exposed Timber (Sealed)",
-          "value": "10-15 years",
-          "color": "#E02020"
+          "color_hex": "#5D4037",
+          "label": "Classic Walnut",
+          "sublabel": "Traditional Stain"
         },
         {
-          "label": "Premium Emulsion Paint",
-          "value": "5-7 years",
-          "color": "#0A0A0A"
+          "color_hex": "#405D5D",
+          "label": "Blue Pot",
+          "sublabel": "5D0289 · Imperia PU"
         },
         {
-          "label": "Unsealed Timber/Bamboo",
-          "value": "3-5 years",
-          "color": "#6E6E6E"
+          "color_hex": "#FFC107",
+          "label": "Empire Yellow",
+          "sublabel": "7A0347 · Imperia PU"
+        },
+        {
+          "color_hex": "#689F38",
+          "label": "Fresh Olive",
+          "sublabel": "4A0265 · Imperia PU"
         }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260704_3_cost-and-care-guide.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260704_3_cost-and-care-guide.png",
-    "publish_result": {
-      "instagram": "17907557391439681",
-      "facebook": "122114331699358084"
+      ],
+      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
     }
   }
 ]
