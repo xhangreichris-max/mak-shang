@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "before_after",
     "source_title": "5 Indian homes that put a local spin on international interior styles",
@@ -40,6 +40,12 @@
       "headline_accent": "Connected",
       "footer_handle": "@makshangpaints",
       "footer_tagline": "MAK-SHANG Paints · Ukhrul"
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260706_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260706_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "18600882163029004",
+      "facebook": "122114918949358084"
     }
   },
   {
