@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Trend Spotlight",
     "output_format": "swatch_overlay",
     "source_title": "11 secret hotels few travellers know about (including one in India)",
@@ -9,24 +7,14 @@
     "date": "2026-07-06",
     "caption": "The best travel experiences leave a feeling that we want to bring home. The current trend in high-end hospitality design isn’t about grand lobbies; it’s about creating intimate, personal spaces that feel discovered. Think of a quiet hotel room in a city corner, rich with texture and character. This is the new aspiration for our homes: not just decorated, but deeply personal. It’s achieved with a considered palette of warm, earthy tones like terracotta or deep clays, paired with natural materials. The finish is key—a soft matte or eggshell absorbs light beautifully, creating a calm atmosphere that feels both comforting and sophisticated. This look is less about fleeting trends and more about a timeless sense of place and personality. Ready to create your own private retreat? Save this post for inspiration.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "A beautifully lit bedroom in a modern Ukhrul home. The walls are a deep, calming terracotta. Morning light streams through a window, highlighting handwoven Tangkhul Naga textiles on the bed and a simple wooden side table. The atmosphere is quiet, personal, and character-rich, like a boutique hotel. Focus on texture and warm light. Vertical 4:5 composition.",
-    "overlay_data": {
-      "color_hex": "#B47862",
-      "color_name": "Hearth Clay",
-      "color_ref": "MS-TR-08",
-      "headline": "THE HOTEL FEEL AT HOME",
-      "footer_handle": "@makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260706_1_trend-spotlight.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260706_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260706_1_trend-spotlight.png",
     "publish_result": {
       "instagram": "17913590889224686",
       "facebook": "122114887755358084"
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Myth Buster",
     "output_format": "before_after",
     "source_title": "5 Indian homes that put a local spin on international interior styles",
@@ -34,23 +22,14 @@
     "date": "2026-07-06",
     "caption": "There's a common myth that international design styles won't feel right in a North-Eastern home, that they'll look cold or out of place. The truth is, good design translates. The secret isn't copying a look from a magazine page for page; it's about adaptation. A Scandinavian palette works beautifully when warmed by Ukhrul's golden hour light. Japanese minimalism finds a natural partner in our local cane and bamboo craftsmanship. The key is to ground these global ideas in our context. We guide our clients on how to select colours and finishes that respect our region's unique light, climate, and materials, creating spaces that feel both world-class and deeply rooted. A home shouldn’t be a copy; it should be a conversation between an idea and a place. Share this with someone who loves global design but wants a local feel.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A contemporary living room in Ukhrul, Manipur, with a sophisticated international aesthetic. The main wall is painted a deep olive green. The space is grounded with local elements: a cane armchair, Naga textiles as a throw, and warm wooden flooring. Natural light fills the room, creating a cozy and inviting space that feels both modern and rooted in its place. Editorial style, 4:5 portrait.",
-    "before_after_data": {
-      "headline": "From Copied to *Connected*",
-      "headline_accent": "Connected",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260706_2_myth-buster.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260706_2_myth-buster.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260706_2_myth-buster.png",
     "publish_result": {
       "instagram": "18600882163029004",
       "facebook": "122114918949358084"
     }
   },
   {
-    "slot": 3,
-    "published": true,
     "archetype": "Cost & Care Guide",
     "output_format": "infographic",
     "source_title": "Terta transforms decommissioned power station in Iceland into colourful site for \"learning by playing\"",
@@ -58,36 +37,8 @@
     "date": "2026-07-06",
     "caption": "A bold splash of colour can define a room, but there’s a practical question: will it last? Cheaper paints often look good for a year, but high-traffic areas like hallways, kitchens, or commercial spaces show wear and tear quickly. Fading, chipping, and difficulty in cleaning mean you'll be repainting sooner than you think. Investing in a premium finish, like a satin or silk emulsion, is a smarter long-term decision. These finishes are formulated for durability. They create a harder, more resilient surface that resists scuffs and is easily wiped clean without damaging the colour. While the initial cost per litre is higher, the extended lifespan can mean half as many repaints over a decade. It's not just about colour; it's about performance. Save this guide for your next project budget.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
-    "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Bold Colour That *Lasts*",
-      "title_span": "Lasts",
-      "subtitle": "The long-term value of choosing the right finish for high-traffic areas.",
-      "badge": "🎨 PAINT GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "2x",
-      "takeaway_text": "fewer repaints needed with premium finishes.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
-        {
-          "label": "Premium Satin/Silk Finish",
-          "value": "5-7 years",
-          "color": "#E02020"
-        },
-        {
-          "label": "Standard Emulsion (Matte)",
-          "value": "3-4 years",
-          "color": "#0A0A0A"
-        },
-        {
-          "label": "Distemper/Basic Paint",
-          "value": "1-2 years",
-          "color": "#6E6E6E"
-        }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260706_3_cost-and-care-guide.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260706_3_cost-and-care-guide.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260706_3_cost-and-care-guide.png",
     "publish_result": {
       "instagram": "17952616239000248",
       "facebook": "122115009465358084"
