@@ -2,95 +2,97 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Trend Spotlight",
-    "output_format": "swatch_overlay",
-    "source_title": "11 secret hotels few travellers know about (including one in India)",
-    "source_url": "https://www.architecturaldigest.in/story/secret-hotels-few-travellers-know-about-including-one-in-india/",
-    "date": "2026-07-06",
-    "caption": "The best travel experiences leave a feeling that we want to bring home. The current trend in high-end hospitality design isn’t about grand lobbies; it’s about creating intimate, personal spaces that feel discovered. Think of a quiet hotel room in a city corner, rich with texture and character. This is the new aspiration for our homes: not just decorated, but deeply personal. It’s achieved with a considered palette of warm, earthy tones like terracotta or deep clays, paired with natural materials. The finish is key—a soft matte or eggshell absorbs light beautifully, creating a calm atmosphere that feels both comforting and sophisticated. This look is less about fleeting trends and more about a timeless sense of place and personality. Ready to create your own private retreat? Save this post for inspiration.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "A beautifully lit bedroom in a modern Ukhrul home. The walls are a deep, calming terracotta. Morning light streams through a window, highlighting handwoven Tangkhul Naga textiles on the bed and a simple wooden side table. The atmosphere is quiet, personal, and character-rich, like a boutique hotel. Focus on texture and warm light. Vertical 4:5 composition.",
-    "overlay_data": {
-      "color_hex": "#B47862",
-      "color_name": "Hearth Clay",
-      "color_ref": "MS-TR-08",
-      "headline": "THE HOTEL FEEL AT HOME",
-      "footer_handle": "@makshangpaints"
+    "archetype": "Local Adaptation",
+    "output_format": "before_after",
+    "source_title": "Perforated brickwork wraps courtyard home in India by Spacefiction Studio",
+    "source_url": "https://www.dezeen.com/2026/07/06/twilight-house-spacefiction-studio/",
+    "date": "2026-07-07",
+    "caption": "International design often celebrates sleek, perfect surfaces. But in Ukhrul, a different kind of beauty resonates, one rooted in the honesty of materials. A design trend we love is the considered use of exposed textures, like the perforated brickwork seen in contemporary Indian homes. Instead of hiding the structure, this approach makes it a feature.\n\nImagine a living space not just as walls to be covered, but as a composition of textures. A single, beautifully finished accent wall of exposed brick, sealed correctly to prevent dust and dampness, can ground a room in warmth. Paired with smooth, bone-white plastered surfaces and local textiles, it creates a dialogue between the rustic and the refined. This isn't about leaving things unfinished; it's a deliberate choice that feels both modern and deeply connected to our landscape. It’s how global ideas find a home here in Manipur.\n\nThinking about bringing more texture into your space? Save this post for inspiration.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
+    "image_prompt": "Editorial photograph of a modern living room in a home in Ukhrul, Manipur. A large, beautifully maintained accent wall of exposed red brick is the focal point. The other walls are painted a warm bone-white (#F4F0E8). The room is filled with soft, natural light from a window. Furnishings include a comfortable sofa with handwoven Tangkhul Naga textile throws and cushions. A large terracotta pot with a leafy plant sits on the polished concrete floor. The atmosphere is warm, serene, and considered. 4:5 portrait aspect ratio.",
+    "before_after_data": {
+      "headline": "The Beauty of *Honest* Materials",
+      "headline_accent": "Honest",
+      "footer_handle": "@makshangpaints",
+      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260706_1_trend-spotlight.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260706_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260707_1_local-adaptation.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260707_1_local-adaptation.png",
     "publish_result": {
-      "instagram": "17913590889224686",
-      "facebook": "122114887755358084"
+      "instagram": "18385308706201318",
+      "facebook": "122115145491358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Myth Buster",
-    "output_format": "before_after",
-    "source_title": "5 Indian homes that put a local spin on international interior styles",
-    "source_url": "https://www.architecturaldigest.in/story/indian-homes-that-draw-from-international-inspirations/",
-    "date": "2026-07-06",
-    "caption": "There's a common myth that international design styles won't feel right in a North-Eastern home, that they'll look cold or out of place. The truth is, good design translates. The secret isn't copying a look from a magazine page for page; it's about adaptation. A Scandinavian palette works beautifully when warmed by Ukhrul's golden hour light. Japanese minimalism finds a natural partner in our local cane and bamboo craftsmanship. The key is to ground these global ideas in our context. We guide our clients on how to select colours and finishes that respect our region's unique light, climate, and materials, creating spaces that feel both world-class and deeply rooted. A home shouldn’t be a copy; it should be a conversation between an idea and a place. Share this with someone who loves global design but wants a local feel.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A contemporary living room in Ukhrul, Manipur, with a sophisticated international aesthetic. The main wall is painted a deep olive green. The space is grounded with local elements: a cane armchair, Naga textiles as a throw, and warm wooden flooring. Natural light fills the room, creating a cozy and inviting space that feels both modern and rooted in its place. Editorial style, 4:5 portrait.",
-    "before_after_data": {
-      "headline": "From Copied to *Connected*",
-      "headline_accent": "Connected",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260706_2_myth-buster.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260706_2_myth-buster.png",
-    "publish_result": {
-      "instagram": "18600882163029004",
-      "facebook": "122114918949358084"
+    "published": false,
+    "archetype": "Before You Paint",
+    "output_format": "infographic",
+    "source_title": "5 easy bathroom design ideas that are low effort, high impact",
+    "source_url": "https://www.architecturaldigest.in/story/5-easy-bathroom-design-ideas-that-are-low-effort-high-impact/",
+    "date": "2026-07-07",
+    "caption": "A bathroom refresh can seem daunting, but it often delivers the most satisfying results. Before you pick up a brush, a little planning goes a long way. The key to a high-impact change is to think beyond just a new coat of paint and consider the entire space as a cohesive whole. What mood are you trying to create? A serene, spa-like retreat, or a compact space with a pop of personality?\n\nWe believe the best projects start with the right questions. Considering factors like waterproofing, lighting, and existing fixtures is crucial for a finish that not only looks good but also lasts in a humid environment. That’s why we’ve put together a simple checklist to guide your thinking. Taking a moment to tick these boxes ensures your time and investment result in a space you love for years to come. Small room, big impact.\n\nSave this checklist for your next bathroom project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "infographic_data": {
+      "format": "hero_number",
+      "title_main": "Your Bathroom Refresh",
+      "title_span": "Checklist",
+      "subtitle": "Five essential steps before you start painting your bathroom.",
+      "badge": "✅ BEFORE YOU PAINT",
+      "date_label": "MAK-SHANG 2026",
+      "hero_number": "5",
+      "hero_label": "points to consider",
+      "checklist": [
+        "Assess moisture levels and ventilation first.",
+        "Choose a mould and mildew-resistant paint.",
+        "Test colour swatches in artificial and natural light.",
+        "Prep all surfaces: clean, sand, and prime.",
+        "Plan for fixtures and hardware updates."
+      ],
+      "source": "Source: MAK-SHANG Paints | @makshangpaints"
     }
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Cost & Care Guide",
-    "output_format": "infographic",
-    "source_title": "Terta transforms decommissioned power station in Iceland into colourful site for \"learning by playing\"",
-    "source_url": "https://www.dezeen.com/2026/07/05/terta-ellidaarstod-power-station/",
-    "date": "2026-07-06",
-    "caption": "A bold splash of colour can define a room, but there’s a practical question: will it last? Cheaper paints often look good for a year, but high-traffic areas like hallways, kitchens, or commercial spaces show wear and tear quickly. Fading, chipping, and difficulty in cleaning mean you'll be repainting sooner than you think. Investing in a premium finish, like a satin or silk emulsion, is a smarter long-term decision. These finishes are formulated for durability. They create a harder, more resilient surface that resists scuffs and is easily wiped clean without damaging the colour. While the initial cost per litre is higher, the extended lifespan can mean half as many repaints over a decade. It's not just about colour; it's about performance. Save this guide for your next project budget.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
+    "published": false,
+    "archetype": "Comparison",
+    "output_format": "swatch_grid",
+    "source_title": "Jasmine Fisher transforms rented London office with moody material palette",
+    "source_url": "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
+    "date": "2026-07-07",
+    "caption": "There is a common belief that small or poorly-lit rooms should always be painted white. We think differently. Embracing a deeper, moodier colour palette can create an atmosphere of warmth and sophistication that light colours often can't achieve. These shades absorb light, blurring the edges of a room to make it feel more intimate and cohesive, almost like a warm embrace.\n\nConsider shades from the Asian Paints Royale collection like Green Labyrinth or Timberland. These colours have incredible depth and character. In a study, a bedroom, or even a living room, they provide a rich backdrop for natural materials like wood and cane, and make brass or black metal accents stand out beautifully. The key is to commit. Painting all four walls, and sometimes even the ceiling, in the same deep hue creates a seamless, enveloping effect. It’s a bold choice, but one that results in a truly memorable and personal space.\n\nShare this with someone who isn't afraid of a little colour.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
     "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Bold Colour That *Lasts*",
-      "title_span": "Lasts",
-      "subtitle": "The long-term value of choosing the right finish for high-traffic areas.",
-      "badge": "🎨 PAINT GUIDE",
+      "format": "swatch_grid",
+      "title_main": "The Art of",
+      "title_span": "Moody Hues",
+      "subtitle": "Comparing deep, warm shades for an atmospheric interior.",
+      "badge": "🎨 SHADE GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "2x",
-      "takeaway_text": "fewer repaints needed with premium finishes.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
+      "source": "Source: Asian Paints Royale | @makshangpaints",
+      "swatches": [
         {
-          "label": "Premium Satin/Silk Finish",
-          "value": "5-7 years",
-          "color": "#E02020"
+          "color_hex": "#3B4D3C",
+          "label": "Green Labyrinth",
+          "sublabel": "7815 · Royale"
         },
         {
-          "label": "Standard Emulsion (Matte)",
-          "value": "3-4 years",
-          "color": "#0A0A0A"
+          "color_hex": "#7A5C4F",
+          "label": "Timberland",
+          "sublabel": "8552 · Royale"
         },
         {
-          "label": "Distemper/Basic Paint",
-          "value": "1-2 years",
-          "color": "#6E6E6E"
+          "color_hex": "#5C5851",
+          "label": "English Elm",
+          "sublabel": "8770 · Royale"
+        },
+        {
+          "color_hex": "#495446",
+          "label": "Deep Forest",
+          "sublabel": "9265 · Royale"
         }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260706_3_cost-and-care-guide.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260706_3_cost-and-care-guide.png",
-    "publish_result": {
-      "instagram": "17952616239000248",
-      "facebook": "122115009465358084"
+      ],
+      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
     }
   }
 ]
