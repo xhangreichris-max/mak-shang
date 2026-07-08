@@ -193,5 +193,20 @@
     "date": "2026-07-07",
     "archetype": "Comparison",
     "generated_at": "2026-07-07T16:13:05.343541Z"
+  },
+  {
+    "date": "2026-07-08",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-08T15:55:20.622427Z"
+  },
+  {
+    "date": "2026-07-08",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-08T15:55:20.622427Z"
+  },
+  {
+    "date": "2026-07-08",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-08T15:55:20.622427Z"
   }
 ]

@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Trend Spotlight",
     "output_format": "swatch_overlay",
     "source_title": "Sthapati \"draws from Jodhpur's royal past\" for pastel-coloured airport",
@@ -9,24 +7,14 @@
     "date": "2026-07-08",
     "caption": "We're seeing a beautiful shift in how colour is used in modern Indian architecture, moving towards softer, earth-connected palettes. Inspired by the heritage-rich pastels of Rajasthan, colours like dusty rose, pale ochre, and muted terracotta are finding their way into contemporary homes. These aren't the bright pastels of nurseries; they are sophisticated, complex shades with a chalky, matte finish that feels both modern and timeless. In Ukhrul, these colours work beautifully with the natural light and landscape. Imagine a living room wall in a soft, sun-baked rose, paired with natural wood and local textiles. It creates a space that feels calm, grounded, and deeply rooted in a sense of place. This trend is less about fleeting fashion and more about rediscovering the quiet power of historic Indian colourways for today's living. Save this idea for your next project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "An interior shot of a modern living room in a Manipur home, featuring a prominent accent wall painted in a dusty, muted rose pink. The light is soft and warm, coming from a large window. The decor is minimal but warm, with light wood furniture, handwoven cane baskets, and cream-coloured textiles. The composition is clean and editorial, with generous negative space, emphasizing the colour and texture of the wall. 4:5 portrait aspect ratio.",
-    "overlay_data": {
-      "color_hex": "#C49A9F",
-      "color_name": "Heritage Rose",
-      "color_ref": "MS-HR-08",
-      "headline": "Pastels Find Their Power",
-      "footer_handle": "@makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260708_1_trend-spotlight.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260708_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260708_1_trend-spotlight.png",
     "publish_result": {
       "instagram": "17961764412136546",
       "facebook": "122115399285358084"
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Myth Buster",
     "output_format": "before_after",
     "source_title": "4 Small Space Rules Designers Want You to Break (2026)",
@@ -34,23 +22,14 @@
     "date": "2026-07-08",
     "caption": "One of the oldest rules in the book is that small rooms demand light colours. We're here to suggest that this might be holding your space back. While white and bone can create an airy feel, they can also feel flat without the right light. A deep, moody colour can actually blur the edges of a room, creating an illusion of depth and a sense of sophisticated enclosure. Think of a small study painted in a rich charcoal, or a powder room in a deep forest green. When you commit to a darker shade, the corners recede and the focus shifts to the furniture and objects within the space, making it feel more intentional and less confined. Don't let old rules limit your home's potential. Sometimes the boldest choice is the smartest one. Thinking about a colour that breaks the rules? Save this post for inspiration.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A beautifully styled small study in a home in Ukhrul, Manipur. The room is painted in a deep, moody charcoal grey (#36454F). One wall has a large window with warm, natural light streaming in. The room features a simple wooden desk, a comfortable chair with handwoven Tangkhul Naga textile draped over it, and a few well-chosen objects. The overall feeling is cozy, sophisticated, and surprisingly spacious, not cramped. Editorial photography, 4:5 portrait composition.",
-    "before_after_data": {
-      "headline": "The Small Room Colour *Myth*",
-      "headline_accent": "Myth",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260708_2_myth-buster.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260708_2_myth-buster.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260708_2_myth-buster.png",
     "publish_result": {
       "instagram": "18084619556380743",
       "facebook": "122115449859358084"
     }
   },
   {
-    "slot": 3,
-    "published": true,
     "archetype": "Cost & Care Guide",
     "output_format": "infographic",
     "source_title": "6 Non-Fabric Bath Mats to Anchor Even the Most Humid Bathrooms (2026)",
@@ -58,36 +37,8 @@
     "date": "2026-07-08",
     "caption": "Ukhrul's humidity poses a unique challenge for bathrooms, making paint choice critical for longevity and hygiene. Not all finishes are created equal when it comes to resisting moisture, steam, and potential mould growth. While a standard emulsion might seem like a cost-effective choice initially, it often requires more frequent repainting. Opting for a finish specifically designed for high-moisture areas, like a satin or semi-gloss acrylic, is a wise investment. These finishes create a more durable, non-porous surface that is easier to clean and far more resistant to the effects of constant dampness. This means fewer touch-ups and a cleaner, healthier space for longer. It’s a classic case of paying a little more upfront to save significantly on maintenance down the line. Share this with someone planning a bathroom refresh.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
-    "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Paint Choice for Humid",
-      "title_span": "Bathrooms",
-      "subtitle": "Selecting the right finish is key for durability in Ukhrul's climate.",
-      "badge": "🎨 PAINT GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "2x",
-      "takeaway_text": "longer lifespan with moisture-resistant paint.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
-        {
-          "label": "Satin / Semi-Gloss Acrylic",
-          "value": "3-5 years",
-          "color": "#E02020"
-        },
-        {
-          "label": "Premium Emulsion",
-          "value": "2-3 years",
-          "color": "#0A0A0A"
-        },
-        {
-          "label": "Basic Distemper",
-          "value": "1-2 years",
-          "color": "#6E6E6E"
-        }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260708_3_cost-and-care-guide.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260708_3_cost-and-care-guide.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260708_3_cost-and-care-guide.png",
     "publish_result": {
       "instagram": "18097844510579884",
       "facebook": "122115535545358084"
