@@ -1,7 +1,7 @@
 [
   {
     "slot": 1,
-    "published": false,
+    "published": true,
     "archetype": "Local Adaptation",
     "output_format": "before_after",
     "source_title": "7 beautiful homes in India with layered memories of the past",
@@ -19,7 +19,7 @@
     "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260709_1_local-adaptation.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260709_1_local-adaptation.png",
     "publish_result": {
-      "instagram": null,
+      "instagram": "18095161208524954",
       "facebook": null
     }
   },
@@ -64,6 +64,12 @@
         }
       ],
       "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260709_2_comparison.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260709_2_comparison.png",
+    "publish_result": {
+      "instagram": null,
+      "facebook": null
     }
   },
   {
