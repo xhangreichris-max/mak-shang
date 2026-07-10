@@ -2,109 +2,77 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Local Adaptation",
-    "output_format": "before_after",
-    "source_title": "7 beautiful homes in India with layered memories of the past",
-    "source_url": "https://www.architecturaldigest.in/story/7-beautiful-homes-in-india-with-layered-memories-of-the-past/",
-    "date": "2026-07-09",
-    "caption": "A home in Ukhrul should feel like it belongs here, rooted in the landscape and our shared story. International trends are exciting, but they only truly work when they speak a local dialect. This is about more than just copying a style; it's about interpretation. How does a minimalist aesthetic find warmth with local textiles? How can a classic colour palette be adapted to the unique golden light of our hills? It's a conversation between the global and the personal. We believe the most successful rooms are not just decorated, they are collected over time, reflecting a family's journey. Before a single drop of paint is applied, we consider the story your home already tells, and how our work can add the next, beautiful chapter. We help you create spaces that feel both current and timelessly yours.\n\nShare this thought with someone building their home story. Link in bio to start the conversation.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "image_prompt": "A beautifully finished living room in a modern Ukhrul home, 4:5 portrait. The walls are painted a warm, bone-white (#F4F0E8). Sunlight streams through a large window, illuminating handwoven Tangkhul Naga textiles on a sofa and a locally crafted wooden coffee table. The mood is calm, considered, and deeply personal. There's a sense of history and modernity blended together, with clean lines and natural textures. The composition feels editorial with generous negative space.",
-    "before_after_data": {
-      "headline": "From Blank Space to *Lived-In* Story",
-      "headline_accent": "Lived-In",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
+    "archetype": "Trend Spotlight",
+    "output_format": "swatch_overlay",
+    "source_title": "10 flowering houseplants that will bring fragrance, colour, and joy to your home",
+    "source_url": "https://www.architecturaldigest.in/story/10-flowering-houseplants-that-will-bring-fragrance-colour-and-joy-to-your-home/",
+    "date": "2026-07-10",
+    "caption": "Bringing the outdoors in isn't just about placing a few pots on a windowsill. It's a design choice that pairs living color with considered backdrops. The current trend toward biophilic interiors sees homes becoming personal sanctuaries, and the right wall paint is the foundation. A deep, muted green, for instance, doesn't compete with foliage. It envelops it, creating a rich, layered look that makes both leaves and blooms feel more intentional.\n\nImagine a living room corner where the walls have the soft depth of moss. This allows the vibrant pink of an orchid or the warm terracotta of a pot to stand out with clarity. It’s about creating harmony, not contrast. A well-chosen colour palette provides a quiet stage for nature to perform. At MAK-SHANG, we guide clients toward shades that support their vision for a tranquil, nature-filled home in Ukhrul.\n\nSave this post for inspiration on your next green-corner project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
+    "image_prompt": "A beautifully lit living room corner in a modern Tangkhul Naga home in Ukhrul, Manipur. The back wall is painted a deep, muted moss green. Golden hour sunlight streams through a window, highlighting the texture of the wall. In the foreground, a large, healthy flowering plant with delicate pink blossoms sits in a handcrafted terracotta pot on a wooden stool. The room has natural materials like woven cane furniture and handwoven textiles. The composition is editorial and calm, with generous negative space. 4:5 portrait.",
+    "overlay_data": {
+      "color_hex": "#556B2F",
+      "color_name": "Forest Floor",
+      "color_ref": "MS-GR-18",
+      "headline": "THE PERFECT GREEN STAGE",
+      "footer_handle": "@makshangpaints"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260709_1_local-adaptation.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260709_1_local-adaptation.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260710_1_trend-spotlight.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260710_1_trend-spotlight.png",
     "publish_result": {
-      "instagram": "18095161208524954",
-      "facebook": null
+      "instagram": "18170024674430856",
+      "facebook": "122116036719358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Comparison",
-    "output_format": "swatch_grid",
-    "source_title": "18 Green Bathroom Ideas, From Soothing Sage Paint to Moody Moss-Toned Tile",
-    "source_url": "https://www.architecturaldigest.com/gallery/green-bathroom-ideas",
-    "date": "2026-07-09",
-    "caption": "Green has a unique power in a bathroom. It connects the space to nature, creating a calm, restorative atmosphere that feels perfect for the beginning or end of a day. But not all greens are the same. A deep forest green like Ivy League can create a dramatic, moody enclosure, perfect for a powder room. A softer, muted sage like Pistachio feels airy and spa-like, making smaller bathrooms feel larger and brighter. Then there are classic mid-tones like Jade Green, offering a timeless balance that pairs well with natural wood or stone. The right shade depends on your room's size, the amount of natural light, and the feeling you want to evoke. Choosing between them is about defining the mood of your personal sanctuary.\n\nSave this guide for your next bathroom refresh. Message us to see these shades in your space.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
-    "infographic_data": {
-      "format": "swatch_grid",
-      "title_main": "The Right Green",
-      "title_span": "For Your Bathroom",
-      "subtitle": "From moody and dramatic to calm and spa-like, find your perfect shade.",
-      "badge": "🎨 SHADE GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "source": "Source: Asian Paints Royale | @makshangpaints",
-      "swatches": [
-        {
-          "color_hex": "#495B4A",
-          "label": "Ivy League",
-          "sublabel": "7823 · Royale Matt"
-        },
-        {
-          "color_hex": "#CADCAE",
-          "label": "Pistachio",
-          "sublabel": "8385 · Royale Matt"
-        },
-        {
-          "color_hex": "#77927A",
-          "label": "Jade Green",
-          "sublabel": "7779 · Royale Matt"
-        },
-        {
-          "color_hex": "#A7B890",
-          "label": "Fresh Sprout",
-          "sublabel": "9345 · Royale Matt"
-        }
-      ],
-      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260709_2_comparison.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260709_2_comparison.png",
-    "publish_result": {
-      "instagram": "18007420304748678",
-      "facebook": "122115843921358084"
-    }
+    "published": false,
+    "archetype": "Myth Buster",
+    "output_format": "ai_image",
+    "source_title": "How Cédric Courtin and Alexis de Ducla are expanding the leather lexicon",
+    "source_url": "https://www.architecturaldigest.in/story/how-cedric-courtin-and-alexis-de-ducla-are-expanding-the-leather-lexicon/",
+    "date": "2026-07-10",
+    "caption": "A common myth we hear is that unique wall finishes, like leather or Venetian plaster, are too delicate for everyday life. Many assume they are difficult to clean and won't withstand Ukhrul's humidity. This is often not the case. When applied correctly with modern sealants, these surfaces are remarkably durable. The key is in the preparation and the finishing coats, which create a protective barrier against moisture and wear.\n\nInstead of being impractical, a textured or specialty finish on an accent wall can be a very sensible long-term investment. It adds depth and character that a simple coat of paint cannot, and its inherent texture often hides minor imperfections that would be obvious on a flat, matte surface. We believe in pushing design boundaries while respecting the practical needs of a home. A beautiful finish should be lived with, not just looked at.\n\nShare this with someone who loves a unique design detail.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
+    "image_prompt": "An elegant, minimalist study in a home in Manipur, India. The main wall behind a sleek wooden desk features a sophisticated, textured finish resembling dark brown, panelled leather. Warm, indirect light from a modern lamp grazes the wall, highlighting its subtle sheen and texture. The room has bone-white side walls (#F4F0E8) and a few curated objects on the desk, including a black ceramic vase. The overall mood is quiet luxury and craftsmanship, showing a premium, durable finish in a real setting. 4:5 portrait."
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Before You Paint",
+    "published": false,
+    "archetype": "Cost & Care Guide",
     "output_format": "infographic",
-    "source_title": "Wall art: How this Kolkata-based artist is bringing nature into modern interiors",
-    "source_url": "https://www.architecturaldigest.in/story/wall-art-how-this-kolkata-based-artist-is-bringing-nature-into-modern-interiors/",
-    "date": "2026-07-09",
-    "caption": "A piece of art is often the soul of a room. But the wrong wall colour can diminish its impact, or worse, clash with it entirely. The wall is not just a backdrop; it is part of the composition. Before you commit to a paint colour, it’s essential to consider how it will interact with your most treasured art pieces. The goal is harmony, not competition. A common mistake is choosing a wall colour in isolation, only to find it fights with the artwork's palette. A little planning ensures your walls and your art work together to create a cohesive, considered space that feels complete. This simple checklist helps you make a choice that enhances your art, rather than overpowering it, ensuring the final result is exactly as you envisioned.\n\nSave this checklist for when you're hanging new art. Link in bio for a colour consultation.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "source_title": "Liz Gálvez \"reframes\" air conditioning with shade pavilion in Los Angeles",
+    "source_url": "https://www.dezeen.com/2026/07/09/liz-galvez-shade-pavilion-los-angeles-earthen-comforts/",
+    "date": "2026-07-10",
+    "caption": "When planning a project, it's easy to focus on the upfront cost of paint. But the true cost of a wall finish is measured over years, not in a single bill. Textured finishes, like limewash or mineral-based plasters, often have a higher initial application cost but deliver significant long-term value. Their durability means less frequent repainting, and their composition allows walls to breathe, which is a key advantage in our local climate.\n\nUnlike standard acrylic paints that can trap moisture, these natural finishes are permeable, helping to regulate humidity and resist issues like peeling or blistering. A minor scuff on a limewash wall can often be gently wiped or touched up, blending into the material’s natural patina. This graceful aging process means the wall looks better for longer. It is an investment in your home’s character and its long-term health.\n\nSave this guide when you're considering your next wall finish.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
     "infographic_data": {
-      "format": "hero_number",
-      "title_main": "Choosing a Wall Colour",
-      "title_span": "For Your Art",
-      "subtitle": "Ensure your paint choice enhances your artwork, not overpowers it.",
-      "badge": "✅ BEFORE YOU PAINT",
+      "format": "ranked_bars",
+      "title_main": "Why Invest in",
+      "title_span": "Textured Finishes",
+      "subtitle": "Key advantages of limewash and mineral plasters for your home.",
+      "badge": "🎨 PAINT GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "hero_number": "5",
-      "hero_label": "steps to harmony",
-      "checklist": [
-        "Identify the dominant and accent colours in the artwork.",
-        "Choose a neutral wall colour from the art's background.",
-        "Test a bold accent colour from the art for a feature wall.",
-        "Consider the frame colour and material in your selection.",
-        "Swatch paint on the wall and view it at different times of day."
-      ],
-      "source": "Source: MAK-SHANG Paints | @makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260709_3_before-you-paint.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260709_3_before-you-paint.png",
-    "publish_result": {
-      "instagram": "18114232951919933",
-      "facebook": "122115844245358084"
+      "takeaway_num": "10+",
+      "takeaway_text": "years of beautiful, breathable walls before a major refresh.",
+      "source": "Source: MAK-SHANG Paints | @makshangpaints",
+      "bars": [
+        {
+          "label": "Aesthetic Depth & Character",
+          "value": "95%",
+          "color": "#E02020"
+        },
+        {
+          "label": "Long-Term Durability",
+          "value": "85%",
+          "color": "#0A0A0A"
+        },
+        {
+          "label": "Moisture & Humidity Resistance",
+          "value": "70%",
+          "color": "#6E6E6E"
+        }
+      ]
     }
   }
 ]
