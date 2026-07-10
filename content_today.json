@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "How Cédric Courtin and Alexis de Ducla are expanding the leather lexicon",
@@ -34,7 +34,13 @@
     "date": "2026-07-10",
     "caption": "A common myth we hear is that unique wall finishes, like leather or Venetian plaster, are too delicate for everyday life. Many assume they are difficult to clean and won't withstand Ukhrul's humidity. This is often not the case. When applied correctly with modern sealants, these surfaces are remarkably durable. The key is in the preparation and the finishing coats, which create a protective barrier against moisture and wear.\n\nInstead of being impractical, a textured or specialty finish on an accent wall can be a very sensible long-term investment. It adds depth and character that a simple coat of paint cannot, and its inherent texture often hides minor imperfections that would be obvious on a flat, matte surface. We believe in pushing design boundaries while respecting the practical needs of a home. A beautiful finish should be lived with, not just looked at.\n\nShare this with someone who loves a unique design detail.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "An elegant, minimalist study in a home in Manipur, India. The main wall behind a sleek wooden desk features a sophisticated, textured finish resembling dark brown, panelled leather. Warm, indirect light from a modern lamp grazes the wall, highlighting its subtle sheen and texture. The room has bone-white side walls (#F4F0E8) and a few curated objects on the desk, including a black ceramic vase. The overall mood is quiet luxury and craftsmanship, showing a premium, durable finish in a real setting. 4:5 portrait."
+    "image_prompt": "An elegant, minimalist study in a home in Manipur, India. The main wall behind a sleek wooden desk features a sophisticated, textured finish resembling dark brown, panelled leather. Warm, indirect light from a modern lamp grazes the wall, highlighting its subtle sheen and texture. The room has bone-white side walls (#F4F0E8) and a few curated objects on the desk, including a black ceramic vase. The overall mood is quiet luxury and craftsmanship, showing a premium, durable finish in a real setting. 4:5 portrait.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260710_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260710_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "18127454515710514",
+      "facebook": "122116060545358084"
+    }
   },
   {
     "slot": 3,
