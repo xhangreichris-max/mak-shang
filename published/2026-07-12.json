@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Local Adaptation",
     "output_format": "before_after",
     "source_title": "This new café in Delhi reimagines a Florentine home that has evolved over time",
@@ -9,23 +7,14 @@
     "date": "2026-07-12",
     "caption": "International design trends often feel distant, but the best ideas travel well with a little local understanding. Take the layered, time-worn warmth of a classic Florentine home. It’s not about copying a villa in Tuscany; it’s about capturing a feeling. In Ukhrul, this doesn't mean faux-stucco walls. It means embracing natural light, using finishes that feel authentic to our climate, and choosing a palette that complements local materials like bamboo and handwoven textiles. Instead of cold marble, think polished concrete or warm wood tones. The goal is a home that feels both worldly and deeply rooted right here. It's about translating an international mood into a space that feels personal and right for Manipur. Considering a new look for your space? Think about the feeling you want, not just the style you've seen online.\n\nWant to explore how a global style could look in your Ukhrul home? Message us for a consultation. Save this post for inspiration for your next project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "image_prompt": "A beautifully lit living room in Ukhrul, Manipur, with a modern Tangkhul Naga aesthetic. The walls are painted a warm, bone-white limewash finish, giving them a soft, textured appearance. Natural light streams in from a large window, illuminating handcrafted wooden furniture and a large, textured handwoven textile on the wall. The space feels calm, warm, and thoughtfully designed, blending international minimalist sensibilities with local craftsmanship. 4:5 portrait aspect ratio, editorial quality.",
-    "before_after_data": {
-      "headline": "From Trend to Tangkhul",
-      "headline_accent": "Tangkhul",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260712_1_local-adaptation.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260712_1_local-adaptation.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260712_1_local-adaptation.png",
     "publish_result": {
       "instagram": "18094350539374945",
       "facebook": "122116550793358084"
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Comparison",
     "output_format": "swatch_grid",
     "source_title": "Olivia Wilde Explains All Those Bluish Green Walls (And Shares The Exact Paint Colors) In ‘The Invite’",
@@ -33,48 +22,14 @@
     "date": "2026-07-12",
     "caption": "The right shade of bluish-green can define an entire room. It’s a colour family that sits perfectly between calm and character, making it a versatile choice for bedrooms, living rooms, and even kitchens. But not all blue-greens are the same. A shade like 'Teal Blast' brings depth and drama, ideal for an accent wall or a study. A softer, more muted tone like 'Eminent Blue' creates a serene, restful atmosphere that feels modern and sophisticated. The key is to see the colour in your own space, with your lighting. What looks bright and airy in a showroom might feel different in a north-facing room in Ukhrul. Before committing, always test a sample. This small step ensures the colour you choose is the colour you’ll love living with for years to come.\n\nShare this with someone choosing new paint colours. Find the right shade for your project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
-    "infographic_data": {
-      "format": "swatch_grid",
-      "title_main": "Finding the Right",
-      "title_span": "Bluish-Green",
-      "subtitle": "This complex shade can be calming, dramatic, or sophisticated. It all depends on the undertone.",
-      "badge": "🎨 SHADE GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "source": "Source: Asian Paints Royale | @makshangpaints",
-      "swatches": [
-        {
-          "color_hex": "#2E8B9A",
-          "label": "Teal Blast",
-          "sublabel": "7503 · Royale"
-        },
-        {
-          "color_hex": "#5F9EA0",
-          "label": "Creek Blue",
-          "sublabel": "7466 · Royale"
-        },
-        {
-          "color_hex": "#789A9C",
-          "label": "Eminent Blue",
-          "sublabel": "9199 · Royale"
-        },
-        {
-          "color_hex": "#93C5C6",
-          "label": "Iced Teal",
-          "sublabel": "7510 · Royale"
-        }
-      ],
-      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260712_2_comparison.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260712_2_comparison.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260712_2_comparison.png",
     "publish_result": {
       "instagram": "18089950370384297",
       "facebook": "122116579329358084"
     }
   },
   {
-    "slot": 3,
-    "published": true,
     "archetype": "Before You Paint",
     "output_format": "infographic",
     "source_title": "This New Build Colorado Farmhouse Was Designed to Look as If It Had Been There Forever",
@@ -82,26 +37,8 @@
     "date": "2026-07-12",
     "caption": "Creating a home that feels like it has always been there is a special kind of art. It’s about more than just picking a paint colour; it’s about building layers of character and warmth. This 'heritage' look isn't about chasing trends, but about choosing finishes and hues that have lasting appeal. Before you begin, think beyond the swatch. A matte or limewash finish can add a soft, textural quality that instantly feels more established and less like a brand-new paint job. Consider how natural light moves through your rooms during the day, as this will dramatically affect muted, earthy tones. The foundation of this look is impeccable preparation. A perfectly prepped wall ensures the final finish looks intentional and will stand the test of time, giving your home that sought-after ageless quality.\n\nSave this checklist for your next painting project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
-    "infographic_data": {
-      "format": "hero_number",
-      "title_main": "Achieve a Timeless",
-      "title_span": "Heritage Look",
-      "subtitle": "It’s not just about colour, it’s about character. A checklist for lasting style.",
-      "badge": "✅ BEFORE YOU PAINT",
-      "date_label": "MAK-SHANG 2026",
-      "hero_number": "5",
-      "hero_label": "steps to consider",
-      "checklist": [
-        "Consider the finish: matte or limewash adds texture.",
-        "Study the light: how does it change during the day?",
-        "Pick a muted palette: colours inspired by nature.",
-        "Test samples on multiple walls before committing.",
-        "Prep surfaces perfectly for a flawless, lasting job."
-      ],
-      "source": "Source: MAK-SHANG Paints | @makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260712_3_before-you-paint.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260712_3_before-you-paint.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260712_3_before-you-paint.png",
     "publish_result": {
       "instagram": "17902377168464634",
       "facebook": "122116640889358084"
