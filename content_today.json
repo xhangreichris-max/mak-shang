@@ -2,109 +2,83 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Local Adaptation",
-    "output_format": "before_after",
-    "source_title": "This new café in Delhi reimagines a Florentine home that has evolved over time",
-    "source_url": "https://www.architecturaldigest.in/story/this-new-cafe-in-delhi-reimagines-a-florentine-home-that-has-evolved-over-time-firenze/",
-    "date": "2026-07-12",
-    "caption": "International design trends often feel distant, but the best ideas travel well with a little local understanding. Take the layered, time-worn warmth of a classic Florentine home. It’s not about copying a villa in Tuscany; it’s about capturing a feeling. In Ukhrul, this doesn't mean faux-stucco walls. It means embracing natural light, using finishes that feel authentic to our climate, and choosing a palette that complements local materials like bamboo and handwoven textiles. Instead of cold marble, think polished concrete or warm wood tones. The goal is a home that feels both worldly and deeply rooted right here. It's about translating an international mood into a space that feels personal and right for Manipur. Considering a new look for your space? Think about the feeling you want, not just the style you've seen online.\n\nWant to explore how a global style could look in your Ukhrul home? Message us for a consultation. Save this post for inspiration for your next project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "image_prompt": "A beautifully lit living room in Ukhrul, Manipur, with a modern Tangkhul Naga aesthetic. The walls are painted a warm, bone-white limewash finish, giving them a soft, textured appearance. Natural light streams in from a large window, illuminating handcrafted wooden furniture and a large, textured handwoven textile on the wall. The space feels calm, warm, and thoughtfully designed, blending international minimalist sensibilities with local craftsmanship. 4:5 portrait aspect ratio, editorial quality.",
-    "before_after_data": {
-      "headline": "From Trend to Tangkhul",
-      "headline_accent": "Tangkhul",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
+    "archetype": "Trend Spotlight",
+    "output_format": "swatch_overlay",
+    "source_title": "Six tactile homes characterised by stone",
+    "source_url": "https://www.dezeen.com/2026/07/11/stone-houses-roundup/",
+    "date": "2026-07-13",
+    "caption": "Natural stone walls bring incredible texture and history to a home, a feature we see often in Ukhrul. The question is never whether to celebrate them, but how to choose a paint colour that enhances their character without competing. The current trend moves away from stark white contrasts and towards softer, earth-drawn hues. Think of colours that share the stone's own mineral origins: warm greiges, deep clays, and muted off-whites. These shades create a seamless, cohesive look that feels both grounded and sophisticated. The right paint finish, like a soft matte, will absorb light and let the stone's texture remain the hero. It's about creating a dialogue between materials, a look that feels layered and lived-in rather than simply decorated.\n\nThinking of pairing paint with natural stone or brick? Save this post for inspiration.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
+    "image_prompt": "An editorial-style interior photo of a living room in a modern Tangkhul Naga home in Ukhrul. A prominent wall is made of rugged, warm-toned natural stone. The other walls are painted a soft, warm greige. Sunlight streams in from a large window, illuminating the texture of both the stone and the painted surface. The room is styled with handwoven textiles and simple wooden furniture. The composition is vertical, 4:5, with generous negative space.",
+    "overlay_data": {
+      "color_hex": "#A99985",
+      "color_name": "Stone Greige",
+      "color_ref": "MS-SG-12",
+      "headline": "THE NEW NEUTRAL FOR STONE",
+      "footer_handle": "@makshangpaints"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260712_1_local-adaptation.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260712_1_local-adaptation.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260713_1_trend-spotlight.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260713_1_trend-spotlight.png",
     "publish_result": {
-      "instagram": "18094350539374945",
-      "facebook": "122116550793358084"
+      "instagram": "17885188803437579",
+      "facebook": "122116809759358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Comparison",
-    "output_format": "swatch_grid",
-    "source_title": "Olivia Wilde Explains All Those Bluish Green Walls (And Shares The Exact Paint Colors) In ‘The Invite’",
-    "source_url": "https://www.architecturaldigest.com/story/olivia-wilde-explains-all-those-bluish-green-walls-and-shares-the-exact-paint-colors-in-the-invite",
-    "date": "2026-07-12",
-    "caption": "The right shade of bluish-green can define an entire room. It’s a colour family that sits perfectly between calm and character, making it a versatile choice for bedrooms, living rooms, and even kitchens. But not all blue-greens are the same. A shade like 'Teal Blast' brings depth and drama, ideal for an accent wall or a study. A softer, more muted tone like 'Eminent Blue' creates a serene, restful atmosphere that feels modern and sophisticated. The key is to see the colour in your own space, with your lighting. What looks bright and airy in a showroom might feel different in a north-facing room in Ukhrul. Before committing, always test a sample. This small step ensures the colour you choose is the colour you’ll love living with for years to come.\n\nShare this with someone choosing new paint colours. Find the right shade for your project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
-    "infographic_data": {
-      "format": "swatch_grid",
-      "title_main": "Finding the Right",
-      "title_span": "Bluish-Green",
-      "subtitle": "This complex shade can be calming, dramatic, or sophisticated. It all depends on the undertone.",
-      "badge": "🎨 SHADE GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "source": "Source: Asian Paints Royale | @makshangpaints",
-      "swatches": [
-        {
-          "color_hex": "#2E8B9A",
-          "label": "Teal Blast",
-          "sublabel": "7503 · Royale"
-        },
-        {
-          "color_hex": "#5F9EA0",
-          "label": "Creek Blue",
-          "sublabel": "7466 · Royale"
-        },
-        {
-          "color_hex": "#789A9C",
-          "label": "Eminent Blue",
-          "sublabel": "9199 · Royale"
-        },
-        {
-          "color_hex": "#93C5C6",
-          "label": "Iced Teal",
-          "sublabel": "7510 · Royale"
-        }
-      ],
-      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260712_2_comparison.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260712_2_comparison.png",
-    "publish_result": {
-      "instagram": "18089950370384297",
-      "facebook": "122116579329358084"
+    "published": false,
+    "archetype": "Myth Buster",
+    "output_format": "before_after",
+    "source_title": "This 3,600-square-foot Ahmedabad home is built around the needs of ageing parents",
+    "source_url": "https://www.architecturaldigest.in/story/this-3600-square-foot-ahmedabad-home-is-built-around-the-needs-of-ageing-parents-compartment-s4/",
+    "date": "2026-07-13",
+    "caption": "A common myth we encounter is that designing for older family members means choosing a cold, clinical, or overly simplistic colour scheme. The assumption is that practicality must come at the expense of personality. We believe the opposite is true. A home for multiple generations should feel warm, personal, and rich with story, not like a waiting room. Thoughtful colour choices can improve mood and wayfinding without sacrificing beauty. Warm, earthy tones, soft textures, and good lighting create a comfortable and secure environment. Instead of defaulting to plain beige, consider deep terracotta, gentle greens, or creamy whites that reflect personal tastes and memories. A well-designed space supports every family member, making them feel considered and truly at home.\n\nShare this with anyone creating a multi-generational home.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
+    "image_prompt": "An interior shot of a serene and comfortable bedroom in Manipur, designed for an elder. The walls are painted a warm, calming terracotta. The light is soft and golden, coming from a window dressed with sheer, handwoven curtains. A comfortable armchair sits in the corner, and the bed is adorned with Tangkhul textiles. The flooring is a dark, warm wood. The overall feeling is safe, personal, and dignified. 4:5 portrait composition.",
+    "before_after_data": {
+      "headline": "Elderly-Friendly Doesn't Mean *Clinical*",
+      "headline_accent": "Clinical",
+      "footer_handle": "@makshangpaints",
+      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
     }
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Before You Paint",
+    "published": false,
+    "archetype": "Cost & Care Guide",
     "output_format": "infographic",
-    "source_title": "This New Build Colorado Farmhouse Was Designed to Look as If It Had Been There Forever",
-    "source_url": "https://www.architecturaldigest.com/story/landed-interiors-designed-colorado-farmhouse",
-    "date": "2026-07-12",
-    "caption": "Creating a home that feels like it has always been there is a special kind of art. It’s about more than just picking a paint colour; it’s about building layers of character and warmth. This 'heritage' look isn't about chasing trends, but about choosing finishes and hues that have lasting appeal. Before you begin, think beyond the swatch. A matte or limewash finish can add a soft, textural quality that instantly feels more established and less like a brand-new paint job. Consider how natural light moves through your rooms during the day, as this will dramatically affect muted, earthy tones. The foundation of this look is impeccable preparation. A perfectly prepped wall ensures the final finish looks intentional and will stand the test of time, giving your home that sought-after ageless quality.\n\nSave this checklist for your next painting project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "source_title": "Bengaluru Oota Company: The beloved restaurant in Cambridge Layout expands with a new floor",
+    "source_url": "https://www.architecturaldigest.in/story/bengaluru-oota-company-the-beloved-restaurant-in-cambridge-layout-expands-with-a-new-floor/",
+    "date": "2026-07-13",
+    "caption": "Choosing the right paint isn't just about colour, especially in a commercial space like a café or shop. The durability and maintenance requirements are just as important. High-traffic areas see a lot more wear than a quiet bedroom wall. While a standard emulsion might be fine for a home, commercial projects demand finishes that can withstand frequent cleaning, scuffs, and moisture. We typically recommend scrubbable matte or satin finishes for public-facing walls. These cost slightly more upfront per litre, but their longer lifespan and easier maintenance save money and disruption over time. A repaint every 2-3 years for a high-traffic zone is much better than a touch-up every 6 months. It's an investment in keeping your business looking its best.\n\nSave this guide if you're planning a commercial project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
     "infographic_data": {
-      "format": "hero_number",
-      "title_main": "Achieve a Timeless",
-      "title_span": "Heritage Look",
-      "subtitle": "It’s not just about colour, it’s about character. A checklist for lasting style.",
-      "badge": "✅ BEFORE YOU PAINT",
+      "format": "ranked_bars",
+      "title_main": "Paint Durability Guide",
+      "title_span": "Durability",
+      "subtitle": "Typical repaint frequency for different spaces in Ukhrul.",
+      "badge": "🎨 PAINT GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "hero_number": "5",
-      "hero_label": "steps to consider",
-      "checklist": [
-        "Consider the finish: matte or limewash adds texture.",
-        "Study the light: how does it change during the day?",
-        "Pick a muted palette: colours inspired by nature.",
-        "Test samples on multiple walls before committing.",
-        "Prep surfaces perfectly for a flawless, lasting job."
-      ],
-      "source": "Source: MAK-SHANG Paints | @makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260712_3_before-you-paint.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260712_3_before-you-paint.png",
-    "publish_result": {
-      "instagram": "17902377168464634",
-      "facebook": "122116640889358084"
+      "takeaway_num": "2x",
+      "takeaway_text": "more frequent painting needed for commercial spaces.",
+      "source": "Source: MAK-SHANG Paints | @makshangpaints",
+      "bars": [
+        {
+          "label": "High-Traffic Commercial Wall",
+          "value": "2–3 years",
+          "color": "#E02020"
+        },
+        {
+          "label": "Residential Living Room",
+          "value": "5–7 years",
+          "color": "#0A0A0A"
+        },
+        {
+          "label": "Low-Traffic Bedroom",
+          "value": "7–10 years",
+          "color": "#6E6E6E"
+        }
+      ]
     }
   }
 ]
