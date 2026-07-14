@@ -36,7 +36,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Local Adaptation",
     "output_format": "before_after",
     "source_title": "YSG draws on art deco for Sydney apartment revamp",
@@ -50,6 +50,12 @@
       "headline_accent": "Local",
       "footer_handle": "@makshangpaints",
       "footer_tagline": "MAK-SHANG Paints · Ukhrul"
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260714_2_local-adaptation.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260714_2_local-adaptation.png",
+    "publish_result": {
+      "instagram": "17994334398000889",
+      "facebook": "122117094411358084"
     }
   },
   {
