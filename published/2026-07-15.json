@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Trend Spotlight",
     "output_format": "swatch_overlay",
     "source_title": "Maharashtra: This anthill-inspired home rises from the earth in Ahilyanagar",
@@ -9,24 +7,14 @@
     "date": "2026-07-15",
     "caption": "The idea of \"home\" is returning to its roots. We're seeing a move away from stark, sterile interiors toward spaces that feel grounded and connected to the earth. Think warm, baked-earth tones like terracotta, sienna, and ochre. These colours do more than just warm up a room; they create a sense of calm and stability. Inspired by indigenous architecture, like the stunning anthill-inspired homes in Maharashtra, this trend uses colour to mimic the natural world. It works beautifully in Ukhrul, where our connection to the landscape is so strong. A matte, limewash, or textured finish in these shades can make a living room feel like a sanctuary, especially when paired with local handicrafts, cane furniture, and warm, diffused light. It’s a look that feels both ancient and completely of the moment. Save this post for inspiration on your next project. For a consultation, find our link in bio or message us directly.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "An editorial photograph of a modern living room in Ukhrul, Manipur, with a 4:5 portrait aspect ratio. The main feature is a large accent wall painted in a rich, matte terracotta colour with a subtle textured finish. Warm, golden-hour sunlight streams in from a window, highlighting the texture. The room is decorated with minimalist Tangkhul Naga aesthetics: a low wooden coffee table, a handwoven textile throw on a simple cream sofa, and a single piece of black pottery. The space feels calm and has generous negative space.",
-    "overlay_data": {
-      "color_hex": "#C4926A",
-      "color_name": "Baked Earth",
-      "color_ref": "MS-ET-02",
-      "headline": "THE RETURN TO EARTH",
-      "footer_handle": "@makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260715_1_trend-spotlight.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260715_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260715_1_trend-spotlight.png",
     "publish_result": {
       "instagram": "17907304953443364",
       "facebook": "122117303757358084"
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "5 bathroom lighting ideas that will make your space look more expensive",
@@ -34,17 +22,14 @@
     "date": "2026-07-15",
     "caption": "Here’s a common belief we hear: \"To improve bathroom lighting, you just need better fixtures.\" This is only half the story. The real secret to a beautifully lit bathroom isn't just the bulb or the lamp; it's the wall finish. The wrong paint can absorb light, create harsh glare, or make even expensive lighting look flat. A high-quality paint with a satin or eggshell finish reflects light softly, making the space feel brighter and larger without unwanted shine. For example, a soft bone white in a satin finish can amplify natural light during the day and create a warm, spa-like glow from artificial lights at night. Don't spend a fortune on fixtures before considering your walls. The right paint is your most powerful lighting tool. Share this with someone planning a bathroom refresh. Ready to see the difference? Message us for a quote, or visit the link in our bio.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A 4:5 portrait, beautifully lit bathroom in a home in Ukhrul, Manipur. The walls are painted a soft, bone-white (#F4F0E8) in a subtle satin finish, gently reflecting the warm light from a modern, minimalist wall sconce. Natural light filters through a frosted glass window. The room features a dark wood vanity, a simple basin, and a neatly folded handwoven Tangkhul textile. The atmosphere is serene and spa-like, demonstrating how paint finish enhances light. The composition is clean and editorial. No people are visible.",
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260715_2_myth-buster.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260715_2_myth-buster.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260715_2_myth-buster.png",
     "publish_result": {
       "instagram": "17891182110589232",
       "facebook": "122117339793358084"
     }
   },
   {
-    "slot": 3,
-    "published": true,
     "archetype": "Cost & Care Guide",
     "output_format": "infographic",
     "source_title": "Essence tiles by Casalgrande Padana",
@@ -52,41 +37,8 @@
     "date": "2026-07-15",
     "caption": "Bringing natural texture indoors is a timeless way to add warmth, but the choice of material has long-term implications for your wallet and your weekend. While real wood panelling on an accent wall is beautiful, it often requires significant upkeep, especially in a humid climate like ours in Ukhrul. It can be prone to warping, pests, and requires regular polishing. A modern alternative is using high-quality textured paints or lime washes to create a similar organic effect. These finishes offer remarkable durability and are far easier to maintain. They resist moisture better and can be cleaned easily, making them a practical choice for a lasting, sophisticated look without the high maintenance schedule of real wood. Considering a textured wall? Save this guide for your planning. To discuss options for your home, message us or check the link in our bio.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
-    "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Textured Wall Finishes",
-      "title_span": "By the Numbers",
-      "subtitle": "A practical comparison for homes in Ukhrul's climate.",
-      "badge": "🎨 PAINT GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "3x",
-      "takeaway_text": "less maintenance for textured paint vs. wood panels.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
-        {
-          "label": "Textured Paint: Moisture Resistance",
-          "value": "High",
-          "color": "#E02020"
-        },
-        {
-          "label": "Real Wood Panelling: Moisture Resistance",
-          "value": "Low",
-          "color": "#0A0A0A"
-        },
-        {
-          "label": "Textured Paint: Annual Maintenance",
-          "value": "Minimal",
-          "color": "#6E6E6E"
-        },
-        {
-          "label": "Real Wood Panelling: Annual Maintenance",
-          "value": "High",
-          "color": "#C4B8A8"
-        }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260715_3_cost-and-care-guide.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260715_3_cost-and-care-guide.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260715_3_cost-and-care-guide.png",
     "publish_result": {
       "instagram": "18108164038816018",
       "facebook": "122117408535358084"
