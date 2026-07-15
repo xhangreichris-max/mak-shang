@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "5 bathroom lighting ideas that will make your space look more expensive",
@@ -34,7 +34,13 @@
     "date": "2026-07-15",
     "caption": "Here’s a common belief we hear: \"To improve bathroom lighting, you just need better fixtures.\" This is only half the story. The real secret to a beautifully lit bathroom isn't just the bulb or the lamp; it's the wall finish. The wrong paint can absorb light, create harsh glare, or make even expensive lighting look flat. A high-quality paint with a satin or eggshell finish reflects light softly, making the space feel brighter and larger without unwanted shine. For example, a soft bone white in a satin finish can amplify natural light during the day and create a warm, spa-like glow from artificial lights at night. Don't spend a fortune on fixtures before considering your walls. The right paint is your most powerful lighting tool. Share this with someone planning a bathroom refresh. Ready to see the difference? Message us for a quote, or visit the link in our bio.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A 4:5 portrait, beautifully lit bathroom in a home in Ukhrul, Manipur. The walls are painted a soft, bone-white (#F4F0E8) in a subtle satin finish, gently reflecting the warm light from a modern, minimalist wall sconce. Natural light filters through a frosted glass window. The room features a dark wood vanity, a simple basin, and a neatly folded handwoven Tangkhul textile. The atmosphere is serene and spa-like, demonstrating how paint finish enhances light. The composition is clean and editorial. No people are visible."
+    "image_prompt": "A 4:5 portrait, beautifully lit bathroom in a home in Ukhrul, Manipur. The walls are painted a soft, bone-white (#F4F0E8) in a subtle satin finish, gently reflecting the warm light from a modern, minimalist wall sconce. Natural light filters through a frosted glass window. The room features a dark wood vanity, a simple basin, and a neatly folded handwoven Tangkhul textile. The atmosphere is serene and spa-like, demonstrating how paint finish enhances light. The composition is clean and editorial. No people are visible.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260715_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260715_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "17891182110589232",
+      "facebook": "122117339793358084"
+    }
   },
   {
     "slot": 3,
