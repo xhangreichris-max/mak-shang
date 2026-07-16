@@ -25,7 +25,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Before You Paint",
     "output_format": "infographic",
     "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
@@ -50,6 +50,12 @@
         "Choose the right finish for the room's use."
       ],
       "source": "Source: MAK-SHANG Paints | @makshangpaints"
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260716_2_before-you-paint.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260716_2_before-you-paint.png",
+    "publish_result": {
+      "instagram": "18431065906135576",
+      "facebook": "122117595657358084"
     }
   },
   {
