@@ -2,94 +2,97 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Trend Spotlight",
-    "output_format": "swatch_overlay",
-    "source_title": "Maharashtra: This anthill-inspired home rises from the earth in Ahilyanagar",
-    "source_url": "https://www.architecturaldigest.in/story/maharashtra-this-anthill-inspired-home-rises-from-the-earth-in-ahilyanagar-kaushal-tatiya-architects/",
-    "date": "2026-07-15",
-    "caption": "The idea of \"home\" is returning to its roots. We're seeing a move away from stark, sterile interiors toward spaces that feel grounded and connected to the earth. Think warm, baked-earth tones like terracotta, sienna, and ochre. These colours do more than just warm up a room; they create a sense of calm and stability. Inspired by indigenous architecture, like the stunning anthill-inspired homes in Maharashtra, this trend uses colour to mimic the natural world. It works beautifully in Ukhrul, where our connection to the landscape is so strong. A matte, limewash, or textured finish in these shades can make a living room feel like a sanctuary, especially when paired with local handicrafts, cane furniture, and warm, diffused light. It’s a look that feels both ancient and completely of the moment. Save this post for inspiration on your next project. For a consultation, find our link in bio or message us directly.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "An editorial photograph of a modern living room in Ukhrul, Manipur, with a 4:5 portrait aspect ratio. The main feature is a large accent wall painted in a rich, matte terracotta colour with a subtle textured finish. Warm, golden-hour sunlight streams in from a window, highlighting the texture. The room is decorated with minimalist Tangkhul Naga aesthetics: a low wooden coffee table, a handwoven textile throw on a simple cream sofa, and a single piece of black pottery. The space feels calm and has generous negative space.",
-    "overlay_data": {
-      "color_hex": "#C4926A",
-      "color_name": "Baked Earth",
-      "color_ref": "MS-ET-02",
-      "headline": "THE RETURN TO EARTH",
-      "footer_handle": "@makshangpaints"
+    "archetype": "Local Adaptation",
+    "output_format": "before_after",
+    "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
+    "source_url": "https://www.architecturaldigest.in/story/architects-and-interior-designers-in-delhi-you-must-know-from-the-ad-pro-directory/",
+    "date": "2026-07-16",
+    "caption": "Many of our clients admire the clean, minimalist look popular in Delhi's luxury apartments, but worry it might feel too cold for a home in Ukhrul. The secret isn't to copy, but to adapt. We believe in taking the core principle, an appreciation for light and uncluttered space, and grounding it with local warmth. Imagine pairing crisp, bone-white walls with the rich texture of handwoven Tangkhul textiles or the organic lines of cane furniture. This approach creates a dialogue between international design and local identity. The result is a home that feels both modern and deeply rooted, sophisticated yet welcoming. It's a look that respects global trends while celebrating the unique character of a Manipuri home.\n\nSave this post for inspiration on blending modern and traditional styles.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
+    "image_prompt": "Editorial photograph of a serene, beautifully lit living room in a modern home in Ukhrul, Manipur. 4:5 portrait aspect ratio. The walls are finished in a sophisticated bone white (#F4F0E8), with one accent wall showcasing a subtle, textured lime wash finish. The room is filled with warm, natural golden-hour light from a large window that offers a soft-focus view of green hills outside. Furniture is minimal: a sleek cane armchair with a handwoven Tangkhul Naga textile draped over it. The focus is on the interplay between the clean painted surfaces and natural, warm textures. The composition has generous negative space, feeling calm and considered.",
+    "before_after_data": {
+      "headline": "Delhi Minimalism, Ukhrul Warmth",
+      "headline_accent": "Warmth",
+      "footer_handle": "@makshangpaints",
+      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260715_1_trend-spotlight.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260715_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260716_1_local-adaptation.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260716_1_local-adaptation.png",
     "publish_result": {
-      "instagram": "17907304953443364",
-      "facebook": "122117303757358084"
+      "instagram": "18480182815102534",
+      "facebook": "122117562471358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Myth Buster",
-    "output_format": "ai_image",
-    "source_title": "5 bathroom lighting ideas that will make your space look more expensive",
-    "source_url": "https://www.architecturaldigest.in/story/5-bathroom-lighting-ideas-that-will-make-your-space-look-more-expensive/",
-    "date": "2026-07-15",
-    "caption": "Here’s a common belief we hear: \"To improve bathroom lighting, you just need better fixtures.\" This is only half the story. The real secret to a beautifully lit bathroom isn't just the bulb or the lamp; it's the wall finish. The wrong paint can absorb light, create harsh glare, or make even expensive lighting look flat. A high-quality paint with a satin or eggshell finish reflects light softly, making the space feel brighter and larger without unwanted shine. For example, a soft bone white in a satin finish can amplify natural light during the day and create a warm, spa-like glow from artificial lights at night. Don't spend a fortune on fixtures before considering your walls. The right paint is your most powerful lighting tool. Share this with someone planning a bathroom refresh. Ready to see the difference? Message us for a quote, or visit the link in our bio.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A 4:5 portrait, beautifully lit bathroom in a home in Ukhrul, Manipur. The walls are painted a soft, bone-white (#F4F0E8) in a subtle satin finish, gently reflecting the warm light from a modern, minimalist wall sconce. Natural light filters through a frosted glass window. The room features a dark wood vanity, a simple basin, and a neatly folded handwoven Tangkhul textile. The atmosphere is serene and spa-like, demonstrating how paint finish enhances light. The composition is clean and editorial. No people are visible.",
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260715_2_myth-buster.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260715_2_myth-buster.png",
-    "publish_result": {
-      "instagram": "17891182110589232",
-      "facebook": "122117339793358084"
+    "published": false,
+    "archetype": "Before You Paint",
+    "output_format": "infographic",
+    "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
+    "source_url": "https://www.architecturaldigest.in/story/architects-and-interior-designers-in-delhi-you-must-know-from-the-ad-pro-directory/",
+    "date": "2026-07-16",
+    "caption": "A truly exceptional paint finish starts with a clear plan, not just a can of paint. Top interior designers in cities like Delhi spend most of their time on strategy before the first coat is ever applied. We bring that same level of consideration to every project in Ukhrul. Before you settle on a colour, ask yourself these crucial questions. How does the sunlight move through your room during the day? What feeling do you want the space to evoke: calm, energy, or comfort? Have you tested large swatches on the actual wall, observing them in morning and evening light? Thinking through these details is the difference between a paint job and a thoughtfully designed interior.\n\nShare this checklist with someone planning their next paint project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "infographic_data": {
+      "format": "hero_number",
+      "title_main": "The Designer's Checklist",
+      "title_span": "Checklist",
+      "subtitle": "5 questions to ask before you choose a wall colour.",
+      "badge": "✅ BEFORE YOU PAINT",
+      "date_label": "MAK-SHANG 2026",
+      "hero_number": "5",
+      "hero_label": "questions to ask",
+      "checklist": [
+        "Study how natural light changes in the room.",
+        "Define the mood: calm, energetic, or cozy?",
+        "Test paint swatches directly on the wall.",
+        "Consider your existing furniture and textiles.",
+        "Choose the right finish for the room's use."
+      ],
+      "source": "Source: MAK-SHANG Paints | @makshangpaints"
     }
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Cost & Care Guide",
-    "output_format": "infographic",
-    "source_title": "Essence tiles by Casalgrande Padana",
-    "source_url": "https://www.dezeen.com/2026/07/14/essence-tiles-casalgrande-padana-dezeen-showroom/",
-    "date": "2026-07-15",
-    "caption": "Bringing natural texture indoors is a timeless way to add warmth, but the choice of material has long-term implications for your wallet and your weekend. While real wood panelling on an accent wall is beautiful, it often requires significant upkeep, especially in a humid climate like ours in Ukhrul. It can be prone to warping, pests, and requires regular polishing. A modern alternative is using high-quality textured paints or lime washes to create a similar organic effect. These finishes offer remarkable durability and are far easier to maintain. They resist moisture better and can be cleaned easily, making them a practical choice for a lasting, sophisticated look without the high maintenance schedule of real wood. Considering a textured wall? Save this guide for your planning. To discuss options for your home, message us or check the link in our bio.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
+    "published": false,
+    "archetype": "Comparison",
+    "output_format": "swatch_grid",
+    "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
+    "source_url": "https://www.architecturaldigest.in/story/architects-and-interior-designers-in-delhi-you-must-know-from-the-ad-pro-directory/",
+    "date": "2026-07-16",
+    "caption": "When we talk about neutral palettes, our minds often go straight to white. But in many of India's most thoughtfully designed contemporary homes, designers are using a more complex and layered family of neutrals. These are the shades that bridge grey and beige, like a soft mushroom, or carry hints of green and earth, like a muted river stone. These colours create a backdrop that is calming and sophisticated, with more depth and character than a simple stark white. They have a unique ability to feel warm in the Ukhrul morning light and cozy in the evening, pairing beautifully with both sleek modern furniture and the rich textures of our local crafts.\n\nSave this post for your next colour consultation.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
     "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Textured Wall Finishes",
-      "title_span": "By the Numbers",
-      "subtitle": "A practical comparison for homes in Ukhrul's climate.",
-      "badge": "🎨 PAINT GUIDE",
+      "format": "swatch_grid",
+      "title_main": "Beyond White: The New Neutrals",
+      "title_span": "New Neutrals",
+      "subtitle": "A sophisticated palette inspired by modern Indian luxury interiors.",
+      "badge": "🎨 SHADE GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "3x",
-      "takeaway_text": "less maintenance for textured paint vs. wood panels.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
+      "source": "Source: Asian Paints Royale | @makshangpaints",
+      "swatches": [
         {
-          "label": "Textured Paint: Moisture Resistance",
-          "value": "High",
-          "color": "#E02020"
+          "color_hex": "#F5F1E4",
+          "label": "Antique White",
+          "sublabel": "L161 · Royale"
         },
         {
-          "label": "Real Wood Panelling: Moisture Resistance",
-          "value": "Low",
-          "color": "#0A0A0A"
+          "color_hex": "#CFC5BB",
+          "label": "Mushroom",
+          "sublabel": "8454 · Royale"
         },
         {
-          "label": "Textured Paint: Annual Maintenance",
-          "value": "Minimal",
-          "color": "#6E6E6E"
+          "color_hex": "#B1B09F",
+          "label": "River Dale",
+          "sublabel": "9499 · Royale"
         },
         {
-          "label": "Real Wood Panelling: Annual Maintenance",
-          "value": "High",
-          "color": "#C4B8A8"
+          "color_hex": "#A59D96",
+          "label": "Grey Buck",
+          "sublabel": "8283 · Royale"
         }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260715_3_cost-and-care-guide.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260715_3_cost-and-care-guide.png",
-    "publish_result": {
-      "instagram": "18108164038816018",
-      "facebook": "122117408535358084"
+      ],
+      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
     }
   }
 ]
