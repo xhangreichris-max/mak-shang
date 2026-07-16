@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Local Adaptation",
     "output_format": "before_after",
     "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
@@ -9,23 +7,14 @@
     "date": "2026-07-16",
     "caption": "Many of our clients admire the clean, minimalist look popular in Delhi's luxury apartments, but worry it might feel too cold for a home in Ukhrul. The secret isn't to copy, but to adapt. We believe in taking the core principle, an appreciation for light and uncluttered space, and grounding it with local warmth. Imagine pairing crisp, bone-white walls with the rich texture of handwoven Tangkhul textiles or the organic lines of cane furniture. This approach creates a dialogue between international design and local identity. The result is a home that feels both modern and deeply rooted, sophisticated yet welcoming. It's a look that respects global trends while celebrating the unique character of a Manipuri home.\n\nSave this post for inspiration on blending modern and traditional styles.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "image_prompt": "Editorial photograph of a serene, beautifully lit living room in a modern home in Ukhrul, Manipur. 4:5 portrait aspect ratio. The walls are finished in a sophisticated bone white (#F4F0E8), with one accent wall showcasing a subtle, textured lime wash finish. The room is filled with warm, natural golden-hour light from a large window that offers a soft-focus view of green hills outside. Furniture is minimal: a sleek cane armchair with a handwoven Tangkhul Naga textile draped over it. The focus is on the interplay between the clean painted surfaces and natural, warm textures. The composition has generous negative space, feeling calm and considered.",
-    "before_after_data": {
-      "headline": "Delhi Minimalism, Ukhrul Warmth",
-      "headline_accent": "Warmth",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260716_1_local-adaptation.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260716_1_local-adaptation.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260716_1_local-adaptation.png",
     "publish_result": {
       "instagram": "18480182815102534",
       "facebook": "122117562471358084"
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Before You Paint",
     "output_format": "infographic",
     "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
@@ -33,34 +22,14 @@
     "date": "2026-07-16",
     "caption": "A truly exceptional paint finish starts with a clear plan, not just a can of paint. Top interior designers in cities like Delhi spend most of their time on strategy before the first coat is ever applied. We bring that same level of consideration to every project in Ukhrul. Before you settle on a colour, ask yourself these crucial questions. How does the sunlight move through your room during the day? What feeling do you want the space to evoke: calm, energy, or comfort? Have you tested large swatches on the actual wall, observing them in morning and evening light? Thinking through these details is the difference between a paint job and a thoughtfully designed interior.\n\nShare this checklist with someone planning their next paint project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
-    "infographic_data": {
-      "format": "hero_number",
-      "title_main": "The Designer's Checklist",
-      "title_span": "Checklist",
-      "subtitle": "5 questions to ask before you choose a wall colour.",
-      "badge": "✅ BEFORE YOU PAINT",
-      "date_label": "MAK-SHANG 2026",
-      "hero_number": "5",
-      "hero_label": "questions to ask",
-      "checklist": [
-        "Study how natural light changes in the room.",
-        "Define the mood: calm, energetic, or cozy?",
-        "Test paint swatches directly on the wall.",
-        "Consider your existing furniture and textiles.",
-        "Choose the right finish for the room's use."
-      ],
-      "source": "Source: MAK-SHANG Paints | @makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260716_2_before-you-paint.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260716_2_before-you-paint.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260716_2_before-you-paint.png",
     "publish_result": {
       "instagram": "18431065906135576",
       "facebook": "122117595657358084"
     }
   },
   {
-    "slot": 3,
-    "published": true,
     "archetype": "Comparison",
     "output_format": "swatch_grid",
     "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
@@ -68,40 +37,8 @@
     "date": "2026-07-16",
     "caption": "When we talk about neutral palettes, our minds often go straight to white. But in many of India's most thoughtfully designed contemporary homes, designers are using a more complex and layered family of neutrals. These are the shades that bridge grey and beige, like a soft mushroom, or carry hints of green and earth, like a muted river stone. These colours create a backdrop that is calming and sophisticated, with more depth and character than a simple stark white. They have a unique ability to feel warm in the Ukhrul morning light and cozy in the evening, pairing beautifully with both sleek modern furniture and the rich textures of our local crafts.\n\nSave this post for your next colour consultation.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
-    "infographic_data": {
-      "format": "swatch_grid",
-      "title_main": "Beyond White: The New Neutrals",
-      "title_span": "New Neutrals",
-      "subtitle": "A sophisticated palette inspired by modern Indian luxury interiors.",
-      "badge": "🎨 SHADE GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "source": "Source: Asian Paints Royale | @makshangpaints",
-      "swatches": [
-        {
-          "color_hex": "#F5F1E4",
-          "label": "Antique White",
-          "sublabel": "L161 · Royale"
-        },
-        {
-          "color_hex": "#CFC5BB",
-          "label": "Mushroom",
-          "sublabel": "8454 · Royale"
-        },
-        {
-          "color_hex": "#B1B09F",
-          "label": "River Dale",
-          "sublabel": "9499 · Royale"
-        },
-        {
-          "color_hex": "#A59D96",
-          "label": "Grey Buck",
-          "sublabel": "8283 · Royale"
-        }
-      ],
-      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260716_3_comparison.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260716_3_comparison.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260716_3_comparison.png",
     "publish_result": {
       "instagram": "18152151943497101",
       "facebook": "122117656719358084"
