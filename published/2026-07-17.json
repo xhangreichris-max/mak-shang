@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Trend Spotlight",
     "output_format": "swatch_overlay",
     "source_title": "8 celebrity homes that prove statement colours can transform a space",
@@ -9,24 +7,14 @@
     "date": "2026-07-17",
     "caption": "The era of all-white-everything is giving way to something much more personal and expressive. We're seeing a clear trend towards using rich, statement colours not just on accent walls, but across entire rooms to create a deeply immersive feeling. This isn't about chasing fleeting fads; it's about choosing a colour that tells a story about you.\n\nThink about a deep terracotta in a reading nook, a muted moss green in the bedroom, or a warm ochre in the living space. The right colour creates a backdrop that makes your furniture, textiles, and art feel cohesive and considered. It's a design choice that works hard, setting the mood and reflecting personality without adding clutter. For homes in Ukhrul, leaning into these earthy, nature-inspired palettes connects the interior with our beautiful landscape, creating a sanctuary that feels both stylish and rooted.\n\nReady to find your statement colour? Save this post for inspiration for your next project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "A beautifully styled living room in a modern Tangkhul Naga home in Ukhrul. The walls are painted a deep, matte terracotta. Natural light streams in from a large window, highlighting the texture of the paint. The room features a handwoven textile throw on a simple wooden sofa, a potted plant, and a few pieces of black pottery. The overall feeling is warm, earthy, and editorial, with generous negative space. 4:5 portrait aspect ratio.",
-    "overlay_data": {
-      "color_hex": "#B4684D",
-      "color_name": "Earthy Terracotta",
-      "color_ref": "MS-ET-11",
-      "headline": "THE NEW NEUTRAL IS BOLD",
-      "footer_handle": "@makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260717_1_trend-spotlight.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260717_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260717_1_trend-spotlight.png",
     "publish_result": {
       "instagram": "18108546299092471",
       "facebook": "122117794815358084"
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "Bertolli Just Gave Alfredo Sauce Its Own Official Pantone Color",
@@ -34,17 +22,14 @@
     "date": "2026-07-17",
     "caption": "Paint Myth: “A room only looks clean and spacious if it’s painted brilliant white.”\n\nWhile pure white has its place, it can often feel sterile or cold, especially in rooms with less natural light. The real secret to a sophisticated, warm, and inviting space is often found in the subtle world of off-whites and warm creams. These shades have undertones of yellow, beige, or grey that add depth and character without sacrificing the feeling of openness.\n\nA warm cream, like the colour of fresh pasta or aged parchment, interacts beautifully with the golden-hour light we get in Ukhrul. It provides a soft, glowing backdrop for wooden furniture, local textiles, and indoor plants. Unlike stark white, which can create harsh contrasts, a creamy hue feels more harmonious and lived-in from day one. It proves that spaciousness is about warmth and light, not just the absence of colour.\n\nShare this with someone who is deciding on the perfect white for their home.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A serene and minimalist dining space in a home in Manipur. The walls are painted a beautiful, warm off-white cream (#F4F0E8). Sunlight from a side window softly illuminates the room, creating a gentle glow. The furniture includes a simple, dark wood dining table and chairs. A single ceramic vase with a green leaf sits on the table. The composition is calm and spacious, with a focus on the quality of light and the subtle warmth of the wall colour. Editorial style, 4:5 portrait orientation.",
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260717_2_myth-buster.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260717_2_myth-buster.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260717_2_myth-buster.png",
     "publish_result": {
       "instagram": "17969737437089623",
       "facebook": "122117820771358084"
     }
   },
   {
-    "slot": 3,
-    "published": true,
     "archetype": "Cost & Care Guide",
     "output_format": "infographic",
     "source_title": "How to Cool a Room Without AC: 6 Tips That Will Actually Lower Temperatures",
@@ -52,36 +37,8 @@
     "date": "2026-07-17",
     "caption": "Choosing the right paint isn't just about aesthetics; it's a practical decision that can affect your home's comfort and even your energy bills. One of the simplest ways to manage heat in the warm Ukhrul climate is by using colour to your advantage. Light-coloured paints are highly effective at reflecting sunlight and the heat it carries.\n\nA high-quality, light-coloured exterior paint can reflect up to 80% of solar radiation, keeping your home cooler and reducing the need for constant air conditioning. The same principle applies indoors. Rooms painted in whites, creams, or pale pastels feel cooler and brighter because they reflect more light. This is a low-tech, high-impact strategy for creating a more comfortable living environment, especially for west-facing walls that get the most intense afternoon sun. It’s a smart investment in the long-term livability and care of your home.\n\nSave this guide for a smarter, cooler home repaint.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
-    "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Paint a Cooler",
-      "title_span": "Home",
-      "subtitle": "How your wall colour choice can help manage summer heat.",
-      "badge": "🎨 PAINT GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "5-10°C",
-      "takeaway_text": "cooler surface temp with reflective paint",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
-        {
-          "label": "Light Exterior (White/Cream)",
-          "value": "85% Heat Reflected",
-          "color": "#E02020"
-        },
-        {
-          "label": "Mid-Tones (Grey/Beige)",
-          "value": "45% Heat Reflected",
-          "color": "#0A0A0A"
-        },
-        {
-          "label": "Dark Exterior (Navy/Charcoal)",
-          "value": "15% Heat Reflected",
-          "color": "#6E6E6E"
-        }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260717_3_cost-and-care-guide.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260717_3_cost-and-care-guide.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260717_3_cost-and-care-guide.png",
     "publish_result": {
       "instagram": "18088322528389067",
       "facebook": "122117920905358084"
