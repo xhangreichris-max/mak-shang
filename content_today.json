@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "Bertolli Just Gave Alfredo Sauce Its Own Official Pantone Color",
@@ -34,7 +34,13 @@
     "date": "2026-07-17",
     "caption": "Paint Myth: “A room only looks clean and spacious if it’s painted brilliant white.”\n\nWhile pure white has its place, it can often feel sterile or cold, especially in rooms with less natural light. The real secret to a sophisticated, warm, and inviting space is often found in the subtle world of off-whites and warm creams. These shades have undertones of yellow, beige, or grey that add depth and character without sacrificing the feeling of openness.\n\nA warm cream, like the colour of fresh pasta or aged parchment, interacts beautifully with the golden-hour light we get in Ukhrul. It provides a soft, glowing backdrop for wooden furniture, local textiles, and indoor plants. Unlike stark white, which can create harsh contrasts, a creamy hue feels more harmonious and lived-in from day one. It proves that spaciousness is about warmth and light, not just the absence of colour.\n\nShare this with someone who is deciding on the perfect white for their home.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A serene and minimalist dining space in a home in Manipur. The walls are painted a beautiful, warm off-white cream (#F4F0E8). Sunlight from a side window softly illuminates the room, creating a gentle glow. The furniture includes a simple, dark wood dining table and chairs. A single ceramic vase with a green leaf sits on the table. The composition is calm and spacious, with a focus on the quality of light and the subtle warmth of the wall colour. Editorial style, 4:5 portrait orientation."
+    "image_prompt": "A serene and minimalist dining space in a home in Manipur. The walls are painted a beautiful, warm off-white cream (#F4F0E8). Sunlight from a side window softly illuminates the room, creating a gentle glow. The furniture includes a simple, dark wood dining table and chairs. A single ceramic vase with a green leaf sits on the table. The composition is calm and spacious, with a focus on the quality of light and the subtle warmth of the wall colour. Editorial style, 4:5 portrait orientation.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260717_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260717_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "17969737437089623",
+      "facebook": "122117820771358084"
+    }
   },
   {
     "slot": 3,
