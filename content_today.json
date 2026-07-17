@@ -2,109 +2,77 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Local Adaptation",
-    "output_format": "before_after",
-    "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
-    "source_url": "https://www.architecturaldigest.in/story/architects-and-interior-designers-in-delhi-you-must-know-from-the-ad-pro-directory/",
-    "date": "2026-07-16",
-    "caption": "Many of our clients admire the clean, minimalist look popular in Delhi's luxury apartments, but worry it might feel too cold for a home in Ukhrul. The secret isn't to copy, but to adapt. We believe in taking the core principle, an appreciation for light and uncluttered space, and grounding it with local warmth. Imagine pairing crisp, bone-white walls with the rich texture of handwoven Tangkhul textiles or the organic lines of cane furniture. This approach creates a dialogue between international design and local identity. The result is a home that feels both modern and deeply rooted, sophisticated yet welcoming. It's a look that respects global trends while celebrating the unique character of a Manipuri home.\n\nSave this post for inspiration on blending modern and traditional styles.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "image_prompt": "Editorial photograph of a serene, beautifully lit living room in a modern home in Ukhrul, Manipur. 4:5 portrait aspect ratio. The walls are finished in a sophisticated bone white (#F4F0E8), with one accent wall showcasing a subtle, textured lime wash finish. The room is filled with warm, natural golden-hour light from a large window that offers a soft-focus view of green hills outside. Furniture is minimal: a sleek cane armchair with a handwoven Tangkhul Naga textile draped over it. The focus is on the interplay between the clean painted surfaces and natural, warm textures. The composition has generous negative space, feeling calm and considered.",
-    "before_after_data": {
-      "headline": "Delhi Minimalism, Ukhrul Warmth",
-      "headline_accent": "Warmth",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
+    "archetype": "Trend Spotlight",
+    "output_format": "swatch_overlay",
+    "source_title": "8 celebrity homes that prove statement colours can transform a space",
+    "source_url": "https://www.architecturaldigest.in/story/celebrity-homes-that-prove-statement-colours-can-transform-a-space/",
+    "date": "2026-07-17",
+    "caption": "The era of all-white-everything is giving way to something much more personal and expressive. We're seeing a clear trend towards using rich, statement colours not just on accent walls, but across entire rooms to create a deeply immersive feeling. This isn't about chasing fleeting fads; it's about choosing a colour that tells a story about you.\n\nThink about a deep terracotta in a reading nook, a muted moss green in the bedroom, or a warm ochre in the living space. The right colour creates a backdrop that makes your furniture, textiles, and art feel cohesive and considered. It's a design choice that works hard, setting the mood and reflecting personality without adding clutter. For homes in Ukhrul, leaning into these earthy, nature-inspired palettes connects the interior with our beautiful landscape, creating a sanctuary that feels both stylish and rooted.\n\nReady to find your statement colour? Save this post for inspiration for your next project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
+    "image_prompt": "A beautifully styled living room in a modern Tangkhul Naga home in Ukhrul. The walls are painted a deep, matte terracotta. Natural light streams in from a large window, highlighting the texture of the paint. The room features a handwoven textile throw on a simple wooden sofa, a potted plant, and a few pieces of black pottery. The overall feeling is warm, earthy, and editorial, with generous negative space. 4:5 portrait aspect ratio.",
+    "overlay_data": {
+      "color_hex": "#B4684D",
+      "color_name": "Earthy Terracotta",
+      "color_ref": "MS-ET-11",
+      "headline": "THE NEW NEUTRAL IS BOLD",
+      "footer_handle": "@makshangpaints"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260716_1_local-adaptation.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260716_1_local-adaptation.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260717_1_trend-spotlight.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260717_1_trend-spotlight.png",
     "publish_result": {
-      "instagram": "18480182815102534",
-      "facebook": "122117562471358084"
+      "instagram": "18108546299092471",
+      "facebook": "122117794815358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Before You Paint",
-    "output_format": "infographic",
-    "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
-    "source_url": "https://www.architecturaldigest.in/story/architects-and-interior-designers-in-delhi-you-must-know-from-the-ad-pro-directory/",
-    "date": "2026-07-16",
-    "caption": "A truly exceptional paint finish starts with a clear plan, not just a can of paint. Top interior designers in cities like Delhi spend most of their time on strategy before the first coat is ever applied. We bring that same level of consideration to every project in Ukhrul. Before you settle on a colour, ask yourself these crucial questions. How does the sunlight move through your room during the day? What feeling do you want the space to evoke: calm, energy, or comfort? Have you tested large swatches on the actual wall, observing them in morning and evening light? Thinking through these details is the difference between a paint job and a thoughtfully designed interior.\n\nShare this checklist with someone planning their next paint project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
-    "infographic_data": {
-      "format": "hero_number",
-      "title_main": "The Designer's Checklist",
-      "title_span": "Checklist",
-      "subtitle": "5 questions to ask before you choose a wall colour.",
-      "badge": "✅ BEFORE YOU PAINT",
-      "date_label": "MAK-SHANG 2026",
-      "hero_number": "5",
-      "hero_label": "questions to ask",
-      "checklist": [
-        "Study how natural light changes in the room.",
-        "Define the mood: calm, energetic, or cozy?",
-        "Test paint swatches directly on the wall.",
-        "Consider your existing furniture and textiles.",
-        "Choose the right finish for the room's use."
-      ],
-      "source": "Source: MAK-SHANG Paints | @makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260716_2_before-you-paint.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260716_2_before-you-paint.png",
-    "publish_result": {
-      "instagram": "18431065906135576",
-      "facebook": "122117595657358084"
-    }
+    "published": false,
+    "archetype": "Myth Buster",
+    "output_format": "ai_image",
+    "source_title": "Bertolli Just Gave Alfredo Sauce Its Own Official Pantone Color",
+    "source_url": "https://www.yankodesign.com/2026/07/16/bertolli-just-gave-alfredo-sauce-its-own-official-pantone-color/?utm_source=rss&utm_medium=rss&utm_campaign=bertolli-just-gave-alfredo-sauce-its-own-official-pantone-color",
+    "date": "2026-07-17",
+    "caption": "Paint Myth: “A room only looks clean and spacious if it’s painted brilliant white.”\n\nWhile pure white has its place, it can often feel sterile or cold, especially in rooms with less natural light. The real secret to a sophisticated, warm, and inviting space is often found in the subtle world of off-whites and warm creams. These shades have undertones of yellow, beige, or grey that add depth and character without sacrificing the feeling of openness.\n\nA warm cream, like the colour of fresh pasta or aged parchment, interacts beautifully with the golden-hour light we get in Ukhrul. It provides a soft, glowing backdrop for wooden furniture, local textiles, and indoor plants. Unlike stark white, which can create harsh contrasts, a creamy hue feels more harmonious and lived-in from day one. It proves that spaciousness is about warmth and light, not just the absence of colour.\n\nShare this with someone who is deciding on the perfect white for their home.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
+    "image_prompt": "A serene and minimalist dining space in a home in Manipur. The walls are painted a beautiful, warm off-white cream (#F4F0E8). Sunlight from a side window softly illuminates the room, creating a gentle glow. The furniture includes a simple, dark wood dining table and chairs. A single ceramic vase with a green leaf sits on the table. The composition is calm and spacious, with a focus on the quality of light and the subtle warmth of the wall colour. Editorial style, 4:5 portrait orientation."
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Comparison",
-    "output_format": "swatch_grid",
-    "source_title": "13 architects and interior designers in Delhi you must know from the AD PRO Directory",
-    "source_url": "https://www.architecturaldigest.in/story/architects-and-interior-designers-in-delhi-you-must-know-from-the-ad-pro-directory/",
-    "date": "2026-07-16",
-    "caption": "When we talk about neutral palettes, our minds often go straight to white. But in many of India's most thoughtfully designed contemporary homes, designers are using a more complex and layered family of neutrals. These are the shades that bridge grey and beige, like a soft mushroom, or carry hints of green and earth, like a muted river stone. These colours create a backdrop that is calming and sophisticated, with more depth and character than a simple stark white. They have a unique ability to feel warm in the Ukhrul morning light and cozy in the evening, pairing beautifully with both sleek modern furniture and the rich textures of our local crafts.\n\nSave this post for your next colour consultation.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
+    "published": false,
+    "archetype": "Cost & Care Guide",
+    "output_format": "infographic",
+    "source_title": "How to Cool a Room Without AC: 6 Tips That Will Actually Lower Temperatures",
+    "source_url": "https://www.architecturaldigest.com/story/how-to-cool-a-room-without-ac",
+    "date": "2026-07-17",
+    "caption": "Choosing the right paint isn't just about aesthetics; it's a practical decision that can affect your home's comfort and even your energy bills. One of the simplest ways to manage heat in the warm Ukhrul climate is by using colour to your advantage. Light-coloured paints are highly effective at reflecting sunlight and the heat it carries.\n\nA high-quality, light-coloured exterior paint can reflect up to 80% of solar radiation, keeping your home cooler and reducing the need for constant air conditioning. The same principle applies indoors. Rooms painted in whites, creams, or pale pastels feel cooler and brighter because they reflect more light. This is a low-tech, high-impact strategy for creating a more comfortable living environment, especially for west-facing walls that get the most intense afternoon sun. It’s a smart investment in the long-term livability and care of your home.\n\nSave this guide for a smarter, cooler home repaint.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
     "infographic_data": {
-      "format": "swatch_grid",
-      "title_main": "Beyond White: The New Neutrals",
-      "title_span": "New Neutrals",
-      "subtitle": "A sophisticated palette inspired by modern Indian luxury interiors.",
-      "badge": "🎨 SHADE GUIDE",
+      "format": "ranked_bars",
+      "title_main": "Paint a Cooler",
+      "title_span": "Home",
+      "subtitle": "How your wall colour choice can help manage summer heat.",
+      "badge": "🎨 PAINT GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "source": "Source: Asian Paints Royale | @makshangpaints",
-      "swatches": [
+      "takeaway_num": "5-10°C",
+      "takeaway_text": "cooler surface temp with reflective paint",
+      "source": "Source: MAK-SHANG Paints | @makshangpaints",
+      "bars": [
         {
-          "color_hex": "#F5F1E4",
-          "label": "Antique White",
-          "sublabel": "L161 · Royale"
+          "label": "Light Exterior (White/Cream)",
+          "value": "85% Heat Reflected",
+          "color": "#E02020"
         },
         {
-          "color_hex": "#CFC5BB",
-          "label": "Mushroom",
-          "sublabel": "8454 · Royale"
+          "label": "Mid-Tones (Grey/Beige)",
+          "value": "45% Heat Reflected",
+          "color": "#0A0A0A"
         },
         {
-          "color_hex": "#B1B09F",
-          "label": "River Dale",
-          "sublabel": "9499 · Royale"
-        },
-        {
-          "color_hex": "#A59D96",
-          "label": "Grey Buck",
-          "sublabel": "8283 · Royale"
+          "label": "Dark Exterior (Navy/Charcoal)",
+          "value": "15% Heat Reflected",
+          "color": "#6E6E6E"
         }
-      ],
-      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260716_3_comparison.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260716_3_comparison.png",
-    "publish_result": {
-      "instagram": "18152151943497101",
-      "facebook": "122117656719358084"
+      ]
     }
   }
 ]
