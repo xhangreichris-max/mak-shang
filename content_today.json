@@ -25,7 +25,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Before You Paint",
     "output_format": "infographic",
     "source_title": "10 creative home decor ideas that are low on effort and high on impact",
@@ -50,6 +50,12 @@
         "Consider a single textured accent wall"
       ],
       "source": "Source: MAK-SHANG Paints | @makshangpaints"
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260718_2_before-you-paint.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260718_2_before-you-paint.png",
+    "publish_result": {
+      "instagram": "17977690011027841",
+      "facebook": "122118098109358084"
     }
   },
   {
