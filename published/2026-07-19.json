@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Trend Spotlight",
     "output_format": "swatch_overlay",
     "source_title": "Eight cottage living room interiors fit for a rural retreat",
@@ -9,24 +7,14 @@
     "date": "2026-07-19",
     "caption": "The modern cottage aesthetic is finding a home in Ukhrul, and for good reason. It’s not about recreating an English countryside look; it's about capturing a feeling. Think warm, natural light, walls with a soft, matte finish, and a palette drawn from the landscape around us. This style champions comfort and simplicity over sterile perfection.\n\nInstead of heavy drapes, picture handwoven Tangkhul textiles. Instead of cold stone, imagine the warmth of locally sourced wood accents against a deep, earthy green wall. The key is in the finish. A quality, low-sheen paint like a premium emulsion creates a surface that absorbs light beautifully, giving rooms a quiet, settled character. It’s an approach that feels both internationally current and deeply rooted in our own sense of home. A perfect look for a peaceful living room or a cozy reading nook.\n\nReady to bring this warmth into your space? Save this post for your next project inspiration.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "Editorial photograph of a cozy living room in a modern cottage in the hills of Ukhrul, Manipur. A deep, earthy forest green accent wall has a soft matte finish. Warm afternoon light streams through a large window, illuminating dust motes in the air. The room features a comfortable sofa with handwoven Tangkhul Naga textile throws, a simple wooden coffee table, and potted plants. The feel is serene, lived-in, and sophisticated, with generous negative space. 4:5 portrait aspect ratio.",
-    "overlay_data": {
-      "color_hex": "#344E41",
-      "color_name": "Hillside Green",
-      "color_ref": "MS-HG-02",
-      "headline": "THE RURAL RETREAT",
-      "footer_handle": "@makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260719_1_trend-spotlight.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260719_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260719_1_trend-spotlight.png",
     "publish_result": {
       "instagram": "17886267909604015",
       "facebook": null
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "9 Best Coastal Bedding Picks for a Serene Sleep Aesthetic (2026)",
@@ -34,17 +22,14 @@
     "date": "2026-07-19",
     "caption": "There's a common myth that a serene, minimalist bedroom has to feel cold or impersonal. We often see stark white walls and sparse furniture, but true serenity comes from warmth and texture, not emptiness. The key is to build a layered palette of soft, calming neutrals.\n\nInstead of a single shade of white, consider a family of bone, cream, and warm greys. These colours have depth and react beautifully to the changing light throughout the day in Ukhrul. A smooth, satin finish on the walls can add a subtle glow without being distracting. This approach creates a space that feels clean and uncluttered but also deeply inviting and comfortable. It’s less about having nothing in the room and more about ensuring everything in it contributes to a sense of peace. Your bedroom should be a sanctuary, not a sterile box.\n\nShare this with someone looking to create their own peaceful retreat at home.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "Interior photo of a serene, minimalist bedroom in Ukhrul, Manipur, with a warm and inviting feel. The walls are painted in a soft, bone-white colour (#F4F0E8) with a subtle satin finish. Morning light filters through sheer linen curtains, casting soft shadows. The bed has simple, natural-fibre bedding. A single handcrafted wooden stool sits beside the bed. The composition is clean and uncluttered but feels warm and textural, not cold or sterile. The view out the window shows misty green hills. Vertical 4:5 aspect ratio.",
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260719_2_myth-buster.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260719_2_myth-buster.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260719_2_myth-buster.png",
     "publish_result": {
       "instagram": "18089369414426362",
       "facebook": "122118353241358084"
     }
   },
   {
-    "slot": 3,
-    "published": true,
     "archetype": "Cost & Care Guide",
     "output_format": "infographic",
     "source_title": "This Zero-Carbon Colorado Cabin Was Built for a Family — and the Next Century of Mountain Living",
@@ -52,36 +37,8 @@
     "date": "2026-07-19",
     "caption": "Choosing an exterior paint in a highland climate like Ukhrul’s isn't just about colour. It's a long-term investment in protecting your home. The intense sun, heavy monsoon rains, and humidity can break down inferior paints in just a couple of seasons, leading to frequent and costly repainting jobs.\n\nOpting for a premium exterior emulsion with weather guard technology is crucial. While the initial cost per litre might be higher, the true value is in its lifespan. A high-quality finish can last significantly longer, resisting fading, peeling, and the growth of algae. This means fewer repaint cycles over a decade, saving you considerable money and labour costs in the long run. Think of it not as an expense, but as a protective shield for your most valuable asset, designed to endure for years, not just months.\n\nSave this guide before you plan your next exterior paint project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
-    "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Exterior Paint Investment",
-      "title_span": "Lifespan",
-      "subtitle": "How quality paint impacts long-term costs in Ukhrul's climate.",
-      "badge": "🎨 PAINT GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "2x",
-      "takeaway_text": "longer protection against sun and rain.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
-        {
-          "label": "Premium Weather Guard Paint",
-          "value": "5-7 years",
-          "color": "#E02020"
-        },
-        {
-          "label": "Standard Exterior Emulsion",
-          "value": "2-3 years",
-          "color": "#0A0A0A"
-        },
-        {
-          "label": "Basic Exterior Distemper",
-          "value": "1-2 years",
-          "color": "#6E6E6E"
-        }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260719_3_cost-and-care-guide.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260719_3_cost-and-care-guide.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260719_3_cost-and-care-guide.png",
     "publish_result": {
       "instagram": "18122001577746292",
       "facebook": "122118464643358084"
