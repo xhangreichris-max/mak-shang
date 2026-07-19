@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "9 Best Coastal Bedding Picks for a Serene Sleep Aesthetic (2026)",
@@ -34,7 +34,13 @@
     "date": "2026-07-19",
     "caption": "There's a common myth that a serene, minimalist bedroom has to feel cold or impersonal. We often see stark white walls and sparse furniture, but true serenity comes from warmth and texture, not emptiness. The key is to build a layered palette of soft, calming neutrals.\n\nInstead of a single shade of white, consider a family of bone, cream, and warm greys. These colours have depth and react beautifully to the changing light throughout the day in Ukhrul. A smooth, satin finish on the walls can add a subtle glow without being distracting. This approach creates a space that feels clean and uncluttered but also deeply inviting and comfortable. It’s less about having nothing in the room and more about ensuring everything in it contributes to a sense of peace. Your bedroom should be a sanctuary, not a sterile box.\n\nShare this with someone looking to create their own peaceful retreat at home.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "Interior photo of a serene, minimalist bedroom in Ukhrul, Manipur, with a warm and inviting feel. The walls are painted in a soft, bone-white colour (#F4F0E8) with a subtle satin finish. Morning light filters through sheer linen curtains, casting soft shadows. The bed has simple, natural-fibre bedding. A single handcrafted wooden stool sits beside the bed. The composition is clean and uncluttered but feels warm and textural, not cold or sterile. The view out the window shows misty green hills. Vertical 4:5 aspect ratio."
+    "image_prompt": "Interior photo of a serene, minimalist bedroom in Ukhrul, Manipur, with a warm and inviting feel. The walls are painted in a soft, bone-white colour (#F4F0E8) with a subtle satin finish. Morning light filters through sheer linen curtains, casting soft shadows. The bed has simple, natural-fibre bedding. A single handcrafted wooden stool sits beside the bed. The composition is clean and uncluttered but feels warm and textural, not cold or sterile. The view out the window shows misty green hills. Vertical 4:5 aspect ratio.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260719_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260719_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "18089369414426362",
+      "facebook": "122118353241358084"
+    }
   },
   {
     "slot": 3,
