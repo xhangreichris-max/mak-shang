@@ -25,7 +25,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Comparison",
     "output_format": "swatch_grid",
     "source_title": "YSG evokes Mojave desert for warehouse conversion in Sydney",
@@ -64,6 +64,12 @@
         }
       ],
       "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
+    },
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260720_2_comparison.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260720_2_comparison.png",
+    "publish_result": {
+      "instagram": "18109363892003373",
+      "facebook": "122118695811358084"
     }
   },
   {
