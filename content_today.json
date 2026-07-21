@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "Ortega Diago creates Brutalist changing rooms for San Sebastian factory",
@@ -34,7 +34,13 @@
     "date": "2026-07-21",
     "caption": "Myth: Brutalism is just cold, raw concrete. It’s a style that feels harsh and uninviting for a home.\n\nReality: At its core, Brutalism is an appreciation of material honesty and texture. While its origins are in exposed concrete, the modern interpretation is much softer and more adaptable, especially for interiors. Think of it as a focus on natural finishes, simple forms, and the interplay of light and shadow. You can capture this spirit not with concrete, but with sophisticated limewash or matte-finish paints in deep charcoals, slate greys, and earthy tones. These finishes have a raw, tactile quality that absorbs light and creates a feeling of calm and permanence. Paired with warm wood, local cane furniture, and soft textiles, a Brutalist-inspired space can feel like a serene sanctuary. It's not about being cold; it's about being grounded.\n\nShare this with someone who thinks grey walls are boring.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A 4:5 portrait editorial shot of a living room in Ukhrul with a modern Brutalist influence. The main accent wall is finished in a textured, dark charcoal limewash paint. Warm, golden-hour light streams in from a large window, highlighting the wall's subtle texture. The furniture is minimalist: a low-slung wooden sofa with bone-white cushions, a handcrafted cane armchair, and a simple black metal floor lamp. The floor is polished concrete. The overall mood is warm, sophisticated, and serene, showcasing how a dark, textured finish can feel inviting."
+    "image_prompt": "A 4:5 portrait editorial shot of a living room in Ukhrul with a modern Brutalist influence. The main accent wall is finished in a textured, dark charcoal limewash paint. Warm, golden-hour light streams in from a large window, highlighting the wall's subtle texture. The furniture is minimalist: a low-slung wooden sofa with bone-white cushions, a handcrafted cane armchair, and a simple black metal floor lamp. The floor is polished concrete. The overall mood is warm, sophisticated, and serene, showcasing how a dark, textured finish can feel inviting.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260721_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260721_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "18122452981771903",
+      "facebook": "122118981567358084"
+    }
   },
   {
     "slot": 3,
