@@ -2,89 +2,97 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Trend Spotlight",
-    "output_format": "swatch_overlay",
-    "source_title": "Slipcovers, valances, and bed skirts: The forgotten art of draping a home in fabric",
-    "source_url": "https://www.architecturaldigest.in/story/slipcovers-valances-and-bed-skirts-the-forgotten-art-of-draping-a-home-in-fabric/",
-    "date": "2026-07-21",
-    "caption": "The romance of a well-draped room is making a major comeback. Think less about heavy, dated curtains and more about the soft power of fabric to create warmth and character. This trend is a perfect match for the Tangkhul appreciation for handwoven textiles, connecting international design with our local aesthetic.\n\nWhen pairing paint with rich fabrics, the wall colour should be a quiet partner. It needs to support the texture, not compete with it. We recommend layered neutrals and off-whites that have a soft, chalky depth. These colours catch the light beautifully and provide a calm backdrop for patterned weaves or block-printed cottons. The goal is a room that feels lived-in, considered, and deeply comfortable, letting materials like linen, cotton, and local textiles tell their story. It’s not about grand gestures, but the simple, elegant interplay of colour and cloth.\n\nConsidering a soft, fabric-inspired palette for your home? Save this for inspiration.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "A beautifully lit, 4:5 portrait photograph of a bedroom in a modern Ukhrul home. The light is warm and soft, coming from a window. The focus is on a bed dressed in layers of natural handwoven Tangkhul textiles in neutral and earth tones. The wall behind the bed is painted a soft, warm bone-white (#F4F0E8). The room has a minimalist feel with natural wood elements, allowing the textiles and wall finish to be the heroes. The composition feels editorial and serene, with plenty of negative space.",
-    "overlay_data": {
-      "color_hex": "#F4F0E8",
-      "color_name": "Linen White",
-      "color_ref": "MS-NW-01",
-      "headline": "THE ART OF SOFT WALLS",
-      "footer_handle": "@makshangpaints"
+    "archetype": "Local Adaptation",
+    "output_format": "before_after",
+    "source_title": "Le Corbusier Inspired This Candy Pink Villa Nestled in Singapore's Jungle",
+    "source_url": "https://www.architecturaldigest.com/story/le-corbusier-inspired-this-candy-pink-villa-nestled-in-singapores-jungle",
+    "date": "2026-07-22",
+    "caption": "A candy pink villa in Singapore’s jungle might feel worlds away, but the core idea translates beautifully to our homes in Ukhrul. It’s about using colour with confidence. Instead of seeing a plain wall, we see a canvas for warmth and personality. Taking inspiration from bold international design doesn't mean copying it exactly. It means adapting the spirit of it to our local context.\n\nImagine shifting from a standard neutral to a considered, earthy pink. It's a choice that respects the natural light of our region and pairs perfectly with local materials like bamboo, cane, and handwoven textiles. This isn't just about applying paint; it’s about creating a space that feels both modern and deeply rooted in the Tangkhul aesthetic. A bold colour choice, when balanced with natural textures, can make a room feel uniquely yours. It’s a statement of personal style that still feels like home.\n\nThinking about a bold colour for your space? Save this post for inspiration.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
+    "image_prompt": "A beautifully lit living room in a modern Ukhrul home, 4:5 portrait. The main accent wall is painted a sophisticated, warm, earthy pink. The room features large windows with warm sunlight streaming in, highlighting the wall's smooth finish. Furnishings include a cane sofa with off-white cushions, a dark wood side table, and a handwoven Tangkhul textile draped over an armchair. The floor is polished concrete. The atmosphere is warm, serene, and editorial, with generous negative space.",
+    "before_after_data": {
+      "headline": "From Standard to *Stunning*",
+      "headline_accent": "Stunning",
+      "footer_handle": "@makshangpaints",
+      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260721_1_trend-spotlight.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260721_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260722_1_local-adaptation.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260722_1_local-adaptation.png",
     "publish_result": {
-      "instagram": "18164089471454439",
-      "facebook": "122118948435358084"
+      "instagram": "18103725554233492",
+      "facebook": "122119157667358084"
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Myth Buster",
-    "output_format": "ai_image",
-    "source_title": "Ortega Diago creates Brutalist changing rooms for San Sebastian factory",
-    "source_url": "https://www.dezeen.com/2026/07/20/ortega-diago-san-sebastian-factory-changing-rooms/",
-    "date": "2026-07-21",
-    "caption": "Myth: Brutalism is just cold, raw concrete. It’s a style that feels harsh and uninviting for a home.\n\nReality: At its core, Brutalism is an appreciation of material honesty and texture. While its origins are in exposed concrete, the modern interpretation is much softer and more adaptable, especially for interiors. Think of it as a focus on natural finishes, simple forms, and the interplay of light and shadow. You can capture this spirit not with concrete, but with sophisticated limewash or matte-finish paints in deep charcoals, slate greys, and earthy tones. These finishes have a raw, tactile quality that absorbs light and creates a feeling of calm and permanence. Paired with warm wood, local cane furniture, and soft textiles, a Brutalist-inspired space can feel like a serene sanctuary. It's not about being cold; it's about being grounded.\n\nShare this with someone who thinks grey walls are boring.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "A 4:5 portrait editorial shot of a living room in Ukhrul with a modern Brutalist influence. The main accent wall is finished in a textured, dark charcoal limewash paint. Warm, golden-hour light streams in from a large window, highlighting the wall's subtle texture. The furniture is minimalist: a low-slung wooden sofa with bone-white cushions, a handcrafted cane armchair, and a simple black metal floor lamp. The floor is polished concrete. The overall mood is warm, sophisticated, and serene, showcasing how a dark, textured finish can feel inviting.",
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260721_2_myth-buster.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260721_2_myth-buster.png",
-    "publish_result": {
-      "instagram": "18122452981771903",
-      "facebook": "122118981567358084"
+    "published": false,
+    "archetype": "Comparison",
+    "output_format": "swatch_grid",
+    "source_title": "Le Corbusier Inspired This Candy Pink Villa Nestled in Singapore's Jungle",
+    "source_url": "https://www.architecturaldigest.com/story/le-corbusier-inspired-this-candy-pink-villa-nestled-in-singapores-jungle",
+    "date": "2026-07-22",
+    "caption": "The idea of a pink room might bring to mind bright, childish spaces. But the modern approach to pink is far more sophisticated. Inspired by international designs that use colour confidently, we see pink as a versatile choice for creating warm and inviting interiors. The key is finding the right shade. An earthy, muted pink can act as a new kind of neutral, while a deeper rose can add drama and character to a living room or bedroom.\n\nChoosing the right shade depends on your room's lighting and the mood you want to create. Warmer pinks with dusty undertones pair beautifully with natural materials like wood and cane, a staple in Tangkhul homes. They create a gentle, welcoming glow. When selecting a bold colour, it is always best to test swatches on your actual wall to see how they look throughout the day. Getting the shade right is the first step to a truly distinctive space.\n\nShare this with someone looking for a unique colour idea.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
+    "infographic_data": {
+      "format": "swatch_grid",
+      "title_main": "Finding Your Perfect",
+      "title_span": "Pink",
+      "subtitle": "Not all pinks are created equal. Here are four sophisticated shades.",
+      "badge": "🎨 SHADE GUIDE",
+      "date_label": "MAK-SHANG 2026",
+      "source": "Source: Asian Paints Royale | @makshangpaints",
+      "swatches": [
+        {
+          "color_hex": "#E5C4C6",
+          "label": "Rose Blush",
+          "sublabel": "8050 · Royale"
+        },
+        {
+          "color_hex": "#DBC5C4",
+          "label": "Cradle Pink",
+          "sublabel": "8082 · Royale"
+        },
+        {
+          "color_hex": "#E4B9BE",
+          "label": "Pink Plume",
+          "sublabel": "8049 · Royale"
+        },
+        {
+          "color_hex": "#DAAAB2",
+          "label": "Flushed Pink",
+          "sublabel": "8048 · Royale"
+        }
+      ],
+      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
     }
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Cost & Care Guide",
+    "published": false,
+    "archetype": "Before You Paint",
     "output_format": "infographic",
-    "source_title": "4 cooling techniques the ultra-rich use to beat record heatwaves",
-    "source_url": "https://www.architecturaldigest.in/story/how-the-ultra-rich-are-staying-cool-during-record-heatwaves/",
-    "date": "2026-07-21",
-    "caption": "Did you know your choice of exterior paint can have a real impact on your home's internal temperature and your energy bills? In a climate like ours in Ukhrul, managing heat is key to comfort. Lighter colours are far more effective at reflecting solar radiation than darker shades.\n\nThis principle is measured by Solar Reflectance Index (SRI). A high-SRI paint, typically a white or very light pastel, can reflect up to 80% of solar energy. A dark colour might reflect as little as 20%. Over time, this difference means a cooler interior, less reliance on fans or air conditioning, and tangible savings on electricity. It's one of the simplest and most cost-effective passive cooling strategies you can use. When choosing your next exterior colour, consider not just the aesthetic, but the long-term performance and comfort of your home.\n\nSave this guide for your next exterior painting project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
+    "source_title": "Le Corbusier Inspired This Candy Pink Villa Nestled in Singapore's Jungle",
+    "source_url": "https://www.architecturaldigest.com/story/le-corbusier-inspired-this-candy-pink-villa-nestled-in-singapores-jungle",
+    "date": "2026-07-22",
+    "caption": "Seeing a striking colour in a design magazine, like a vibrant pink or a deep forest green, can be incredibly inspiring. It’s tempting to immediately want that look for your own home. But a bold colour is a commitment, and a little planning ensures the final result is one you will love for years. Before you pick up the brush, it’s worth thinking through a few key details. The amount of natural light a room gets can completely change how a colour appears on the wall. A shade that looks perfect online might feel too dark or too bright in your specific space.\n\nThe finish also plays a huge role. A matte finish will give a velvety, soft look, while a satin finish adds a slight sheen and is more durable. Finally, consider how the colour will work with your existing furniture, art, and textiles. A successful bold wall feels intentional and connected to the rest of the room. Taking the time for these considerations is the difference between a paint job and a considered interior.\n\nSave this checklist for your next painting project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
     "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "Paint Colours & Heat",
-      "title_span": "Heat",
-      "subtitle": "How exterior paint choice impacts solar heat absorption in your home.",
-      "badge": "🎨 PAINT GUIDE",
+      "format": "hero_number",
+      "title_main": "Ready For a Bold",
+      "title_span": "Colour?",
+      "subtitle": "A statement wall is exciting. Ask these five questions first.",
+      "badge": "✅ BEFORE YOU PAINT",
       "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "10°C",
-      "takeaway_text": "potential surface temperature difference",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
-        {
-          "label": "Dark Colours (Charcoal, Deep Blue)",
-          "value": "80% absorbed",
-          "color": "#E02020"
-        },
-        {
-          "label": "Mid-Tones (Terracotta, Olive)",
-          "value": "50% absorbed",
-          "color": "#0A0A0A"
-        },
-        {
-          "label": "Light Colours (White, Cream, Pastel)",
-          "value": "20% absorbed",
-          "color": "#6E6E6E"
-        }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260721_3_cost-and-care-guide.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260721_3_cost-and-care-guide.png",
-    "publish_result": {
-      "instagram": "18122497213768339",
-      "facebook": "122119031343358084"
+      "hero_number": "5",
+      "hero_label": "questions to ask",
+      "checklist": [
+        "Consider the room's natural light.",
+        "Test the shade on a small patch.",
+        "Choose the right finish: matte or satin?",
+        "Plan your furniture and decor pairing.",
+        "Think about the room's primary use."
+      ],
+      "source": "Source: MAK-SHANG Paints | @makshangpaints"
     }
   }
 ]
