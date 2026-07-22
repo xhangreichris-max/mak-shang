@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Local Adaptation",
     "output_format": "before_after",
     "source_title": "Le Corbusier Inspired This Candy Pink Villa Nestled in Singapore's Jungle",
@@ -9,23 +7,14 @@
     "date": "2026-07-22",
     "caption": "A candy pink villa in Singapore’s jungle might feel worlds away, but the core idea translates beautifully to our homes in Ukhrul. It’s about using colour with confidence. Instead of seeing a plain wall, we see a canvas for warmth and personality. Taking inspiration from bold international design doesn't mean copying it exactly. It means adapting the spirit of it to our local context.\n\nImagine shifting from a standard neutral to a considered, earthy pink. It's a choice that respects the natural light of our region and pairs perfectly with local materials like bamboo, cane, and handwoven textiles. This isn't just about applying paint; it’s about creating a space that feels both modern and deeply rooted in the Tangkhul aesthetic. A bold colour choice, when balanced with natural textures, can make a room feel uniquely yours. It’s a statement of personal style that still feels like home.\n\nThinking about a bold colour for your space? Save this post for inspiration.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "image_prompt": "A beautifully lit living room in a modern Ukhrul home, 4:5 portrait. The main accent wall is painted a sophisticated, warm, earthy pink. The room features large windows with warm sunlight streaming in, highlighting the wall's smooth finish. Furnishings include a cane sofa with off-white cushions, a dark wood side table, and a handwoven Tangkhul textile draped over an armchair. The floor is polished concrete. The atmosphere is warm, serene, and editorial, with generous negative space.",
-    "before_after_data": {
-      "headline": "From Standard to *Stunning*",
-      "headline_accent": "Stunning",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260722_1_local-adaptation.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260722_1_local-adaptation.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260722_1_local-adaptation.png",
     "publish_result": {
       "instagram": "18103725554233492",
       "facebook": "122119157667358084"
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Comparison",
     "output_format": "swatch_grid",
     "source_title": "Le Corbusier Inspired This Candy Pink Villa Nestled in Singapore's Jungle",
@@ -33,48 +22,14 @@
     "date": "2026-07-22",
     "caption": "The idea of a pink room might bring to mind bright, childish spaces. But the modern approach to pink is far more sophisticated. Inspired by international designs that use colour confidently, we see pink as a versatile choice for creating warm and inviting interiors. The key is finding the right shade. An earthy, muted pink can act as a new kind of neutral, while a deeper rose can add drama and character to a living room or bedroom.\n\nChoosing the right shade depends on your room's lighting and the mood you want to create. Warmer pinks with dusty undertones pair beautifully with natural materials like wood and cane, a staple in Tangkhul homes. They create a gentle, welcoming glow. When selecting a bold colour, it is always best to test swatches on your actual wall to see how they look throughout the day. Getting the shade right is the first step to a truly distinctive space.\n\nShare this with someone looking for a unique colour idea.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
-    "infographic_data": {
-      "format": "swatch_grid",
-      "title_main": "Finding Your Perfect",
-      "title_span": "Pink",
-      "subtitle": "Not all pinks are created equal. Here are four sophisticated shades.",
-      "badge": "🎨 SHADE GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "source": "Source: Asian Paints Royale | @makshangpaints",
-      "swatches": [
-        {
-          "color_hex": "#E5C4C6",
-          "label": "Rose Blush",
-          "sublabel": "8050 · Royale"
-        },
-        {
-          "color_hex": "#DBC5C4",
-          "label": "Cradle Pink",
-          "sublabel": "8082 · Royale"
-        },
-        {
-          "color_hex": "#E4B9BE",
-          "label": "Pink Plume",
-          "sublabel": "8049 · Royale"
-        },
-        {
-          "color_hex": "#DAAAB2",
-          "label": "Flushed Pink",
-          "sublabel": "8048 · Royale"
-        }
-      ],
-      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260722_2_comparison.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260722_2_comparison.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260722_2_comparison.png",
     "publish_result": {
       "instagram": "18336513910248461",
       "facebook": "122119201377358084"
     }
   },
   {
-    "slot": 3,
-    "published": true,
     "archetype": "Before You Paint",
     "output_format": "infographic",
     "source_title": "Le Corbusier Inspired This Candy Pink Villa Nestled in Singapore's Jungle",
@@ -82,26 +37,8 @@
     "date": "2026-07-22",
     "caption": "Seeing a striking colour in a design magazine, like a vibrant pink or a deep forest green, can be incredibly inspiring. It’s tempting to immediately want that look for your own home. But a bold colour is a commitment, and a little planning ensures the final result is one you will love for years. Before you pick up the brush, it’s worth thinking through a few key details. The amount of natural light a room gets can completely change how a colour appears on the wall. A shade that looks perfect online might feel too dark or too bright in your specific space.\n\nThe finish also plays a huge role. A matte finish will give a velvety, soft look, while a satin finish adds a slight sheen and is more durable. Finally, consider how the colour will work with your existing furniture, art, and textiles. A successful bold wall feels intentional and connected to the rest of the room. Taking the time for these considerations is the difference between a paint job and a considered interior.\n\nSave this checklist for your next painting project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
-    "infographic_data": {
-      "format": "hero_number",
-      "title_main": "Ready For a Bold",
-      "title_span": "Colour?",
-      "subtitle": "A statement wall is exciting. Ask these five questions first.",
-      "badge": "✅ BEFORE YOU PAINT",
-      "date_label": "MAK-SHANG 2026",
-      "hero_number": "5",
-      "hero_label": "questions to ask",
-      "checklist": [
-        "Consider the room's natural light.",
-        "Test the shade on a small patch.",
-        "Choose the right finish: matte or satin?",
-        "Plan your furniture and decor pairing.",
-        "Think about the room's primary use."
-      ],
-      "source": "Source: MAK-SHANG Paints | @makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260722_3_before-you-paint.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260722_3_before-you-paint.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260722_3_before-you-paint.png",
     "publish_result": {
       "instagram": "18092195957306244",
       "facebook": "122119255419358084"
