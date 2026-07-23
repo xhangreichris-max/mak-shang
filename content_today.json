@@ -2,109 +2,77 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Local Adaptation",
-    "output_format": "before_after",
-    "source_title": "Le Corbusier Inspired This Candy Pink Villa Nestled in Singapore's Jungle",
-    "source_url": "https://www.architecturaldigest.com/story/le-corbusier-inspired-this-candy-pink-villa-nestled-in-singapores-jungle",
-    "date": "2026-07-22",
-    "caption": "A candy pink villa in Singapore’s jungle might feel worlds away, but the core idea translates beautifully to our homes in Ukhrul. It’s about using colour with confidence. Instead of seeing a plain wall, we see a canvas for warmth and personality. Taking inspiration from bold international design doesn't mean copying it exactly. It means adapting the spirit of it to our local context.\n\nImagine shifting from a standard neutral to a considered, earthy pink. It's a choice that respects the natural light of our region and pairs perfectly with local materials like bamboo, cane, and handwoven textiles. This isn't just about applying paint; it’s about creating a space that feels both modern and deeply rooted in the Tangkhul aesthetic. A bold colour choice, when balanced with natural textures, can make a room feel uniquely yours. It’s a statement of personal style that still feels like home.\n\nThinking about a bold colour for your space? Save this post for inspiration.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "image_prompt": "A beautifully lit living room in a modern Ukhrul home, 4:5 portrait. The main accent wall is painted a sophisticated, warm, earthy pink. The room features large windows with warm sunlight streaming in, highlighting the wall's smooth finish. Furnishings include a cane sofa with off-white cushions, a dark wood side table, and a handwoven Tangkhul textile draped over an armchair. The floor is polished concrete. The atmosphere is warm, serene, and editorial, with generous negative space.",
-    "before_after_data": {
-      "headline": "From Standard to *Stunning*",
-      "headline_accent": "Stunning",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
+    "archetype": "Trend Spotlight",
+    "output_format": "swatch_overlay",
+    "source_title": "Breezy louvre walls enclose restaurant in Thailand by Studio Locomotive",
+    "source_url": "https://www.dezeen.com/2026/07/22/waankarn-restaurant-thailand-studio-locomotive/",
+    "date": "2026-07-23",
+    "caption": "Good design knows how to breathe. We are seeing a move towards features that welcome the outside in, especially in climates like ours in Ukhrul. This trend, inspired by Southeast Asian architecture, uses slatted timber and louvred panels not just as walls, but as filters for light and air. It’s about creating spaces that feel open and connected to the landscape, reducing the need for constant air conditioning and embracing natural ventilation.\n\nAt MAK-SHANG, we believe the finish is as important as the structure. A natural oil or a matte varnish on timber like this protects the wood from humidity while preserving its tactile warmth. It’s a design choice that pairs beautifully with our signature bone-white walls, creating a serene backdrop that feels both internationally modern and deeply rooted in our local aesthetic. It’s a look that doesn’t shout; it whispers.\n\nReady to bring more air and light into your home? Save this post for inspiration.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
+    "image_prompt": "Editorial photograph of a modern living room in a Ukhrul home, 4:5 portrait aspect ratio. A feature wall is made of vertical, natural teak wood louvres, allowing soft golden-hour light to filter through. The main walls are painted a warm bone cream. A handwoven Tangkhul Naga textile in black and red is neatly folded over a simple linen sofa. The space feels airy and serene, with generous negative space. Polished concrete floor with a natural fiber rug.",
+    "overlay_data": {
+      "color_hex": "#A0522D",
+      "color_name": "Natural Teak",
+      "color_ref": "MS-WD-12",
+      "headline": "THE ART OF BREATHING",
+      "footer_handle": "@makshangpaints"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260722_1_local-adaptation.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260722_1_local-adaptation.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260723_1_trend-spotlight.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260723_1_trend-spotlight.png",
     "publish_result": {
-      "instagram": "18103725554233492",
-      "facebook": "122119157667358084"
+      "instagram": "18102269009231002",
+      "facebook": null
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Comparison",
-    "output_format": "swatch_grid",
-    "source_title": "Le Corbusier Inspired This Candy Pink Villa Nestled in Singapore's Jungle",
-    "source_url": "https://www.architecturaldigest.com/story/le-corbusier-inspired-this-candy-pink-villa-nestled-in-singapores-jungle",
-    "date": "2026-07-22",
-    "caption": "The idea of a pink room might bring to mind bright, childish spaces. But the modern approach to pink is far more sophisticated. Inspired by international designs that use colour confidently, we see pink as a versatile choice for creating warm and inviting interiors. The key is finding the right shade. An earthy, muted pink can act as a new kind of neutral, while a deeper rose can add drama and character to a living room or bedroom.\n\nChoosing the right shade depends on your room's lighting and the mood you want to create. Warmer pinks with dusty undertones pair beautifully with natural materials like wood and cane, a staple in Tangkhul homes. They create a gentle, welcoming glow. When selecting a bold colour, it is always best to test swatches on your actual wall to see how they look throughout the day. Getting the shade right is the first step to a truly distinctive space.\n\nShare this with someone looking for a unique colour idea.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #AsianPaintsRoyale",
-    "infographic_data": {
-      "format": "swatch_grid",
-      "title_main": "Finding Your Perfect",
-      "title_span": "Pink",
-      "subtitle": "Not all pinks are created equal. Here are four sophisticated shades.",
-      "badge": "🎨 SHADE GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "source": "Source: Asian Paints Royale | @makshangpaints",
-      "swatches": [
-        {
-          "color_hex": "#E5C4C6",
-          "label": "Rose Blush",
-          "sublabel": "8050 · Royale"
-        },
-        {
-          "color_hex": "#DBC5C4",
-          "label": "Cradle Pink",
-          "sublabel": "8082 · Royale"
-        },
-        {
-          "color_hex": "#E4B9BE",
-          "label": "Pink Plume",
-          "sublabel": "8049 · Royale"
-        },
-        {
-          "color_hex": "#DAAAB2",
-          "label": "Flushed Pink",
-          "sublabel": "8048 · Royale"
-        }
-      ],
-      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260722_2_comparison.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260722_2_comparison.png",
-    "publish_result": {
-      "instagram": "18336513910248461",
-      "facebook": "122119201377358084"
-    }
+    "published": false,
+    "archetype": "Myth Buster",
+    "output_format": "ai_image",
+    "source_title": "The death of the decorative home aquarium",
+    "source_url": "https://www.architecturaldigest.in/story/the-death-of-the-decorative-home-aquarium-fish-tank-bowl/",
+    "date": "2026-07-23",
+    "caption": "Myth: A living room needs a big, dynamic feature like a television or an aquarium to feel complete.\n\nThe reality is that visual focal points don’t need to be electronics or complex installations. As homes move toward calmer, more personal sanctuaries, we're seeing a shift away from high-maintenance features. A thoughtfully chosen accent wall can create a more profound and lasting impact. It can anchor a room, add depth, and express personality without creating constant noise or demanding upkeep.\n\nA deep charcoal, a muted forest green, or a warm terracotta in a matte finish can provide all the drama and focus a space needs. It becomes a backdrop for your life, highlighting furniture and art rather than competing with them. It proves that sometimes, the simplest choice is the most powerful. The right colour, expertly applied, is a feature in itself.\n\nShare this idea with someone looking for a timeless update.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
+    "image_prompt": "4:5 portrait photograph of a quiet, sophisticated reading corner in a modern Manipuri home. The focal point is a feature wall painted in a deep, matte charcoal grey. The wall is unadorned except for a single piece of framed local art. Warm, directional light from a floor lamp highlights the texture of the paint. A comfortable armchair with a handwoven throw and a small side table with a book sit in front of the wall. The atmosphere is calm, considered, and minimalist."
   },
   {
     "slot": 3,
-    "published": true,
-    "archetype": "Before You Paint",
+    "published": false,
+    "archetype": "Cost & Care Guide",
     "output_format": "infographic",
-    "source_title": "Le Corbusier Inspired This Candy Pink Villa Nestled in Singapore's Jungle",
-    "source_url": "https://www.architecturaldigest.com/story/le-corbusier-inspired-this-candy-pink-villa-nestled-in-singapores-jungle",
-    "date": "2026-07-22",
-    "caption": "Seeing a striking colour in a design magazine, like a vibrant pink or a deep forest green, can be incredibly inspiring. It’s tempting to immediately want that look for your own home. But a bold colour is a commitment, and a little planning ensures the final result is one you will love for years. Before you pick up the brush, it’s worth thinking through a few key details. The amount of natural light a room gets can completely change how a colour appears on the wall. A shade that looks perfect online might feel too dark or too bright in your specific space.\n\nThe finish also plays a huge role. A matte finish will give a velvety, soft look, while a satin finish adds a slight sheen and is more durable. Finally, consider how the colour will work with your existing furniture, art, and textiles. A successful bold wall feels intentional and connected to the rest of the room. Taking the time for these considerations is the difference between a paint job and a considered interior.\n\nSave this checklist for your next painting project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "source_title": "Marmoleum Cocoa flooring by Forbo Flooring",
+    "source_url": "https://www.dezeen.com/2026/07/22/marmoleum-cocoa-flooring-forbo-dezeen-showroom/",
+    "date": "2026-07-23",
+    "caption": "The most common question we get is not about colour, but about durability: 'How long will the paint last?' The initial cost of a painting project is only one part of the story. The true value lies in how long the finish looks fresh and protects your walls, especially in the humidity of Manipur. A high-quality paint job is an investment in longevity.\n\nWhile basic distempers might seem economical, they often require repainting every two to three years. Investing in a premium acrylic emulsion can more than double the lifespan of your finish. With proper surface preparation, a good quality paint in a living room or bedroom can last well over five years, while high-traffic areas like kitchens and hallways might need a refresh every three to four. This longevity means less disruption, lower long-term costs, and a better-looking home for years.\n\nSave this guide for when you're planning your next painting project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
     "infographic_data": {
-      "format": "hero_number",
-      "title_main": "Ready For a Bold",
-      "title_span": "Colour?",
-      "subtitle": "A statement wall is exciting. Ask these five questions first.",
-      "badge": "✅ BEFORE YOU PAINT",
+      "format": "ranked_bars",
+      "title_main": "How Often Should You",
+      "title_span": "Repaint?",
+      "subtitle": "Expected lifespan of interior finishes in a humid climate like Ukhrul.",
+      "badge": "🎨 PAINT GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "hero_number": "5",
-      "hero_label": "questions to ask",
-      "checklist": [
-        "Consider the room's natural light.",
-        "Test the shade on a small patch.",
-        "Choose the right finish: matte or satin?",
-        "Plan your furniture and decor pairing.",
-        "Think about the room's primary use."
-      ],
-      "source": "Source: MAK-SHANG Paints | @makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260722_3_before-you-paint.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260722_3_before-you-paint.png",
-    "publish_result": {
-      "instagram": "18092195957306244",
-      "facebook": "122119255419358084"
+      "takeaway_num": "5+ years",
+      "takeaway_text": "is achievable with premium paint.",
+      "source": "Source: MAK-SHANG Paints | @makshangpaints",
+      "bars": [
+        {
+          "label": "High-Traffic Areas (Hallways, Kitchens)",
+          "value": "3–4 years",
+          "color": "#E02020"
+        },
+        {
+          "label": "Low-Traffic Areas (Bedrooms, Living Rooms)",
+          "value": "5–7 years",
+          "color": "#0A0A0A"
+        },
+        {
+          "label": "Ceilings & Low-Impact Walls",
+          "value": "7–10 years",
+          "color": "#6E6E6E"
+        }
+      ]
     }
   }
 ]
