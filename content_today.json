@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "The death of the decorative home aquarium",
@@ -34,7 +34,13 @@
     "date": "2026-07-23",
     "caption": "Myth: A living room needs a big, dynamic feature like a television or an aquarium to feel complete.\n\nThe reality is that visual focal points don’t need to be electronics or complex installations. As homes move toward calmer, more personal sanctuaries, we're seeing a shift away from high-maintenance features. A thoughtfully chosen accent wall can create a more profound and lasting impact. It can anchor a room, add depth, and express personality without creating constant noise or demanding upkeep.\n\nA deep charcoal, a muted forest green, or a warm terracotta in a matte finish can provide all the drama and focus a space needs. It becomes a backdrop for your life, highlighting furniture and art rather than competing with them. It proves that sometimes, the simplest choice is the most powerful. The right colour, expertly applied, is a feature in itself.\n\nShare this idea with someone looking for a timeless update.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "4:5 portrait photograph of a quiet, sophisticated reading corner in a modern Manipuri home. The focal point is a feature wall painted in a deep, matte charcoal grey. The wall is unadorned except for a single piece of framed local art. Warm, directional light from a floor lamp highlights the texture of the paint. A comfortable armchair with a handwoven throw and a small side table with a book sit in front of the wall. The atmosphere is calm, considered, and minimalist."
+    "image_prompt": "4:5 portrait photograph of a quiet, sophisticated reading corner in a modern Manipuri home. The focal point is a feature wall painted in a deep, matte charcoal grey. The wall is unadorned except for a single piece of framed local art. Warm, directional light from a floor lamp highlights the texture of the paint. A comfortable armchair with a handwoven throw and a small side table with a book sit in front of the wall. The atmosphere is calm, considered, and minimalist.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260723_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260723_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "17990681492824429",
+      "facebook": "122119453839358084"
+    }
   },
   {
     "slot": 3,
