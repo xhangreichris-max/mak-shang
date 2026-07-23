@@ -1,20 +1,5 @@
 [
   {
-    "date": "2026-07-02",
-    "archetype": "Trend Spotlight",
-    "generated_at": "2026-07-02T15:58:42.758745Z"
-  },
-  {
-    "date": "2026-07-02",
-    "archetype": "Myth Buster",
-    "generated_at": "2026-07-02T15:58:42.758745Z"
-  },
-  {
-    "date": "2026-07-02",
-    "archetype": "Cost & Care Guide",
-    "generated_at": "2026-07-02T15:58:42.758745Z"
-  },
-  {
     "date": "2026-07-03",
     "archetype": "Local Adaptation",
     "generated_at": "2026-07-03T15:37:53.903772Z"
@@ -298,5 +283,20 @@
     "date": "2026-07-22",
     "archetype": "Before You Paint",
     "generated_at": "2026-07-22T15:23:58.625271Z"
+  },
+  {
+    "date": "2026-07-23",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-23T15:37:17.916645Z"
+  },
+  {
+    "date": "2026-07-23",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-23T15:37:17.916645Z"
+  },
+  {
+    "date": "2026-07-23",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-23T15:37:17.916645Z"
   }
 ]
