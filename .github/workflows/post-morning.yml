@@ -1,13 +1,13 @@
-name: Midday — Publish Slot 2
+name: Post — Morning Queue Run
 
-# ~1:17 PM IST target = 7:47 AM UTC (odd offset reduces queue contention)
+# ~9:17 AM IST target = 3:47 AM UTC
 on:
   schedule:
-    - cron: '47 7 * * *'
+    - cron: '47 3 * * *'
   workflow_dispatch:
 
 jobs:
-  midday-run:
+  post-run:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -47,14 +47,5 @@ jobs:
       - name: Install Puppeteer browser
         run: npx puppeteer browsers install chrome
 
-      - name: Render + upload + publish slot 2
-        run: python tools/run_slot.py 2
-
-      - name: Commit content_today.json
-        run: |
-          git config user.name "MAK-SHANG Bot"
-          git config user.email "actions@github.com"
-          git add content_today.json
-          git diff --staged --quiet || git commit -m "chore: slot 2 published [skip ci]"
-          git pull --rebase origin main
-          git push
+      - name: Run queue
+        run: python tools/run_queue.py

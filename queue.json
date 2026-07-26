@@ -1,0 +1,429 @@
+[
+  {
+    "slot": 1,
+    "day": 1,
+    "post_number": 1,
+    "type": "pro_tip",
+    "shade": "Teal Blast",
+    "shade_code": "7503",
+    "product": "Asian Paints Royale Shyne",
+    "image_prompt": "Editorial interior photograph. Deep teal accent wall with premium satin sheen catching warm afternoon light. The surface shows a subtle luminous reflection — not mirror-like, just unmistakably premium. Adjacent walls soft off-white. Low dark wood console table, single ceramic vase with dried stems. Warm ambient light from unseen source left. Shot on medium format, f/4, shallow depth of field. Film-like grading, warm shadows. 4:5 portrait. No text, no logos, no watermarks.",
+    "text_overlay": {
+      "line1": "1 COAT PRIMER",
+      "line2": "= 3 FEWER COATS",
+      "line3": "OF PAINT.",
+      "subtext": "The math your contractor doesn't want you to know.",
+      "badge": "PRO TIP",
+      "brand": "MAK-SHANG PAINTS · UKHRUL"
+    },
+    "caption": "Before the first drop of paint goes on the wall — primer is not optional.\n\nOne coat of quality primer means your topcoat bonds correctly, covers in fewer passes, and lasts significantly longer. Skip it and you're repainting in 2 years.\n\nAt MAK-SHANG, primer is always in the plan. Never a shortcut.\n\nSave this before your next paint job.",
+    "hashtags": "#makshangpaints #asianpaintsroyale #paintingtips #homepaintingindia #interiordesignindia #ukhrulhomes #manipurhomes #paintpro #royaleshyne #homeimprovement #qualitypaint #paintingcontractor",
+    "posted": false
+  },
+  {
+    "slot": 2,
+    "day": 1,
+    "post_number": 2,
+    "type": "colour_mood",
+    "shade": "Deep Sea Blue",
+    "shade_code": "9159",
+    "product": "Asian Paints Royale",
+    "image_prompt": "Editorial interior photograph of a modern Indian living room. One full wall painted in a rich navy blue, premium satin finish with visible luminous sheen catching evening light. A single pendant lamp casts warm pooled light, the navy wall shifts subtly between warm lamp glow and cool ambient. Minimal styling — low sofa in natural linen, one brass floor lamp, large indoor plant in dark pot. Shot on 35mm, f/2.8, cinematic grading, deep shadows retained. 4:5 portrait. No text, no logos, no watermarks.",
+    "text_overlay": {
+      "mood_name": "UNAPOLOGETIC BOLD",
+      "shade_name": "Deep Sea Blue",
+      "shade_code": "9159 · Royale",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "There is a version of your living room where one wall stops every conversation.\n\nDeep Sea Blue does that. Not by being loud — by being completely certain of itself.\n\nAsian Paints Royale · Shade 9159 · Applied by MAK-SHANG, Ukhrul.\n\nShare this with someone who keeps choosing safe.",
+    "hashtags": "#makshangpaints #asianpaints #deepseablue #accentwall #interiordesign #homedecor #bluewall #royalepaint #manipurinteriors #ukhrulhomes #boldcolour #premiumfinish",
+    "posted": false
+  },
+  {
+    "slot": 3,
+    "day": 1,
+    "post_number": 3,
+    "type": "makshang_standard",
+    "shade": null,
+    "shade_code": null,
+    "product": null,
+    "image_prompt": "Pure typographic design. No room, no background image. Solid deep black background (#0A0A0A). Premium editorial feel. 4:5 portrait. No logos visible in the generated image — branding will be added as overlay.",
+    "text_overlay": {
+      "quote": "We don't quote cheap.\nWe quote right.",
+      "attribution": "— MAK-SHANG PAINTS",
+      "subtext": "Ukhrul · Manipur",
+      "brand": "MAK-SHANG"
+    },
+    "caption": "Every job we take, we price for quality — not to win the cheapest bid.\n\nBecause the client who pays for quality once never pays twice to fix it.\n\nThat is the MAK-SHANG standard.\n\nFollow for more from the studio.",
+    "hashtags": "#makshangpaints #paintingstandards #qualitypainting #ukhrul #manipur #homepaintingIndia #paintcontractor #premiumpainting #interiorfinish #asianpaints",
+    "posted": false
+  },
+  {
+    "slot": 4,
+    "day": 2,
+    "post_number": 4,
+    "type": "shade_spotlight",
+    "shade": "Honey Mustard",
+    "shade_code": "7880",
+    "product": "Asian Paints Royale Shyne",
+    "image_prompt": "Product photography style. A single broad brushstroke of warm deep mustard paint applied to a white textured surface — the paint is visibly wet, catching dramatic raking side light from the left that reveals every brushstroke detail and the subtle sheen of the finish. Background pure white cotton paper with visible grain. Shot overhead, macro, f/8, tack sharp. Warm grading. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "shade_name": "HONEY MUSTARD",
+      "shade_code": "7880",
+      "product_line": "Asian Paints Royale Shyne",
+      "descriptor": "The shade that makes every\nother colour in the room\nstand at attention.",
+      "brand": "MAK-SHANG PAINTS · UKHRUL"
+    },
+    "caption": "Honey Mustard is not yellow. It is not orange. It is the precise warmth that a room needs when it has good bones and needs one decision to become extraordinary.\n\nAsian Paints Royale Shyne · Code 7880\nNow available through MAK-SHANG, Ukhrul.\n\nSave this shade for your next accent wall consultation.",
+    "hashtags": "#makshangpaints #honeymustard #asianpaintsroyale #shadespotlight #accentwall #warminteriors #indianhomes #ukhrulhomes #interiorcolour #royaleshyne #paintshade #homepaint",
+    "posted": false
+  },
+  {
+    "slot": 5,
+    "day": 2,
+    "post_number": 5,
+    "type": "myth_reality",
+    "shade": "City Mist",
+    "shade_code": null,
+    "product": "Asian Paints Royale",
+    "image_prompt": "Editorial interior photograph split composition. Left side: flat, cool, grey-white room feeling clinical and lifeless — low saturation, cold light. Right side: same room with a warm grey-beige wall, premium satin sheen, warm morning light catching the surface, the room feels expensive and calm. Strong red vertical line dividing the two halves. Shot at equal exposure on both sides. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "myth": "MYTH:\nWhite walls make\nrooms look bigger.",
+      "reality": "REALITY:\nThe right finish makes\nrooms feel expensive.",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "White is not a neutral decision. It is a default decision.\n\nThe rooms people actually remember — the ones that feel expensive, calm, considered — almost never have plain white walls.\n\nThey have the right shade. Applied with the right finish. By someone who knows the difference.\n\nWhich side are your walls on? Comment below.",
+    "hashtags": "#makshangpaints #mythvsreality #interiordesign #paintadvice #homedesign #colourpsychology #indianinteriors #wallcolour #premiumpainting #asianpaints #ukhrulhomes #manipurinteriors",
+    "posted": false
+  },
+  {
+    "slot": 6,
+    "day": 2,
+    "post_number": 6,
+    "type": "pro_tip",
+    "shade": "Teal Blast",
+    "shade_code": "7503",
+    "product": "Asian Paints Royale Glitz",
+    "image_prompt": "Extreme macro photograph of a freshly painted wall surface in a deep teal. The frame is entirely filled by the painted plane. A soft mirror-like reflection of an unseen light source runs diagonally across the gloss surface — blurred and abstract, not literal. Strong dramatic raking light from the upper left, deep shadows in the lower right. The teal colour shifts from bright mid-tone in the highlight to deep jewel-tone in the shadow. 100mm macro, f/5.6. Rich, high contrast grading. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "line1": "SATIN: BEDROOMS",
+      "line2": "MATTE: STUDY ROOMS",
+      "line3": "GLOSS: DOORS + TRIMS",
+      "subtext": "This is not a preference.\nThis is finish science.",
+      "badge": "PRO TIP",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "The single most common mistake in home painting: using the same finish on every surface.\n\nSatin reflects enough light to make a bedroom feel warm and alive. Matte absorbs light and keeps a study feeling focused. Gloss on doors and trims protects and defines.\n\nGet the finish right before you choose the colour.\n\nSave this. Your painter needs to see it too.",
+    "hashtags": "#makshangpaints #paintfinish #satinpaint #mattepaint #glosspaint #paintingtips #homepaintindia #interiordesign #asianpaintsroyale #ukhrulhomes #paintpro #finishguide",
+    "posted": false
+  },
+  {
+    "slot": 7,
+    "day": 3,
+    "post_number": 7,
+    "type": "colour_mood",
+    "shade": "Terracotta-N",
+    "shade_code": "427",
+    "product": "Asian Paints Royale",
+    "image_prompt": "Editorial interior photograph of an Indian kitchen. Lower cabinetry painted in a rich earthy terracotta, premium satin sheen visible where afternoon light catches the cabinet fronts. Upper walls in warm ivory. Stone countertop. Minimal styling — two unglazed clay pots, a wooden cutting board. Warm bright daylight from a window, filling the space naturally. Shot on 40mm, f/5.6, everything in focus. Film grading, warm and honest. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "mood_name": "ROOTS & WARMTH",
+      "shade_name": "Terracotta-N",
+      "shade_code": "427 · Royale",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "Terracotta has been grounding Indian homes for centuries. What is happening now in international design is simply the world catching up.\n\nIn a kitchen, this warm clay tone reads earthy without feeling heavy. It holds its own against natural stone and wood without demanding all the attention.\n\nAsian Paints Royale · Code 427 · Applied by MAK-SHANG, Ukhrul.\n\nShare this with someone planning a kitchen repaint.",
+    "hashtags": "#makshangpaints #terracotta #terracottawall #asianpaints #kitchendesign #indiankitchen #warminteriors #homedecor #royalepaint #ukhrulhomes #manipurhomes #earthytones",
+    "posted": false
+  },
+  {
+    "slot": 8,
+    "day": 3,
+    "post_number": 8,
+    "type": "checklist",
+    "shade": "Deep Sea Blue",
+    "shade_code": "9159",
+    "product": "Asian Paints Royale",
+    "image_prompt": "Dark moody editorial interior. Deep navy blue accent wall filling two-thirds of frame, premium satin sheen catching a single warm spotlight from above. The light creates a dramatic pool on the wall surface, revealing the quality of the finish. Minimal staging — nothing on the wall, clean dark floor. Shot on 50mm, f/2.8, cinematic. Deep shadows, warm highlights. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "headline": "BEFORE THE\nFIRST COAT",
+      "items": [
+        "01  Check moisture below 15%",
+        "02  Fill cracks — wait 48hrs",
+        "03  Sand, clean, prime",
+        "04  Never paint in direct sun",
+        "05  First coat always diluted 10%"
+      ],
+      "badge": "MAK-SHANG STANDARD",
+      "brand": "UKHRUL · MANIPUR"
+    },
+    "caption": "Five checks we run on every wall before we open a single tin of paint.\n\nThis is not extra effort. This is the difference between a paint job that lasts 2 years and one that lasts 8.\n\nThe MAK-SHANG Standard. Every project. No exceptions.\n\nSave this checklist before your next repaint.",
+    "hashtags": "#makshangpaints #paintingchecklist #beforeyoupaint #paintingtips #homepaintindia #paintprep #asianpaints #ukhrulhomes #manipurinteriors #qualitypainting #paintcontractor #diypainting",
+    "posted": false
+  },
+  {
+    "slot": 9,
+    "day": 3,
+    "post_number": 9,
+    "type": "shade_spotlight",
+    "shade": "Buttercup N",
+    "shade_code": "0336",
+    "product": "Asian Paints Royale Shyne",
+    "image_prompt": "Editorial interior photograph of a small bright Indian bedroom. Walls painted in a soft warm yellow, premium satin sheen catching gentle morning light from a tall window. The light falls across the wall creating a beautiful gradient from bright to warm shadow. White cotton bedding, natural wood bed frame, one potted plant. Shot on 50mm, f/4, shallow depth of field. Warm film grading, bright and calm. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "shade_name": "BUTTERCUP N",
+      "shade_code": "0336",
+      "product_line": "Asian Paints Royale Shyne",
+      "descriptor": "For rooms that face north\nor never get enough sun.\nThis shade brings its own.",
+      "brand": "MAK-SHANG PAINTS · UKHRUL"
+    },
+    "caption": "North-facing rooms present one of the trickiest painting challenges — cool, low light that makes most colours look flat and lifeless.\n\nButtercup N solves this quietly. Soft enough to not overwhelm, warm enough to compensate for what the sun does not provide.\n\nAsian Paints Royale Shyne · Code 0336\nApplied by MAK-SHANG, Ukhrul.\n\nSave this for your next consultation.",
+    "hashtags": "#makshangpaints #buttercupyellow #asianpaintsroyale #bedroomcolour #yellowwalls #softinteriors #homepaint #royaleshyne #ukhrulhomes #manipurinteriors #shadespotlight #warmhome",
+    "posted": false
+  },
+  {
+    "slot": 10,
+    "day": 4,
+    "post_number": 10,
+    "type": "makshang_standard",
+    "shade": null,
+    "shade_code": null,
+    "product": null,
+    "image_prompt": "Pure black background (#0A0A0A). No room, no objects. Minimal editorial design. 4:5 portrait.",
+    "text_overlay": {
+      "quote": "Thinks in Farrow & Ball.\nExecutes in Manipur.",
+      "attribution": "— MAK-SHANG PAINTS",
+      "subtext": "International standard.\nLocal hands.",
+      "brand": "MAK-SHANG"
+    },
+    "caption": "The brief we give ourselves on every project: international design sensibility, executed with the precision and care of someone who has known this place their whole life.\n\nThat combination is not available everywhere.\n\nMAK-SHANG Paints · Ukhrul, Manipur.\n\nFollow for premium painting content from NE India.",
+    "hashtags": "#makshangpaints #premiumpainting #ukhrul #manipur #northeastindia #interiordesignindia #farrowandball #paintingstandards #brandidentity #qualityfirst #asianpaints #paintingstudio",
+    "posted": false
+  },
+  {
+    "slot": 11,
+    "day": 4,
+    "post_number": 11,
+    "type": "pro_tip",
+    "shade": "Honey Mustard",
+    "shade_code": "7880",
+    "product": "Asian Paints Royale Glitz",
+    "image_prompt": "Extreme macro photograph. A high-gloss painted surface in a deep warm mustard, filling the entire frame. A single soft light reflection runs across the surface — abstract, luminous, like a window caught in a mirror. The surrounding colour is rich and saturated. Strong raking light from the left. 100mm macro, f/5.6. Deep warm grading. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "line1": "ROYALE GLITZ",
+      "line2": "LOOKS DIFFERENT AT",
+      "line3": "8AM · 2PM · 8PM",
+      "subtext": "That is not a flaw.\nThat is the product.",
+      "badge": "PRO TIP",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "Asian Paints Royale Glitz is a metallic finish paint — which means it responds to light differently at every hour of the day.\n\nMorning: cool, crisp, reflective.\nAfternoon: warm and luminous.\nEvening: rich and dramatic.\n\nThis is exactly what you are paying for. Not a colour on a wall — a surface that performs all day.\n\nSave this before your next Glitz consultation.",
+    "hashtags": "#makshangpaints #royaleglitz #asianpaintsglitz #metallicpaint #premiumfinish #paintscience #accentwall #interiordesign #shimmerwall #ukhrulhomes #manipurinteriors #luxurypaint",
+    "posted": false
+  },
+  {
+    "slot": 12,
+    "day": 4,
+    "post_number": 12,
+    "type": "myth_reality",
+    "shade": "Teal Blast",
+    "shade_code": "7503",
+    "product": "Asian Paints Royale Shyne",
+    "image_prompt": "Editorial interior split composition. Left half: plain white wall, flat matte, looks cheap and clinical under standard lighting. Right half: same room angle but wall in deep teal, premium satin sheen catching warm light, the room feels transformed and intentional. Strong vertical red dividing line between the two. 4:5 portrait. Cinematic grading. No text, no logos.",
+    "text_overlay": {
+      "myth": "MYTH:\nBold colours are\ntoo risky.",
+      "reality": "REALITY:\nPlaying safe is\nthe real risk.",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "The most common regret we hear from clients is not about going too bold.\n\nIt is about staying too safe.\n\nA room painted in the right bold shade — properly applied, right finish, right light — is not a risk. It is a decision that pays for itself every time someone walks in.\n\nWhich would you choose? Tell us in the comments.",
+    "hashtags": "#makshangpaints #boldcolours #accentwall #interiordesign #mythvsreality #tealpaint #tealblast #asianpaints #homedesign #colourchoice #ukhrulhomes #premiumpainting",
+    "posted": false
+  },
+  {
+    "slot": 13,
+    "day": 5,
+    "post_number": 13,
+    "type": "shade_spotlight",
+    "shade": "Teal Blast",
+    "shade_code": "7503",
+    "product": "Asian Paints Royale Shyne",
+    "image_prompt": "Product photography of a single rolled velvet fabric swatch in deep teal, placed on a warm neutral surface. A small piece of polished amazonite stone rests against the roll on the left. Soft directional studio light from upper left revealing the pile texture of the velvet. Background warm cream, slightly blurred. Shot on 85mm, f/2.8. Warm editorial grading. 4:5 portrait. No text, no numbers, no labels in the image.",
+    "text_overlay": {
+      "shade_name": "TEAL BLAST",
+      "shade_code": "7503",
+      "product_line": "Asian Paints Royale Shyne",
+      "descriptor": "The shade that stops people\nmid-sentence when they\nwalk into a room.",
+      "brand": "MAK-SHANG PAINTS · UKHRUL"
+    },
+    "caption": "Not every shade announces itself. Teal Blast does not need to.\n\nIt simply occupies the room with a confidence that makes everything around it — the furniture, the lighting, the art — look more considered.\n\nAsian Paints Royale Shyne · Code 7503\nApplied by MAK-SHANG, Ukhrul.\n\nSave this shade. You will come back to it.",
+    "hashtags": "#makshangpaints #tealblast #asianpaintsroyale #tealwall #accentwall #interiordesign #shadespotlight #royaleshyne #boldinteriors #ukhrulhomes #manipurinteriors #premiumpainting",
+    "posted": false
+  },
+  {
+    "slot": 14,
+    "day": 5,
+    "post_number": 14,
+    "type": "colour_mood",
+    "shade": "Nickel Grey",
+    "shade_code": "6126",
+    "product": "Asian Paints Berger",
+    "image_prompt": "Editorial interior photograph of a premium Indian bedroom. Walls in warm neutral grey, premium satin sheen visible where morning light enters from a large window right. Sophisticated staging — white linen bedding, two terracotta accent pillows, natural oak nightstand, one trailing plant. Shot on 50mm, f/4 medium format. Warm film grading, slightly lifted blacks, genuine luxury feel. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "mood_name": "QUIET LUXURY",
+      "shade_name": "Nickel Grey",
+      "shade_code": "6126 · Asian Paints Berger",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "Quiet luxury does not shout. It simply makes everything around it look more expensive.\n\nNickel Grey does exactly that — a warm-neutral grey that disappears into the room until the light changes, and then it becomes the room.\n\nAsian Paints Berger · Code 6126\nApplied by MAK-SHANG, Ukhrul.\n\nShare this with someone redesigning their bedroom.",
+    "hashtags": "#makshangpaints #quietluxury #nickelgrey #asianpaints #bergerpaints #greywall #bedroomdesign #neutralinterior #premiumfinish #ukhrulhomes #manipurinteriors #luxurypainting",
+    "posted": false
+  },
+  {
+    "slot": 15,
+    "day": 5,
+    "post_number": 15,
+    "type": "checklist",
+    "shade": "Terracotta-N",
+    "shade_code": "427",
+    "product": "Asian Paints Royale",
+    "image_prompt": "Dark editorial interior photograph. Warm terracotta accent wall filling majority of frame, premium satin sheen catching a single dramatic warm spotlight from above right. The light creates a rich pool on the surface revealing the depth and quality of the earthy colour. Dark polished floor reflecting the warm light. Cinematic, film noir feel but warm. Shot on 50mm f/2.8. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "headline": "5 SIGNS YOUR\nPAINTER IS\nCUTTING CORNERS",
+      "items": [
+        "01  Skipping primer on fresh plaster",
+        "02  Single coat, calling it done",
+        "03  Painting over damp walls",
+        "04  No sanding between coats",
+        "05  Rushing dry time"
+      ],
+      "badge": "KNOW BEFORE YOU HIRE",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "Every one of these shortcuts costs you money — either in a repaint within 2 years, or in a finish that never looks quite right.\n\nAt MAK-SHANG we do not cut corners. Not because we cannot, but because a wall we leave behind is a reference. Every single one.\n\nShare this with someone hiring a painter soon.",
+    "hashtags": "#makshangpaints #hiringpainter #paintingtips #paintingmistakes #homeimprovement #qualitypainting #paintprep #asianpaints #ukhrulhomes #paintadvice #paintcontractor #beforpaininting",
+    "posted": false
+  },
+  {
+    "slot": 16,
+    "day": 6,
+    "post_number": 16,
+    "type": "myth_reality",
+    "shade": "Honey Mustard",
+    "shade_code": "7880",
+    "product": "Asian Paints Royale Shyne",
+    "image_prompt": "Editorial split composition interior. Left half: a room with cheap flat paint, streaky application, slightly uneven colour, matte surface looking dull under standard lighting. Right half: same room with premium Royale Shyne application, smooth luminous satin surface catching warm light beautifully, professional finish clearly visible. Strong red vertical dividing line. Warm cinematic grading overall. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "myth": "MYTH:\nExpensive paint is\na luxury.",
+      "reality": "REALITY:\nCheap paint is the\nluxury of repainting\nevery 2 years.",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "The cheapest paint job is never the cheapest option.\n\nPremium paint — properly primed, correctly applied, right finish for the room — lasts 6 to 8 years. Budget paint on a poor prep surface might need attention in 18 months.\n\nThe math is not complicated. The right choice is not expensive. Doing it twice is.\n\nSave this the next time someone gives you a suspiciously cheap quote.",
+    "hashtags": "#makshangpaints #mythvsreality #paintadvice #qualitypaint #asianpaintsroyale #homepaintingindia #paintingcost #premiumpainting #royaleshyne #ukhrulhomes #manipurhomes #smartrenovation",
+    "posted": false
+  },
+  {
+    "slot": 17,
+    "day": 6,
+    "post_number": 17,
+    "type": "makshang_standard",
+    "shade": null,
+    "shade_code": null,
+    "product": null,
+    "image_prompt": "Pure black background. Minimal. 4:5 portrait.",
+    "text_overlay": {
+      "quote": "Every wall we leave behind\nis a reference.\nWe treat it that way.",
+      "attribution": "— MAK-SHANG PAINTS",
+      "subtext": "Ukhrul · Manipur",
+      "brand": "MAK-SHANG"
+    },
+    "caption": "We do not think about how a job looks when we hand it over.\n\nWe think about how it looks in three years, when the client's cousin visits and asks who did the work.\n\nThat is the standard we paint to. Every project.\n\nMAK-SHANG Paints · Ukhrul, Manipur.\nFollow for the MAK-SHANG Standard.",
+    "hashtags": "#makshangpaints #paintingstandards #craftmanship #qualitypainting #ukhrul #manipur #northeastindia #homepaintingindia #asianpaints #paintingstudio #premiumpainting #referralready",
+    "posted": false
+  },
+  {
+    "slot": 18,
+    "day": 6,
+    "post_number": 18,
+    "type": "pro_tip",
+    "shade": "Deep Sea Blue",
+    "shade_code": "9159",
+    "product": "Asian Paints Royale",
+    "image_prompt": "Extreme macro photograph of a freshly applied paint surface in deep navy blue. The paint is wet — a soft wet sheen visible across the entire surface. A roller mark texture is visible, showing the application. Strong raking light from the left revealing the surface topography. The boundary between a wet painted section and an unpainted section runs diagonally through the frame. 100mm macro, f/8. Deep rich grading, navy saturated. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "line1": "THE PAINT DRIES",
+      "line2": "IN 4 HOURS.",
+      "line3": "THE FINISH CURES",
+      "line4": "IN 14 DAYS.",
+      "subtext": "Do not hang anything before that.\nDo not wipe it before that.",
+      "badge": "PRO TIP",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "This is the most misunderstood timeline in home painting.\n\nDry means touch-dry — you can apply the next coat. Cure means fully hardened — the surface can take impact, friction, and cleaning without damage.\n\nMost people hang frames, place furniture against walls, and start wiping surfaces within days of painting. The result: marks, scuffs, and peeling that look like a bad paint job. It was not the paint. It was the timing.\n\nSave this. Share it with whoever just got their home painted.",
+    "hashtags": "#makshangpaints #paintingtips #paintcuring #drytime #curetime #homepaintindia #paintadvice #asianpaints #ukhrulhomes #paintpro #interiorcare #royalepaint",
+    "posted": false
+  },
+  {
+    "slot": 19,
+    "day": 7,
+    "post_number": 19,
+    "type": "checklist",
+    "shade": "Buttercup N",
+    "shade_code": "0336",
+    "product": "Asian Paints Royale Shyne",
+    "image_prompt": "Bright editorial interior photograph. Warm yellow wall filling the left two-thirds of the frame, premium satin finish with a beautiful warm sheen catching bright morning daylight from a large window on the right. The light falls across the wall in a gentle gradient. Minimal room — clean white floor, simple wooden element in the lower right corner. Shot on 50mm f/5.6, everything sharp. Honest warm grading. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "headline": "CHOOSING YOUR\nWALL COLOUR:\n5 QUESTIONS\nTO ASK FIRST",
+      "items": [
+        "01  Which direction does the room face?",
+        "02  What is the main light source?",
+        "03  What finish suits this room's use?",
+        "04  What stays — floor, furniture, wood?",
+        "05  How will this read in 5 years?"
+      ],
+      "badge": "BEFORE YOU DECIDE",
+      "brand": "MAK-SHANG PAINTS · UKHRUL"
+    },
+    "caption": "The colour you love on a swatch card can look completely different on your wall.\n\nBefore you choose, answer these five questions. They will save you from the most common — and most expensive — mistake in home painting: choosing the wrong colour for the wrong room.\n\nAt MAK-SHANG we run through all five before we recommend a single shade.\n\nSave this checklist. Your future self will thank you.",
+    "hashtags": "#makshangpaints #colourchoice #paintingadvice #choosingpaintcolour #homepaintindia #interiordesign #paintconsultation #asianpaints #ukhrulhomes #manipurhomes #colourguide #paintingtips",
+    "posted": false
+  },
+  {
+    "slot": 20,
+    "day": 7,
+    "post_number": 20,
+    "type": "shade_spotlight",
+    "shade": "Terracotta-N",
+    "shade_code": "427",
+    "product": "Asian Paints Royale",
+    "image_prompt": "Product photography of a single rolled velvet fabric swatch in rich earthy terracotta, placed on a warm stone surface. A small unglazed clay pot and a dried flower rest against the roll on the left. Soft warm directional light from upper left revealing velvet pile texture. Background warm sand, soft bokeh. Shot on 85mm f/2.8. Warm golden grading. 4:5 portrait. No text, no numbers, no labels.",
+    "text_overlay": {
+      "shade_name": "TERRACOTTA-N",
+      "shade_code": "427",
+      "product_line": "Asian Paints Royale",
+      "descriptor": "Older than every trend\nthat has ever borrowed it.\nAnd still here.",
+      "brand": "MAK-SHANG PAINTS · UKHRUL"
+    },
+    "caption": "Terracotta is not a trend. It is a material memory — of clay walls, fired earth, the colour of every handmade thing made before industrial paint existed.\n\nWhat 2026 calls a colour trend, this region has known for generations.\n\nAsian Paints Royale · Code 427\nApplied by MAK-SHANG, Ukhrul — where this colour belongs.\n\nSave this for your next kitchen or dining room project.",
+    "hashtags": "#makshangpaints #terracottaN #asianpaints #terracottawall #earthyinteriors #indianhomes #classiccolour #royalepaint #ukhrulhomes #manipurinteriors #shadespotlight #timelessdesign",
+    "posted": false
+  },
+  {
+    "slot": 21,
+    "day": 7,
+    "post_number": 21,
+    "type": "colour_mood",
+    "shade": "Deep Sea Blue",
+    "shade_code": "9159",
+    "product": "Asian Paints Royale",
+    "image_prompt": "Editorial interior photograph of a modern Indian study or home office. Feature wall in rich deep navy blue, premium satin sheen catching the warm glow of a desk lamp. Minimal styling — a dark wood desk, one simple task lamp, a single framed artwork on the navy wall (abstract, dark). The room feels focused, intentional, premium. Shot on 35mm f/2.8, evening interior light. Moody cinematic grading, deep shadows retained. 4:5 portrait. No text, no logos.",
+    "text_overlay": {
+      "mood_name": "DEEP FOCUS",
+      "shade_name": "Deep Sea Blue",
+      "shade_code": "9159 · Royale",
+      "brand": "MAK-SHANG PAINTS"
+    },
+    "caption": "A study should feel like the room takes you seriously.\n\nDeep Sea Blue on a feature wall does exactly that — it creates a backdrop that signals focus without feeling cold, depth without feeling heavy.\n\nThe best rooms for work are not the brightest ones. They are the most considered ones.\n\nAsian Paints Royale · Code 9159 · Applied by MAK-SHANG, Ukhrul.\n\nShare this with someone building their home office.",
+    "hashtags": "#makshangpaints #deepseablue #homeoffice #studyroom #asianpaints #navyblue #accentwall #royalepaint #focusroom #interiordesign #ukhrulhomes #manipurinteriors",
+    "posted": false
+  }
+]

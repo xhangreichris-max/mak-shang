@@ -1,13 +1,13 @@
-name: Evening — Publish Slot 3 + Rotation Log
+name: Post — Midday Queue Run
 
-# ~7:17 PM IST target = 1:47 PM UTC (odd offset reduces queue contention)
+# ~1:17 PM IST target = 7:47 AM UTC
 on:
   schedule:
-    - cron: '47 13 * * *'
+    - cron: '47 7 * * *'
   workflow_dispatch:
 
 jobs:
-  evening-run:
+  post-run:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -47,14 +47,5 @@ jobs:
       - name: Install Puppeteer browser
         run: npx puppeteer browsers install chrome
 
-      - name: Render + upload + publish slot 3 (+ write rotation log)
-        run: python tools/run_slot.py 3
-
-      - name: Commit all updated state files
-        run: |
-          git config user.name "MAK-SHANG Bot"
-          git config user.email "actions@github.com"
-          git add content_today.json archetype-rotation-log.json trend-topic-log.json published/
-          git diff --staged --quiet || git commit -m "chore: daily run complete [skip ci]"
-          git pull --rebase origin main
-          git push
+      - name: Run queue
+        run: python tools/run_queue.py
