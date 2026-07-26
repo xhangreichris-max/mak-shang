@@ -26,7 +26,7 @@
   },
   {
     "slot": 2,
-    "published": false,
+    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "Linde table and chair by OUT",
@@ -34,7 +34,13 @@
     "date": "2026-07-26",
     "caption": "Here's a common myth we hear: a room refresh requires buying all new furniture. Many homeowners delay painting because they feel they need a designer sofa or imported chairs to \"do it properly.\" This couldn't be further from the truth.\n\nThe reality is that a strategic paint palette is the single most powerful tool for transforming a space and making your existing furniture look more intentional and cohesive. The right wall colour can highlight the beautiful lines of an old wooden chair, or provide a neutral backdrop that makes a collection of different pieces feel harmonious. It's about creating a canvas that celebrates what you own, not replacing it. Good design isn't about expensive objects; it's about thoughtful choices. Colour is the most effective choice you can make.\n\nThinking about how to make your current furniture shine? Share this with someone who needs a little encouragement to start their project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "An inviting living room in a modern Tangkhul Naga home in Ukhrul. The walls are painted a warm, bone-white (#F4F0E8). Golden hour light streams through a window, illuminating a mix of old and new furniture: a comfortable, slightly worn armchair next to a sleek, minimalist side table. On the wall, a piece of locally woven textile art hangs. The atmosphere is warm, lived-in, and stylish, showing how great paint unifies diverse pieces. Composition is a 4:5 portrait."
+    "image_prompt": "An inviting living room in a modern Tangkhul Naga home in Ukhrul. The walls are painted a warm, bone-white (#F4F0E8). Golden hour light streams through a window, illuminating a mix of old and new furniture: a comfortable, slightly worn armchair next to a sleek, minimalist side table. On the wall, a piece of locally woven textile art hangs. The atmosphere is warm, lived-in, and stylish, showing how great paint unifies diverse pieces. Composition is a 4:5 portrait.",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260726_2_myth-buster.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260726_2_myth-buster.png",
+    "publish_result": {
+      "instagram": "18018906668704557",
+      "facebook": "122120252877358084"
+    }
   },
   {
     "slot": 3,
