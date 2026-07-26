@@ -78,8 +78,18 @@ def _wait_for_url(url, timeout=180, interval=10):
     return False
 
 
+def _ensure_git_identity():
+    # GitHub Actions runners have no git user.name/email configured by default,
+    # which makes `git commit` fail silently into the except block below. Only
+    # set this in CI so a local manual run keeps the operator's own identity.
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        subprocess.run(["git", "config", "user.email", "actions@users.noreply.github.com"], cwd=PIPELINE_DIR, check=True)
+        subprocess.run(["git", "config", "user.name", "MAK-SHANG Queue Bot"], cwd=PIPELINE_DIR, check=True)
+
+
 def _commit_queue(slot):
     try:
+        _ensure_git_identity()
         subprocess.run(["git", "add", "queue.json"], cwd=PIPELINE_DIR, check=True)
         staged = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=PIPELINE_DIR)
         if staged.returncode == 0:
