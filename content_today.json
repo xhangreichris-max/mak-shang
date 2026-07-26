@@ -2,109 +2,77 @@
   {
     "slot": 1,
     "published": true,
-    "archetype": "Comparison",
-    "output_format": "swatch_grid",
-    "source_title": "Eight products that weld thoughtful design with metal materiality",
-    "source_url": "https://www.dezeen.com/2026/07/24/seating-storage-lighting-tables-aluminium-stainless-steel-dezeen-showroom/",
-    "date": "2026-07-25",
-    "caption": "The right metallic finish can bring a subtle strength or a bold statement to your home. It's not just for gates and grills anymore. We're seeing metal tones used thoughtfully on accent walls, furniture details, and even ceiling features to add depth and a touch of modern craft. In Ukhrul, where natural materials like wood and stone are common, a metallic accent can create a beautiful contrast.\n\nThink about the light in your space. A warm antique gold or polished copper can catch the afternoon sun beautifully, while a cooler silver or gunmetal grey offers a more understated, industrial feel. The key is balance. At MAK-SHANG, we often recommend using these finishes to highlight architectural details rather than covering large areas. It's about precision and impact. We work with trusted product lines like Asian Paints Royale Play to ensure the finish is not only beautiful but also durable.\n\nReady to explore a metallic finish? Save this guide for your next project.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintfinish #matte #satin #gloss @asianpaints #RoyalePlay",
-    "infographic_data": {
-      "format": "swatch_grid",
-      "title_main": "Metal Finishes Reimagined",
-      "title_span": "Metal",
-      "subtitle": "Choosing the right metallic tone for gates, accents, and features.",
-      "badge": "🎨 SHADE GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "source": "Source: Asian Paints Royale Play | @makshangpaints",
-      "swatches": [
-        {
-          "color_hex": "#A9A9A9",
-          "label": "Silver Sheen",
-          "sublabel": "M001 · Royale Play"
-        },
-        {
-          "color_hex": "#B87333",
-          "label": "Polished Copper",
-          "sublabel": "M003 · Royale Play"
-        },
-        {
-          "color_hex": "#D4AF37",
-          "label": "Antique Gold",
-          "sublabel": "M7318 · Royale Play"
-        },
-        {
-          "color_hex": "#4C4E52",
-          "label": "Gunmetal Grey",
-          "sublabel": "M7249 · Royale Play"
-        }
-      ],
-      "footnote": "Shades shown are indicative; screen colours may vary from actual paint."
+    "archetype": "Trend Spotlight",
+    "output_format": "swatch_overlay",
+    "source_title": "9 Best Bathroom Trays That Are Stylish Storage Solutions (2026)",
+    "source_url": "https://www.architecturaldigest.com/story/best-bathroom-tray",
+    "date": "2026-07-26",
+    "caption": "A perfectly painted bathroom deserves details that complete the story. The latest trend isn't a tile or a fixture, but a thoughtful styling element: the bathroom tray. It’s a simple addition that groups your daily essentials into a composed, intentional display. Instead of clutter, you get a calm, collected vignette.\n\nImagine this against a backdrop of soft, restorative colour. We're seeing a move towards shades that feel like a sanctuary, colors that turn a functional room into a personal spa. A well-chosen tray in natural wood, stone, or a simple ceramic can anchor these serene palettes, proving that the final 5% of a design is what makes it feel truly finished. It’s not just about storage; it’s about creating a moment of peace in your routine.\n\nReady to rethink your bathroom details? Save this post for inspiration on your next refresh.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
+    "image_prompt": "An editorial photograph of a modern, minimalist bathroom in a home in Ukhrul, Manipur. The walls are painted a soft, serene blue-green. Natural light streams in from a window, highlighting a beautiful wooden tray on the bathroom counter. On the tray are a few curated items: a ceramic soap dispenser, a small plant, and an amber glass bottle. The feeling is calm, clean, and spa-like. 4:5 portrait composition.",
+    "overlay_data": {
+      "color_hex": "#B0C4B1",
+      "color_name": "Monsoon Sage",
+      "color_ref": "MS-SG-12",
+      "headline": "THE FINAL 5 PERCENT",
+      "footer_handle": "@makshangpaints"
     },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_grid_20260725_1_comparison.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_grid_20260725_1_comparison.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260726_1_trend-spotlight.png",
+    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260726_1_trend-spotlight.png",
     "publish_result": {
-      "instagram": "18452268865139456",
+      "instagram": "18122183719695413",
       "facebook": null
     }
   },
   {
     "slot": 2,
-    "published": true,
-    "archetype": "Local Adaptation",
-    "output_format": "before_after",
-    "source_title": "Inside This Austin Home Where the Interiors Are Equal Parts Personal and Museum Worthy",
-    "source_url": "https://www.architecturaldigest.com/story/suzanne-mcfayden-austin-home-by-jennifer-vaughn-miller-and-paul-lamb",
-    "date": "2026-07-25",
-    "caption": "We often see stunning, museum-like homes in international magazines and wonder how to bring that feeling home without it feeling cold or out of place. The secret isn't about buying expensive art; it's about treating your own cherished items with the same respect. A blank wall is just a surface, but with the right color, it becomes the perfect canvas for your story.\n\nImagine a space that honours our local craftsmanship. The right shade of warm off-white or a deep, muted earth tone can make a Tangkhul textile or a piece of handcrafted pottery the hero of the room. It’s a design language that speaks of international sensibility but is rooted right here in Ukhrul. It’s not about recreating a home from Austin; it’s about adapting the principle of a 'personal gallery' to celebrate what is meaningful to us. This is how a house truly becomes a home, reflecting the lives and heritage within.\n\nShare this with someone who loves and collects local art.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #ukhrulhomes #manipurdesign",
-    "image_prompt": "An editorial photograph of a living room in a modern Ukhrul home. The walls are painted a deep, warm, bone-white (#F4F0E8). The room is filled with natural, golden hour light. On the main wall hangs a large, beautifully framed Tangkhul Naga textile with intricate patterns. Below it sits a simple, dark wood console table. To the side, a comfortable armchair upholstered in handwoven fabric. The overall feel is serene, personal, and artistic, showcasing local craft in a contemporary, gallery-like setting. 4:5 portrait aspect ratio.",
-    "before_after_data": {
-      "headline": "From Blank Wall to *Personal Gallery*",
-      "headline_accent": "Personal Gallery",
-      "footer_handle": "@makshangpaints",
-      "footer_tagline": "MAK-SHANG Paints · Ukhrul"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/before_after_20260725_2_local-adaptation.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/before_after_20260725_2_local-adaptation.png",
-    "publish_result": {
-      "instagram": "18070671845426370",
-      "facebook": "122120028285358084"
-    }
+    "published": false,
+    "archetype": "Myth Buster",
+    "output_format": "ai_image",
+    "source_title": "Linde table and chair by OUT",
+    "source_url": "https://www.dezeen.com/2026/07/24/linde-table-chair-out-dezeen-showroom/",
+    "date": "2026-07-26",
+    "caption": "Here's a common myth we hear: a room refresh requires buying all new furniture. Many homeowners delay painting because they feel they need a designer sofa or imported chairs to \"do it properly.\" This couldn't be further from the truth.\n\nThe reality is that a strategic paint palette is the single most powerful tool for transforming a space and making your existing furniture look more intentional and cohesive. The right wall colour can highlight the beautiful lines of an old wooden chair, or provide a neutral backdrop that makes a collection of different pieces feel harmonious. It's about creating a canvas that celebrates what you own, not replacing it. Good design isn't about expensive objects; it's about thoughtful choices. Colour is the most effective choice you can make.\n\nThinking about how to make your current furniture shine? Share this with someone who needs a little encouragement to start their project.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
+    "image_prompt": "An inviting living room in a modern Tangkhul Naga home in Ukhrul. The walls are painted a warm, bone-white (#F4F0E8). Golden hour light streams through a window, illuminating a mix of old and new furniture: a comfortable, slightly worn armchair next to a sleek, minimalist side table. On the wall, a piece of locally woven textile art hangs. The atmosphere is warm, lived-in, and stylish, showing how great paint unifies diverse pieces. Composition is a 4:5 portrait."
   },
   {
     "slot": 3,
     "published": false,
-    "archetype": "Before You Paint",
+    "archetype": "Cost & Care Guide",
     "output_format": "infographic",
-    "source_title": "7 Best Loft Beds to Double Your Functional Living Space (2026",
-    "source_url": "https://www.architecturaldigest.com/story/very-best-loft-beds",
-    "date": "2026-07-25",
-    "caption": "Making the most of a compact room with clever furniture like loft beds or built-in storage is a great idea. But a common mistake is leaving the painting as an afterthought. To get a truly professional and lasting finish, the walls need to be considered long before the first piece of furniture is assembled.\n\nPainting an empty room is always easier and yields a better result. You can ensure complete coverage, especially in corners and behind areas that will soon be inaccessible. It’s also the perfect time to choose a finish that can handle the wear and tear of a high-traffic or multi-use space. A satin or semi-gloss finish near a desk or bed area, for instance, is much easier to clean. More importantly, allowing the paint to fully cure (which can take days or even weeks) before installing heavy furniture against it prevents scuffs, marks, and peeling. Planning ahead saves you headaches later.\n\nSave this checklist for your next room makeover.",
-    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintingtips #DIYpainting",
+    "source_title": "Seven British dormer extensions that take design to another level",
+    "source_url": "https://www.dezeen.com/2026/07/25/british-dormer-extensions-design-another-level/",
+    "date": "2026-07-26",
+    "caption": "How long should your exterior paint really last in Ukhrul's climate? The sun and heavy monsoon rains can be demanding on any finish. While high-quality paint is the foundation, regular maintenance is what truly determines its lifespan.\n\nIgnoring small issues like minor cracks or peeling can lead to much bigger problems down the line, as moisture gets trapped behind the paint film and damages the underlying surface. A quick annual inspection and touch-up can dramatically extend the life of your paint job, often doubling it from three years to six or more before a full repaint is needed. This proactive approach saves significant cost and protects your home's structure. It's not just about aesthetics; it's about preservation and getting the most value from your initial investment.\n\nSave this guide before you plan your next exterior painting project. It’s a simple checklist for long-term protection.",
+    "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
     "infographic_data": {
-      "format": "hero_number",
-      "title_main": "Painting for Small Spaces",
-      "title_span": "Small Spaces",
-      "subtitle": "Planning your paint before installing large furniture makes all the difference.",
-      "badge": "✅ BEFORE YOU PAINT",
+      "format": "ranked_bars",
+      "title_main": "EXTERIOR PAINT LIFESPAN",
+      "title_span": "LIFESPAN",
+      "subtitle": "How often to repaint in a high-rainfall climate like Ukhrul's.",
+      "badge": "🎨 PAINT GUIDE",
       "date_label": "MAK-SHANG 2026",
-      "hero_number": "5",
-      "hero_label": "steps for a smarter finish",
-      "checklist": [
-        "Choose a color palette first",
-        "Paint behind where furniture will sit",
-        "Consider the final lighting plan",
-        "Select a durable, scuff-resistant finish",
-        "Allow paint to fully cure before install"
-      ],
-      "source": "Source: MAK-SHANG Paints | @makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260725_3_before-you-paint.png",
-    "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260725_3_before-you-paint.png",
-    "publish_result": {
-      "instagram": null,
-      "facebook": null
+      "takeaway_num": "2x",
+      "takeaway_text": "longer life with annual cleaning and minor touch-ups.",
+      "source": "Source: MAK-SHANG Paints | @makshangpaints",
+      "bars": [
+        {
+          "label": "Premium Exterior Emulsion (with annual care)",
+          "value": "6–8 years",
+          "color": "#E02020"
+        },
+        {
+          "label": "Standard Exterior Emulsion (no maintenance)",
+          "value": "2–3 years",
+          "color": "#0A0A0A"
+        },
+        {
+          "label": "Exterior Textured Finish (with annual care)",
+          "value": "8–10 years",
+          "color": "#6E6E6E"
+        }
+      ]
     }
   }
 ]
