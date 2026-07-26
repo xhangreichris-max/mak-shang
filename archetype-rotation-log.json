@@ -1,62 +1,302 @@
 [
   {
-    "date": "2026-06-25",
-    "archetype": "Trend Spotlight",
-    "generated_at": "2026-06-25T12:39:35.061430Z"
-  },
-  {
-    "date": "2026-06-25",
-    "archetype": "Myth Buster",
-    "generated_at": "2026-06-25T12:39:35.061430Z"
-  },
-  {
-    "date": "2026-06-25",
-    "archetype": "Cost & Care Guide",
-    "generated_at": "2026-06-25T12:39:35.061430Z"
-  },
-  {
-    "date": "2026-06-26",
-    "archetype": "Before You Paint",
-    "generated_at": "2026-06-26T02:48:11.037534Z"
-  },
-  {
-    "date": "2026-06-26",
+    "date": "2026-07-05",
     "archetype": "Local Adaptation",
-    "generated_at": "2026-06-26T02:48:11.037534Z"
+    "generated_at": "2026-07-05T15:03:16.184377Z"
   },
   {
-    "date": "2026-06-26",
-    "archetype": "Comparison",
-    "generated_at": "2026-06-26T02:48:11.037534Z"
-  },
-  {
-    "date": "2026-06-26",
+    "date": "2026-07-05",
     "archetype": "Before You Paint",
-    "generated_at": "2026-06-26T13:22:28.305537Z"
+    "generated_at": "2026-07-05T15:03:16.184377Z"
   },
   {
-    "date": "2026-06-26",
-    "archetype": "Local Adaptation",
-    "generated_at": "2026-06-26T13:22:28.305537Z"
-  },
-  {
-    "date": "2026-06-26",
+    "date": "2026-07-05",
     "archetype": "Comparison",
-    "generated_at": "2026-06-26T13:22:28.305537Z"
+    "generated_at": "2026-07-05T15:03:16.184377Z"
   },
   {
-    "date": "2026-06-27",
+    "date": "2026-07-06",
     "archetype": "Trend Spotlight",
-    "generated_at": "2026-06-27T15:01:44.485122Z"
+    "generated_at": "2026-07-06T16:46:07.941291Z"
   },
   {
-    "date": "2026-06-27",
+    "date": "2026-07-06",
     "archetype": "Myth Buster",
-    "generated_at": "2026-06-27T15:01:44.485122Z"
+    "generated_at": "2026-07-06T16:46:07.941291Z"
   },
   {
-    "date": "2026-06-27",
+    "date": "2026-07-06",
     "archetype": "Cost & Care Guide",
-    "generated_at": "2026-06-27T15:01:44.485122Z"
+    "generated_at": "2026-07-06T16:46:07.941291Z"
+  },
+  {
+    "date": "2026-07-07",
+    "archetype": "Local Adaptation",
+    "generated_at": "2026-07-07T16:13:05.343541Z"
+  },
+  {
+    "date": "2026-07-07",
+    "archetype": "Before You Paint",
+    "generated_at": "2026-07-07T16:13:05.343541Z"
+  },
+  {
+    "date": "2026-07-07",
+    "archetype": "Comparison",
+    "generated_at": "2026-07-07T16:13:05.343541Z"
+  },
+  {
+    "date": "2026-07-08",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-08T15:55:20.622427Z"
+  },
+  {
+    "date": "2026-07-08",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-08T15:55:20.622427Z"
+  },
+  {
+    "date": "2026-07-08",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-08T15:55:20.622427Z"
+  },
+  {
+    "date": "2026-07-09",
+    "archetype": "Local Adaptation",
+    "generated_at": "2026-07-09T16:17:24.820890Z"
+  },
+  {
+    "date": "2026-07-09",
+    "archetype": "Comparison",
+    "generated_at": "2026-07-09T16:17:24.820890Z"
+  },
+  {
+    "date": "2026-07-09",
+    "archetype": "Before You Paint",
+    "generated_at": "2026-07-09T16:17:24.820890Z"
+  },
+  {
+    "date": "2026-07-10",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-10T16:07:53.871901Z"
+  },
+  {
+    "date": "2026-07-10",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-10T16:07:53.871901Z"
+  },
+  {
+    "date": "2026-07-10",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-10T16:07:53.871901Z"
+  },
+  {
+    "date": "2026-07-12",
+    "archetype": "Local Adaptation",
+    "generated_at": "2026-07-12T14:44:23.709773Z"
+  },
+  {
+    "date": "2026-07-12",
+    "archetype": "Comparison",
+    "generated_at": "2026-07-12T14:44:23.709773Z"
+  },
+  {
+    "date": "2026-07-12",
+    "archetype": "Before You Paint",
+    "generated_at": "2026-07-12T14:44:23.709773Z"
+  },
+  {
+    "date": "2026-07-13",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-13T16:14:27.523810Z"
+  },
+  {
+    "date": "2026-07-13",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-13T16:14:27.523810Z"
+  },
+  {
+    "date": "2026-07-13",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-13T16:14:27.523810Z"
+  },
+  {
+    "date": "2026-07-14",
+    "archetype": "Before You Paint",
+    "generated_at": "2026-07-14T15:12:22.225604Z"
+  },
+  {
+    "date": "2026-07-14",
+    "archetype": "Local Adaptation",
+    "generated_at": "2026-07-14T15:12:22.225604Z"
+  },
+  {
+    "date": "2026-07-14",
+    "archetype": "Comparison",
+    "generated_at": "2026-07-14T15:12:22.225604Z"
+  },
+  {
+    "date": "2026-07-15",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-15T15:13:39.812272Z"
+  },
+  {
+    "date": "2026-07-15",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-15T15:13:39.812272Z"
+  },
+  {
+    "date": "2026-07-15",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-15T15:13:39.812272Z"
+  },
+  {
+    "date": "2026-07-16",
+    "archetype": "Local Adaptation",
+    "generated_at": "2026-07-16T15:22:30.342943Z"
+  },
+  {
+    "date": "2026-07-16",
+    "archetype": "Before You Paint",
+    "generated_at": "2026-07-16T15:22:30.342943Z"
+  },
+  {
+    "date": "2026-07-16",
+    "archetype": "Comparison",
+    "generated_at": "2026-07-16T15:22:30.342943Z"
+  },
+  {
+    "date": "2026-07-17",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-17T15:03:05.755675Z"
+  },
+  {
+    "date": "2026-07-17",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-17T15:03:05.755675Z"
+  },
+  {
+    "date": "2026-07-17",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-17T15:03:05.755675Z"
+  },
+  {
+    "date": "2026-07-18",
+    "archetype": "Local Adaptation",
+    "generated_at": "2026-07-18T14:40:28.302707Z"
+  },
+  {
+    "date": "2026-07-18",
+    "archetype": "Before You Paint",
+    "generated_at": "2026-07-18T14:40:28.302707Z"
+  },
+  {
+    "date": "2026-07-18",
+    "archetype": "Comparison",
+    "generated_at": "2026-07-18T14:40:28.302707Z"
+  },
+  {
+    "date": "2026-07-19",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-19T14:42:47.686255Z"
+  },
+  {
+    "date": "2026-07-19",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-19T14:42:47.686255Z"
+  },
+  {
+    "date": "2026-07-19",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-19T14:42:47.686255Z"
+  },
+  {
+    "date": "2026-07-20",
+    "archetype": "Local Adaptation",
+    "generated_at": "2026-07-20T15:33:29.203227Z"
+  },
+  {
+    "date": "2026-07-20",
+    "archetype": "Comparison",
+    "generated_at": "2026-07-20T15:33:29.203227Z"
+  },
+  {
+    "date": "2026-07-20",
+    "archetype": "Before You Paint",
+    "generated_at": "2026-07-20T15:33:29.203227Z"
+  },
+  {
+    "date": "2026-07-21",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-21T15:26:15.542709Z"
+  },
+  {
+    "date": "2026-07-21",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-21T15:26:15.542709Z"
+  },
+  {
+    "date": "2026-07-21",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-21T15:26:15.542709Z"
+  },
+  {
+    "date": "2026-07-22",
+    "archetype": "Local Adaptation",
+    "generated_at": "2026-07-22T15:23:58.625271Z"
+  },
+  {
+    "date": "2026-07-22",
+    "archetype": "Comparison",
+    "generated_at": "2026-07-22T15:23:58.625271Z"
+  },
+  {
+    "date": "2026-07-22",
+    "archetype": "Before You Paint",
+    "generated_at": "2026-07-22T15:23:58.625271Z"
+  },
+  {
+    "date": "2026-07-23",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-23T15:37:17.916645Z"
+  },
+  {
+    "date": "2026-07-23",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-23T15:37:17.916645Z"
+  },
+  {
+    "date": "2026-07-23",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-23T15:37:17.916645Z"
+  },
+  {
+    "date": "2026-07-25",
+    "archetype": "Comparison",
+    "generated_at": "2026-07-25T14:52:19.174010Z"
+  },
+  {
+    "date": "2026-07-25",
+    "archetype": "Local Adaptation",
+    "generated_at": "2026-07-25T14:52:19.174010Z"
+  },
+  {
+    "date": "2026-07-25",
+    "archetype": "Before You Paint",
+    "generated_at": "2026-07-25T14:52:19.174010Z"
+  },
+  {
+    "date": "2026-07-26",
+    "archetype": "Trend Spotlight",
+    "generated_at": "2026-07-26T14:52:49.233214Z"
+  },
+  {
+    "date": "2026-07-26",
+    "archetype": "Myth Buster",
+    "generated_at": "2026-07-26T14:52:49.233214Z"
+  },
+  {
+    "date": "2026-07-26",
+    "archetype": "Cost & Care Guide",
+    "generated_at": "2026-07-26T14:52:49.233214Z"
   }
 ]
