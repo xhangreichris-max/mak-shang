@@ -1,7 +1,5 @@
 [
   {
-    "slot": 1,
-    "published": true,
     "archetype": "Trend Spotlight",
     "output_format": "swatch_overlay",
     "source_title": "9 Best Bathroom Trays That Are Stylish Storage Solutions (2026)",
@@ -9,24 +7,14 @@
     "date": "2026-07-26",
     "caption": "A perfectly painted bathroom deserves details that complete the story. The latest trend isn't a tile or a fixture, but a thoughtful styling element: the bathroom tray. It’s a simple addition that groups your daily essentials into a composed, intentional display. Instead of clutter, you get a calm, collected vignette.\n\nImagine this against a backdrop of soft, restorative colour. We're seeing a move towards shades that feel like a sanctuary, colors that turn a functional room into a personal spa. A well-chosen tray in natural wood, stone, or a simple ceramic can anchor these serene palettes, proving that the final 5% of a design is what makes it feel truly finished. It’s not just about storage; it’s about creating a moment of peace in your routine.\n\nReady to rethink your bathroom details? Save this post for inspiration on your next refresh.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #painttrends2026 #colortrends",
-    "image_prompt": "An editorial photograph of a modern, minimalist bathroom in a home in Ukhrul, Manipur. The walls are painted a soft, serene blue-green. Natural light streams in from a window, highlighting a beautiful wooden tray on the bathroom counter. On the tray are a few curated items: a ceramic soap dispenser, a small plant, and an amber glass bottle. The feeling is calm, clean, and spa-like. 4:5 portrait composition.",
-    "overlay_data": {
-      "color_hex": "#B0C4B1",
-      "color_name": "Monsoon Sage",
-      "color_ref": "MS-SG-12",
-      "headline": "THE FINAL 5 PERCENT",
-      "footer_handle": "@makshangpaints"
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260726_1_trend-spotlight.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/swatch_overlay_20260726_1_trend-spotlight.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/swatch_overlay_20260726_1_trend-spotlight.png",
     "publish_result": {
       "instagram": "18122183719695413",
       "facebook": null
     }
   },
   {
-    "slot": 2,
-    "published": true,
     "archetype": "Myth Buster",
     "output_format": "ai_image",
     "source_title": "Linde table and chair by OUT",
@@ -34,17 +22,14 @@
     "date": "2026-07-26",
     "caption": "Here's a common myth we hear: a room refresh requires buying all new furniture. Many homeowners delay painting because they feel they need a designer sofa or imported chairs to \"do it properly.\" This couldn't be further from the truth.\n\nThe reality is that a strategic paint palette is the single most powerful tool for transforming a space and making your existing furniture look more intentional and cohesive. The right wall colour can highlight the beautiful lines of an old wooden chair, or provide a neutral backdrop that makes a collection of different pieces feel harmonious. It's about creating a canvas that celebrates what you own, not replacing it. Good design isn't about expensive objects; it's about thoughtful choices. Colour is the most effective choice you can make.\n\nThinking about how to make your current furniture shine? Share this with someone who needs a little encouragement to start their project.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmyths #paintadvice",
-    "image_prompt": "An inviting living room in a modern Tangkhul Naga home in Ukhrul. The walls are painted a warm, bone-white (#F4F0E8). Golden hour light streams through a window, illuminating a mix of old and new furniture: a comfortable, slightly worn armchair next to a sleek, minimalist side table. On the wall, a piece of locally woven textile art hangs. The atmosphere is warm, lived-in, and stylish, showing how great paint unifies diverse pieces. Composition is a 4:5 portrait.",
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260726_2_myth-buster.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/image_20260726_2_myth-buster.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/image_20260726_2_myth-buster.png",
     "publish_result": {
       "instagram": "18018906668704557",
       "facebook": "122120252877358084"
     }
   },
   {
-    "slot": 3,
-    "published": true,
     "archetype": "Cost & Care Guide",
     "output_format": "infographic",
     "source_title": "Seven British dormer extensions that take design to another level",
@@ -52,36 +37,8 @@
     "date": "2026-07-26",
     "caption": "How long should your exterior paint really last in Ukhrul's climate? The sun and heavy monsoon rains can be demanding on any finish. While high-quality paint is the foundation, regular maintenance is what truly determines its lifespan.\n\nIgnoring small issues like minor cracks or peeling can lead to much bigger problems down the line, as moisture gets trapped behind the paint film and damages the underlying surface. A quick annual inspection and touch-up can dramatically extend the life of your paint job, often doubling it from three years to six or more before a full repaint is needed. This proactive approach saves significant cost and protects your home's structure. It's not just about aesthetics; it's about preservation and getting the most value from your initial investment.\n\nSave this guide before you plan your next exterior painting project. It’s a simple checklist for long-term protection.",
     "hashtags": "#interiordesign #homepainting #paintfinish #wallpaint #homedecor #interiorinspiration #homedesign #ukhrulinteriors #manipurhomes #tangkhulhomes #northeastindia #manipurinteriors #makshangpaints #paintmaintenance #paintcare",
-    "infographic_data": {
-      "format": "ranked_bars",
-      "title_main": "EXTERIOR PAINT LIFESPAN",
-      "title_span": "LIFESPAN",
-      "subtitle": "How often to repaint in a high-rainfall climate like Ukhrul's.",
-      "badge": "🎨 PAINT GUIDE",
-      "date_label": "MAK-SHANG 2026",
-      "takeaway_num": "2x",
-      "takeaway_text": "longer life with annual cleaning and minor touch-ups.",
-      "source": "Source: MAK-SHANG Paints | @makshangpaints",
-      "bars": [
-        {
-          "label": "Premium Exterior Emulsion (with annual care)",
-          "value": "6–8 years",
-          "color": "#E02020"
-        },
-        {
-          "label": "Standard Exterior Emulsion (no maintenance)",
-          "value": "2–3 years",
-          "color": "#0A0A0A"
-        },
-        {
-          "label": "Exterior Textured Finish (with annual care)",
-          "value": "8–10 years",
-          "color": "#6E6E6E"
-        }
-      ]
-    },
-    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260726_3_cost-and-care-guide.png",
     "public_image_url": "https://xhangreichris-max.github.io/mak-shang/assets/posts/infographic_20260726_3_cost-and-care-guide.png",
+    "rendered_png": "/home/runner/work/mak-shang/mak-shang/generated_images/infographic_20260726_3_cost-and-care-guide.png",
     "publish_result": {
       "instagram": "18083968205228740",
       "facebook": "122120298057358084"
