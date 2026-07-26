@@ -99,6 +99,10 @@ def _commit_queue(slot):
             ["git", "commit", "-m", f"chore: slot {slot} posted [skip ci]"],
             cwd=PIPELINE_DIR, check=True,
         )
+        # upload_to_github() commits directly to origin via the Contents API,
+        # which advances origin/main behind this runner's back mid-run — the
+        # push below would otherwise be rejected as non-fast-forward.
+        subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=PIPELINE_DIR, check=True)
         subprocess.run(["git", "push"], cwd=PIPELINE_DIR, check=True)
         print("  Committed and pushed queue.json")
     except subprocess.CalledProcessError as e:
