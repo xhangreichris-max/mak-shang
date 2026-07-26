@@ -45,6 +45,10 @@ def _load_env():
 def _graph_post(url, params):
     data = urllib.parse.urlencode(params).encode("utf-8")
     req = urllib.request.Request(url, data=data, method="POST")
+    # Without an explicit charset, the IG /media endpoint has decoded this
+    # body as Latin-1 instead of UTF-8, mangling em dashes/curly quotes in
+    # the caption (observed: "—" became "â€"" in the published caption).
+    req.add_header("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8")
     try:
         with urllib.request.urlopen(req, context=ctx, timeout=30) as r:
             return json.loads(r.read().decode("utf-8"))

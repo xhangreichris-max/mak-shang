@@ -45,6 +45,9 @@ def _load_env():
 def _graph_post(url, params):
     data = urllib.parse.urlencode(params).encode("utf-8")
     req = urllib.request.Request(url, data=data, method="POST")
+    # Declared explicitly for consistency with post_to_instagram.py, whose
+    # endpoint mis-decoded UTF-8 as Latin-1 without this header.
+    req.add_header("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8")
     try:
         with urllib.request.urlopen(req, context=ctx, timeout=30) as r:
             return json.loads(r.read().decode("utf-8"))
